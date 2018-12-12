@@ -1,0 +1,980 @@
+2018-11-19 17:59:54.689209: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-11-19 18:00:04.479032: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 0 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:05:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-11-19 18:00:04.617486: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 1 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:06:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-11-19 18:00:04.743647: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 2 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:84:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-11-19 18:00:04.887233: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 3 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:85:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-11-19 18:00:04.888044: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1490] Adding visible gpu devices: 0, 1, 2, 3
+2018-11-19 18:00:06.042087: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-11-19 18:00:06.042133: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977]      0 1 2 3 
+2018-11-19 18:00:06.042141: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0:   N Y N N 
+2018-11-19 18:00:06.042146: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 1:   Y N N N 
+2018-11-19 18:00:06.042150: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 2:   N N N Y 
+2018-11-19 18:00:06.042154: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 3:   N N Y N 
+2018-11-19 18:00:06.043012: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 10759 MB memory) -> physical GPU (device: 0, name: Tesla K80, pci bus id: 0000:05:00.0, compute capability: 3.7)
+2018-11-19 18:00:06.141114: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 10759 MB memory) -> physical GPU (device: 1, name: Tesla K80, pci bus id: 0000:06:00.0, compute capability: 3.7)
+2018-11-19 18:00:06.239421: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 10759 MB memory) -> physical GPU (device: 2, name: Tesla K80, pci bus id: 0000:84:00.0, compute capability: 3.7)
+2018-11-19 18:00:06.356975: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 10759 MB memory) -> physical GPU (device: 3, name: Tesla K80, pci bus id: 0000:85:00.0, compute capability: 3.7)
+]0;IPython: deepdrug/scriptstraining finished for epoch  1
+Epoch: 1 batch:  1 cost = 61.66376  test accuracy: 0.932
+[[3760  229]
+ [  49   58]]
+Epoch: 1 batch:  2 cost = 61.66376  test accuracy: 0.927
+[[3737  239]
+ [  58   62]]
+Epoch: 1 batch:  3 cost = 61.66376  test accuracy: 0.927
+[[3716  231]
+ [  70   79]]
+Epoch: 1 batch:  4 cost = 61.66376  test accuracy: 0.927
+[[3714  232]
+ [  65   85]]
+Epoch: 1 batch:  5 cost = 61.66376  test accuracy: 0.939
+[[3784  193]
+ [  57   62]]
+Epoch: 1 batch:  6 cost = 61.66376  test accuracy: 0.935
+[[3760  209]
+ [  57   70]]
+training finished for epoch  2
+Epoch: 2 batch:  1 cost = 52.72607  test accuracy: 0.964
+[[3943   46]
+ [ 102    5]]
+Epoch: 2 batch:  2 cost = 52.72607  test accuracy: 0.962
+[[3930   46]
+ [ 108   12]]
+Epoch: 2 batch:  3 cost = 52.72607  test accuracy: 0.955
+[[3893   54]
+ [ 131   18]]
+Epoch: 2 batch:  4 cost = 52.72607  test accuracy: 0.957
+[[3906   40]
+ [ 136   14]]
+Epoch: 2 batch:  5 cost = 52.72607  test accuracy: 0.965
+[[3944   33]
+ [ 110    9]]
+Epoch: 2 batch:  6 cost = 52.72607  test accuracy: 0.964
+[[3934   35]
+ [ 114   13]]
+training finished for epoch  3
+Epoch: 3 batch:  1 cost = 49.48373  test accuracy: 0.861
+[[3444  545]
+ [  25   82]]
+Epoch: 3 batch:  2 cost = 49.48373  test accuracy: 0.854
+[[3413  563]
+ [  36   84]]
+Epoch: 3 batch:  3 cost = 49.48373  test accuracy: 0.864
+[[3428  519]
+ [  39  110]]
+Epoch: 3 batch:  4 cost = 49.48373  test accuracy: 0.855
+[[3394  552]
+ [  41  109]]
+Epoch: 3 batch:  5 cost = 49.48373  test accuracy: 0.870
+[[3475  502]
+ [  32   87]]
+Epoch: 3 batch:  6 cost = 49.48373  test accuracy: 0.860
+[[3424  545]
+ [  28   99]]
+training finished for epoch  4
+Epoch: 4 batch:  1 cost = 46.18999  test accuracy: 0.905
+[[3625  364]
+ [  27   80]]
+Epoch: 4 batch:  2 cost = 46.18999  test accuracy: 0.895
+[[3585  391]
+ [  40   80]]
+Epoch: 4 batch:  3 cost = 46.18999  test accuracy: 0.901
+[[3587  360]
+ [  46  103]]
+Epoch: 4 batch:  4 cost = 46.18999  test accuracy: 0.899
+[[3580  366]
+ [  48  102]]
+Epoch: 4 batch:  5 cost = 46.18999  test accuracy: 0.908
+[[3638  339]
+ [  37   82]]
+Epoch: 4 batch:  6 cost = 46.18999  test accuracy: 0.905
+[[3614  355]
+ [  35   92]]
+training finished for epoch  5
+Epoch: 5 batch:  1 cost = 46.95300  test accuracy: 0.844
+[[3378  611]
+ [  26   81]]
+Epoch: 5 batch:  2 cost = 46.95300  test accuracy: 0.837
+[[3337  639]
+ [  30   90]]
+Epoch: 5 batch:  3 cost = 46.95300  test accuracy: 0.851
+[[3373  574]
+ [  37  112]]
+Epoch: 5 batch:  4 cost = 46.95300  test accuracy: 0.839
+[[3331  615]
+ [  43  107]]
+Epoch: 5 batch:  5 cost = 46.95300  test accuracy: 0.852
+[[3401  576]
+ [  30   89]]
+Epoch: 5 batch:  6 cost = 46.95300  test accuracy: 0.848
+[[3374  595]
+ [  27  100]]
+training finished for epoch  6
+Epoch: 6 batch:  1 cost = 45.37239  test accuracy: 0.938
+[[3794  195]
+ [  58   49]]
+Epoch: 6 batch:  2 cost = 45.37239  test accuracy: 0.933
+[[3768  208]
+ [  68   52]]
+Epoch: 6 batch:  3 cost = 45.37239  test accuracy: 0.936
+[[3773  174]
+ [  89   60]]
+Epoch: 6 batch:  4 cost = 45.37239  test accuracy: 0.938
+[[3775  171]
+ [  82   68]]
+Epoch: 6 batch:  5 cost = 45.37239  test accuracy: 0.944
+[[3809  168]
+ [  61   58]]
+Epoch: 6 batch:  6 cost = 45.37239  test accuracy: 0.942
+[[3802  167]
+ [  72   55]]
+training finished for epoch  7
+Epoch: 7 batch:  1 cost = 45.25883  test accuracy: 0.937
+[[3791  198]
+ [  61   46]]
+Epoch: 7 batch:  2 cost = 45.25883  test accuracy: 0.931
+[[3765  211]
+ [  72   48]]
+Epoch: 7 batch:  3 cost = 45.25883  test accuracy: 0.931
+[[3761  186]
+ [  96   53]]
+Epoch: 7 batch:  4 cost = 45.25883  test accuracy: 0.933
+[[3757  189]
+ [  84   66]]
+Epoch: 7 batch:  5 cost = 45.25883  test accuracy: 0.942
+[[3803  174]
+ [  65   54]]
+Epoch: 7 batch:  6 cost = 45.25883  test accuracy: 0.941
+[[3802  167]
+ [  75   52]]
+training finished for epoch  8
+Epoch: 8 batch:  1 cost = 44.49756  test accuracy: 0.947
+[[3855  134]
+ [  82   25]]
+Epoch: 8 batch:  2 cost = 44.49756  test accuracy: 0.944
+[[3837  139]
+ [  90   30]]
+Epoch: 8 batch:  3 cost = 44.49756  test accuracy: 0.941
+[[3822  125]
+ [ 116   33]]
+Epoch: 8 batch:  4 cost = 44.49756  test accuracy: 0.943
+[[3816  130]
+ [ 105   45]]
+Epoch: 8 batch:  5 cost = 44.49756  test accuracy: 0.948
+[[3855  122]
+ [  89   30]]
+Epoch: 8 batch:  6 cost = 44.49756  test accuracy: 0.948
+[[3854  115]
+ [  99   28]]
+training finished for epoch  9
+Epoch: 9 batch:  1 cost = 44.35973  test accuracy: 0.923
+[[3721  268]
+ [  49   58]]
+Epoch: 9 batch:  2 cost = 44.35973  test accuracy: 0.918
+[[3700  276]
+ [  61   59]]
+Epoch: 9 batch:  3 cost = 44.35973  test accuracy: 0.920
+[[3703  244]
+ [  82   67]]
+Epoch: 9 batch:  4 cost = 44.35973  test accuracy: 0.924
+[[3707  239]
+ [  71   79]]
+Epoch: 9 batch:  5 cost = 44.35973  test accuracy: 0.931
+[[3753  224]
+ [  58   61]]
+Epoch: 9 batch:  6 cost = 44.35973  test accuracy: 0.927
+[[3727  242]
+ [  59   68]]
+training finished for epoch  10
+Epoch: 10 batch:  1 cost = 43.92301  test accuracy: 0.913
+[[3676  313]
+ [  42   65]]
+Epoch: 10 batch:  2 cost = 43.92301  test accuracy: 0.907
+[[3653  323]
+ [  57   63]]
+Epoch: 10 batch:  3 cost = 43.92301  test accuracy: 0.908
+[[3648  299]
+ [  76   73]]
+Epoch: 10 batch:  4 cost = 43.92301  test accuracy: 0.913
+[[3655  291]
+ [  64   86]]
+Epoch: 10 batch:  5 cost = 43.92301  test accuracy: 0.922
+[[3710  267]
+ [  53   66]]
+Epoch: 10 batch:  6 cost = 43.92301  test accuracy: 0.914
+[[3674  295]
+ [  56   71]]
+training finished for epoch  11
+Epoch: 11 batch:  1 cost = 40.23779  test accuracy: 0.861
+[[3449  540]
+ [  28   79]]
+Epoch: 11 batch:  2 cost = 40.23779  test accuracy: 0.856
+[[3419  557]
+ [  32   88]]
+Epoch: 11 batch:  3 cost = 40.23779  test accuracy: 0.861
+[[3424  523]
+ [  46  103]]
+Epoch: 11 batch:  4 cost = 40.23779  test accuracy: 0.860
+[[3420  526]
+ [  46  104]]
+Epoch: 11 batch:  5 cost = 40.23779  test accuracy: 0.875
+[[3502  475]
+ [  35   84]]
+Epoch: 11 batch:  6 cost = 40.23779  test accuracy: 0.865
+[[3450  519]
+ [  34   93]]
+training finished for epoch  12
+Epoch: 12 batch:  1 cost = 39.41562  test accuracy: 0.868
+[[3477  512]
+ [  28   79]]
+Epoch: 12 batch:  2 cost = 39.41562  test accuracy: 0.862
+[[3445  531]
+ [  35   85]]
+Epoch: 12 batch:  3 cost = 39.41562  test accuracy: 0.869
+[[3459  488]
+ [  49  100]]
+Epoch: 12 batch:  4 cost = 39.41562  test accuracy: 0.867
+[[3450  496]
+ [  49  101]]
+Epoch: 12 batch:  5 cost = 39.41562  test accuracy: 0.882
+[[3531  446]
+ [  37   82]]
+Epoch: 12 batch:  6 cost = 39.41562  test accuracy: 0.873
+[[3485  484]
+ [  35   92]]
+training finished for epoch  13
+Epoch: 13 batch:  1 cost = 38.87848  test accuracy: 0.870
+[[3486  503]
+ [  28   79]]
+Epoch: 13 batch:  2 cost = 38.87848  test accuracy: 0.863
+[[3453  523]
+ [  37   83]]
+Epoch: 13 batch:  3 cost = 38.87848  test accuracy: 0.871
+[[3470  477]
+ [  52   97]]
+Epoch: 13 batch:  4 cost = 38.87848  test accuracy: 0.868
+[[3456  490]
+ [  49  101]]
+Epoch: 13 batch:  5 cost = 38.87848  test accuracy: 0.883
+[[3534  443]
+ [  38   81]]
+Epoch: 13 batch:  6 cost = 38.87848  test accuracy: 0.873
+[[3484  485]
+ [  35   92]]
+training finished for epoch  14
+Epoch: 14 batch:  1 cost = 39.19688  test accuracy: 0.860
+[[3444  545]
+ [  27   80]]
+Epoch: 14 batch:  2 cost = 39.19688  test accuracy: 0.860
+[[3437  539]
+ [  35   85]]
+Epoch: 14 batch:  3 cost = 39.19688  test accuracy: 0.865
+[[3437  510]
+ [  44  105]]
+Epoch: 14 batch:  4 cost = 39.19688  test accuracy: 0.863
+[[3431  515]
+ [  47  103]]
+Epoch: 14 batch:  5 cost = 39.19688  test accuracy: 0.872
+[[3494  483]
+ [  40   79]]
+Epoch: 14 batch:  6 cost = 39.19688  test accuracy: 0.868
+[[3465  504]
+ [  35   92]]
+training finished for epoch  15
+Epoch: 15 batch:  1 cost = 38.53165  test accuracy: 0.873
+[[3499  490]
+ [  29   78]]
+Epoch: 15 batch:  2 cost = 38.53165  test accuracy: 0.871
+[[3491  485]
+ [  43   77]]
+Epoch: 15 batch:  3 cost = 38.53165  test accuracy: 0.875
+[[3485  462]
+ [  52   97]]
+Epoch: 15 batch:  4 cost = 38.53165  test accuracy: 0.872
+[[3474  472]
+ [  52   98]]
+Epoch: 15 batch:  5 cost = 38.53165  test accuracy: 0.886
+[[3554  423]
+ [  44   75]]
+Epoch: 15 batch:  6 cost = 38.53165  test accuracy: 0.878
+[[3511  458]
+ [  40   87]]
+training finished for epoch  16
+Epoch: 16 batch:  1 cost = 37.25308  test accuracy: 0.924
+[[3734  255]
+ [  58   49]]
+Epoch: 16 batch:  2 cost = 37.25308  test accuracy: 0.920
+[[3725  251]
+ [  75   45]]
+Epoch: 16 batch:  3 cost = 37.25308  test accuracy: 0.921
+[[3719  228]
+ [  95   54]]
+Epoch: 16 batch:  4 cost = 37.25308  test accuracy: 0.922
+[[3713  233]
+ [  85   65]]
+Epoch: 16 batch:  5 cost = 37.25308  test accuracy: 0.931
+[[3763  214]
+ [  69   50]]
+Epoch: 16 batch:  6 cost = 37.25308  test accuracy: 0.924
+[[3731  238]
+ [  74   53]]
+training finished for epoch  17
+Epoch: 17 batch:  1 cost = 36.45068  test accuracy: 0.924
+[[3735  254]
+ [  59   48]]
+Epoch: 17 batch:  2 cost = 36.45068  test accuracy: 0.919
+[[3719  257]
+ [  75   45]]
+Epoch: 17 batch:  3 cost = 36.45068  test accuracy: 0.920
+[[3713  234]
+ [  95   54]]
+Epoch: 17 batch:  4 cost = 36.45068  test accuracy: 0.923
+[[3712  234]
+ [  82   68]]
+Epoch: 17 batch:  5 cost = 36.45068  test accuracy: 0.931
+[[3764  213]
+ [  68   51]]
+Epoch: 17 batch:  6 cost = 36.45068  test accuracy: 0.923
+[[3728  241]
+ [  75   52]]
+training finished for epoch  18
+Epoch: 18 batch:  1 cost = 36.16375  test accuracy: 0.927
+[[3749  240]
+ [  60   47]]
+Epoch: 18 batch:  2 cost = 36.16375  test accuracy: 0.924
+[[3736  240]
+ [  73   47]]
+Epoch: 18 batch:  3 cost = 36.16375  test accuracy: 0.922
+[[3721  226]
+ [  93   56]]
+Epoch: 18 batch:  4 cost = 36.16375  test accuracy: 0.925
+[[3721  225]
+ [  83   67]]
+Epoch: 18 batch:  5 cost = 36.16375  test accuracy: 0.932
+[[3768  209]
+ [  71   48]]
+Epoch: 18 batch:  6 cost = 36.16375  test accuracy: 0.926
+[[3739  230]
+ [  75   52]]
+training finished for epoch  19
+Epoch: 19 batch:  1 cost = 35.85615  test accuracy: 0.927
+[[3751  238]
+ [  63   44]]
+Epoch: 19 batch:  2 cost = 35.85615  test accuracy: 0.924
+[[3738  238]
+ [  74   46]]
+Epoch: 19 batch:  3 cost = 35.85615  test accuracy: 0.922
+[[3720  227]
+ [  94   55]]
+Epoch: 19 batch:  4 cost = 35.85615  test accuracy: 0.924
+[[3719  227]
+ [  84   66]]
+Epoch: 19 batch:  5 cost = 35.85615  test accuracy: 0.931
+[[3768  209]
+ [  74   45]]
+Epoch: 19 batch:  6 cost = 35.85615  test accuracy: 0.924
+[[3735  234]
+ [  77   50]]
+training finished for epoch  20
+Epoch: 20 batch:  1 cost = 35.74574  test accuracy: 0.928
+[[3756  233]
+ [  63   44]]
+Epoch: 20 batch:  2 cost = 35.74574  test accuracy: 0.923
+[[3737  239]
+ [  77   43]]
+Epoch: 20 batch:  3 cost = 35.74574  test accuracy: 0.923
+[[3728  219]
+ [  96   53]]
+Epoch: 20 batch:  4 cost = 35.74574  test accuracy: 0.925
+[[3724  222]
+ [  85   65]]
+Epoch: 20 batch:  5 cost = 35.74574  test accuracy: 0.930
+[[3769  208]
+ [  77   42]]
+Epoch: 20 batch:  6 cost = 35.74574  test accuracy: 0.925
+[[3740  229]
+ [  78   49]]
+training finished for epoch  21
+Epoch: 21 batch:  1 cost = 34.94055  test accuracy: 0.916
+[[3699  290]
+ [  53   54]]
+Epoch: 21 batch:  2 cost = 34.94055  test accuracy: 0.911
+[[3679  297]
+ [  66   54]]
+Epoch: 21 batch:  3 cost = 34.94055  test accuracy: 0.913
+[[3671  276]
+ [  80   69]]
+Epoch: 21 batch:  4 cost = 34.94055  test accuracy: 0.913
+[[3668  278]
+ [  79   71]]
+Epoch: 21 batch:  5 cost = 34.94055  test accuracy: 0.925
+[[3730  247]
+ [  59   60]]
+Epoch: 21 batch:  6 cost = 34.94055  test accuracy: 0.917
+[[3694  275]
+ [  64   63]]
+training finished for epoch  22
+Epoch: 22 batch:  1 cost = 34.16913  test accuracy: 0.915
+[[3698  291]
+ [  56   51]]
+Epoch: 22 batch:  2 cost = 34.16913  test accuracy: 0.911
+[[3678  298]
+ [  66   54]]
+Epoch: 22 batch:  3 cost = 34.16913  test accuracy: 0.914
+[[3676  271]
+ [  81   68]]
+Epoch: 22 batch:  4 cost = 34.16913  test accuracy: 0.914
+[[3672  274]
+ [  77   73]]
+Epoch: 22 batch:  5 cost = 34.16913  test accuracy: 0.925
+[[3731  246]
+ [  61   58]]
+Epoch: 22 batch:  6 cost = 34.16913  test accuracy: 0.918
+[[3700  269]
+ [  66   61]]
+training finished for epoch  23
+Epoch: 23 batch:  1 cost = 33.90657  test accuracy: 0.918
+[[3709  280]
+ [  57   50]]
+Epoch: 23 batch:  2 cost = 33.90657  test accuracy: 0.913
+[[3687  289]
+ [  67   53]]
+Epoch: 23 batch:  3 cost = 33.90657  test accuracy: 0.914
+[[3681  266]
+ [  86   63]]
+Epoch: 23 batch:  4 cost = 33.90657  test accuracy: 0.915
+[[3679  267]
+ [  81   69]]
+Epoch: 23 batch:  5 cost = 33.90657  test accuracy: 0.927
+[[3740  237]
+ [  62   57]]
+Epoch: 23 batch:  6 cost = 33.90657  test accuracy: 0.921
+[[3714  255]
+ [  68   59]]
+training finished for epoch  24
+Epoch: 24 batch:  1 cost = 33.61424  test accuracy: 0.917
+[[3709  280]
+ [  58   49]]
+Epoch: 24 batch:  2 cost = 33.61424  test accuracy: 0.914
+[[3690  286]
+ [  66   54]]
+Epoch: 24 batch:  3 cost = 33.61424  test accuracy: 0.915
+[[3684  263]
+ [  85   64]]
+Epoch: 24 batch:  4 cost = 33.61424  test accuracy: 0.915
+[[3678  268]
+ [  82   68]]
+Epoch: 24 batch:  5 cost = 33.61424  test accuracy: 0.926
+[[3738  239]
+ [  64   55]]
+Epoch: 24 batch:  6 cost = 33.61424  test accuracy: 0.922
+[[3718  251]
+ [  69   58]]
+training finished for epoch  25
+Epoch: 25 batch:  1 cost = 33.42134  test accuracy: 0.916
+[[3702  287]
+ [  57   50]]
+Epoch: 25 batch:  2 cost = 33.42134  test accuracy: 0.912
+[[3678  298]
+ [  64   56]]
+Epoch: 25 batch:  3 cost = 33.42134  test accuracy: 0.912
+[[3672  275]
+ [  84   65]]
+Epoch: 25 batch:  4 cost = 33.42134  test accuracy: 0.913
+[[3668  278]
+ [  80   70]]
+Epoch: 25 batch:  5 cost = 33.42134  test accuracy: 0.924
+[[3728  249]
+ [  63   56]]
+Epoch: 25 batch:  6 cost = 33.42134  test accuracy: 0.919
+[[3707  262]
+ [  69   58]]
+training finished for epoch  26
+Epoch: 26 batch:  1 cost = 33.18446  test accuracy: 0.917
+[[3701  288]
+ [  52   55]]
+Epoch: 26 batch:  2 cost = 33.18446  test accuracy: 0.913
+[[3685  291]
+ [  66   54]]
+Epoch: 26 batch:  3 cost = 33.18446  test accuracy: 0.913
+[[3670  277]
+ [  81   68]]
+Epoch: 26 batch:  4 cost = 33.18446  test accuracy: 0.912
+[[3663  283]
+ [  76   74]]
+Epoch: 26 batch:  5 cost = 33.18446  test accuracy: 0.923
+[[3721  256]
+ [  59   60]]
+Epoch: 26 batch:  6 cost = 33.18446  test accuracy: 0.919
+[[3702  267]
+ [  65   62]]
+training finished for epoch  27
+Epoch: 27 batch:  1 cost = 32.64646  test accuracy: 0.916
+[[3698  291]
+ [  52   55]]
+Epoch: 27 batch:  2 cost = 32.64646  test accuracy: 0.914
+[[3689  287]
+ [  66   54]]
+Epoch: 27 batch:  3 cost = 32.64646  test accuracy: 0.913
+[[3670  277]
+ [  78   71]]
+Epoch: 27 batch:  4 cost = 32.64646  test accuracy: 0.913
+[[3664  282]
+ [  76   74]]
+Epoch: 27 batch:  5 cost = 32.64646  test accuracy: 0.922
+[[3718  259]
+ [  59   60]]
+Epoch: 27 batch:  6 cost = 32.64646  test accuracy: 0.919
+[[3703  266]
+ [  66   61]]
+training finished for epoch  28
+Epoch: 28 batch:  1 cost = 32.47384  test accuracy: 0.917
+[[3701  288]
+ [  52   55]]
+Epoch: 28 batch:  2 cost = 32.47384  test accuracy: 0.914
+[[3690  286]
+ [  66   54]]
+Epoch: 28 batch:  3 cost = 32.47384  test accuracy: 0.913
+[[3674  273]
+ [  84   65]]
+Epoch: 28 batch:  4 cost = 32.47384  test accuracy: 0.913
+[[3666  280]
+ [  78   72]]
+Epoch: 28 batch:  5 cost = 32.47384  test accuracy: 0.924
+[[3724  253]
+ [  59   60]]
+Epoch: 28 batch:  6 cost = 32.47384  test accuracy: 0.918
+[[3702  267]
+ [  68   59]]
+training finished for epoch  29
+Epoch: 29 batch:  1 cost = 32.30667  test accuracy: 0.917
+[[3701  288]
+ [  52   55]]
+Epoch: 29 batch:  2 cost = 32.30667  test accuracy: 0.914
+[[3691  285]
+ [  66   54]]
+Epoch: 29 batch:  3 cost = 32.30667  test accuracy: 0.914
+[[3679  268]
+ [  83   66]]
+Epoch: 29 batch:  4 cost = 32.30667  test accuracy: 0.914
+[[3671  275]
+ [  78   72]]
+Epoch: 29 batch:  5 cost = 32.30667  test accuracy: 0.924
+[[3727  250]
+ [  60   59]]
+Epoch: 29 batch:  6 cost = 32.30667  test accuracy: 0.918
+[[3700  269]
+ [  68   59]]
+training finished for epoch  30
+Epoch: 30 batch:  1 cost = 32.27251  test accuracy: 0.917
+[[3699  290]
+ [  52   55]]
+Epoch: 30 batch:  2 cost = 32.27251  test accuracy: 0.915
+[[3693  283]
+ [  66   54]]
+Epoch: 30 batch:  3 cost = 32.27251  test accuracy: 0.915
+[[3681  266]
+ [  83   66]]
+Epoch: 30 batch:  4 cost = 32.27251  test accuracy: 0.914
+[[3672  274]
+ [  78   72]]
+Epoch: 30 batch:  5 cost = 32.27251  test accuracy: 0.925
+[[3728  249]
+ [  60   59]]
+Epoch: 30 batch:  6 cost = 32.27251  test accuracy: 0.919
+[[3704  265]
+ [  68   59]]
+training finished for epoch  31
+Epoch: 31 batch:  1 cost = 32.10063  test accuracy: 0.912
+[[3677  312]
+ [  50   57]]
+Epoch: 31 batch:  2 cost = 32.10063  test accuracy: 0.907
+[[3657  319]
+ [  62   58]]
+Epoch: 31 batch:  3 cost = 32.10063  test accuracy: 0.908
+[[3646  301]
+ [  77   72]]
+Epoch: 31 batch:  4 cost = 32.10063  test accuracy: 0.907
+[[3639  307]
+ [  74   76]]
+Epoch: 31 batch:  5 cost = 32.10063  test accuracy: 0.919
+[[3701  276]
+ [  57   62]]
+Epoch: 31 batch:  6 cost = 32.10063  test accuracy: 0.913
+[[3669  300]
+ [  58   69]]
+training finished for epoch  32
+Epoch: 32 batch:  1 cost = 31.80366  test accuracy: 0.912
+[[3679  310]
+ [  50   57]]
+Epoch: 32 batch:  2 cost = 31.80366  test accuracy: 0.908
+[[3662  314]
+ [  63   57]]
+Epoch: 32 batch:  3 cost = 31.80366  test accuracy: 0.908
+[[3649  298]
+ [  77   72]]
+Epoch: 32 batch:  4 cost = 31.80366  test accuracy: 0.908
+[[3644  302]
+ [  75   75]]
+Epoch: 32 batch:  5 cost = 31.80366  test accuracy: 0.920
+[[3705  272]
+ [  56   63]]
+Epoch: 32 batch:  6 cost = 31.80366  test accuracy: 0.913
+[[3674  295]
+ [  60   67]]
+training finished for epoch  33
+Epoch: 33 batch:  1 cost = 31.63405  test accuracy: 0.913
+[[3682  307]
+ [  51   56]]
+Epoch: 33 batch:  2 cost = 31.63405  test accuracy: 0.909
+[[3667  309]
+ [  64   56]]
+Epoch: 33 batch:  3 cost = 31.63405  test accuracy: 0.909
+[[3651  296]
+ [  77   72]]
+Epoch: 33 batch:  4 cost = 31.63405  test accuracy: 0.908
+[[3646  300]
+ [  75   75]]
+Epoch: 33 batch:  5 cost = 31.63405  test accuracy: 0.921
+[[3709  268]
+ [  57   62]]
+Epoch: 33 batch:  6 cost = 31.63405  test accuracy: 0.914
+[[3678  291]
+ [  62   65]]
+training finished for epoch  34
+Epoch: 34 batch:  1 cost = 31.58746  test accuracy: 0.913
+[[3681  308]
+ [  50   57]]
+Epoch: 34 batch:  2 cost = 31.58746  test accuracy: 0.909
+[[3667  309]
+ [  63   57]]
+Epoch: 34 batch:  3 cost = 31.58746  test accuracy: 0.910
+[[3654  293]
+ [  77   72]]
+Epoch: 34 batch:  4 cost = 31.58746  test accuracy: 0.908
+[[3643  303]
+ [  75   75]]
+Epoch: 34 batch:  5 cost = 31.58746  test accuracy: 0.921
+[[3709  268]
+ [  56   63]]
+Epoch: 34 batch:  6 cost = 31.58746  test accuracy: 0.913
+[[3675  294]
+ [  62   65]]
+training finished for epoch  35
+Epoch: 35 batch:  1 cost = 31.39754  test accuracy: 0.913
+[[3681  308]
+ [  50   57]]
+Epoch: 35 batch:  2 cost = 31.39754  test accuracy: 0.909
+[[3667  309]
+ [  63   57]]
+Epoch: 35 batch:  3 cost = 31.39754  test accuracy: 0.909
+[[3652  295]
+ [  77   72]]
+Epoch: 35 batch:  4 cost = 31.39754  test accuracy: 0.907
+[[3641  305]
+ [  76   74]]
+Epoch: 35 batch:  5 cost = 31.39754  test accuracy: 0.921
+[[3708  269]
+ [  56   63]]
+Epoch: 35 batch:  6 cost = 31.39754  test accuracy: 0.913
+[[3675  294]
+ [  62   65]]
+training finished for epoch  36
+Epoch: 36 batch:  1 cost = 31.42828  test accuracy: 0.904
+[[3643  346]
+ [  47   60]]
+Epoch: 36 batch:  2 cost = 31.42828  test accuracy: 0.901
+[[3629  347]
+ [  60   60]]
+Epoch: 36 batch:  3 cost = 31.42828  test accuracy: 0.901
+[[3618  329]
+ [  76   73]]
+Epoch: 36 batch:  4 cost = 31.42828  test accuracy: 0.901
+[[3613  333]
+ [  72   78]]
+Epoch: 36 batch:  5 cost = 31.42828  test accuracy: 0.914
+[[3678  299]
+ [  53   66]]
+Epoch: 36 batch:  6 cost = 31.42828  test accuracy: 0.907
+[[3645  324]
+ [  57   70]]
+training finished for epoch  37
+Epoch: 37 batch:  1 cost = 31.27287  test accuracy: 0.905
+[[3648  341]
+ [  48   59]]
+Epoch: 37 batch:  2 cost = 31.27287  test accuracy: 0.902
+[[3635  341]
+ [  61   59]]
+Epoch: 37 batch:  3 cost = 31.27287  test accuracy: 0.902
+[[3623  324]
+ [  77   72]]
+Epoch: 37 batch:  4 cost = 31.27287  test accuracy: 0.902
+[[3618  328]
+ [  74   76]]
+Epoch: 37 batch:  5 cost = 31.27287  test accuracy: 0.916
+[[3684  293]
+ [  53   66]]
+Epoch: 37 batch:  6 cost = 31.27287  test accuracy: 0.908
+[[3649  320]
+ [  58   69]]
+training finished for epoch  38
+Epoch: 38 batch:  1 cost = 31.23811  test accuracy: 0.905
+[[3647  342]
+ [  48   59]]
+Epoch: 38 batch:  2 cost = 31.23811  test accuracy: 0.902
+[[3634  342]
+ [  61   59]]
+Epoch: 38 batch:  3 cost = 31.23811  test accuracy: 0.901
+[[3617  330]
+ [  77   72]]
+Epoch: 38 batch:  4 cost = 31.23811  test accuracy: 0.902
+[[3618  328]
+ [  73   77]]
+Epoch: 38 batch:  5 cost = 31.23811  test accuracy: 0.915
+[[3682  295]
+ [  53   66]]
+Epoch: 38 batch:  6 cost = 31.23811  test accuracy: 0.908
+[[3650  319]
+ [  58   69]]
+training finished for epoch  39
+Epoch: 39 batch:  1 cost = 31.05165  test accuracy: 0.905
+[[3646  343]
+ [  47   60]]
+Epoch: 39 batch:  2 cost = 31.05165  test accuracy: 0.901
+[[3632  344]
+ [  62   58]]
+Epoch: 39 batch:  3 cost = 31.05165  test accuracy: 0.901
+[[3619  328]
+ [  76   73]]
+Epoch: 39 batch:  4 cost = 31.05165  test accuracy: 0.903
+[[3621  325]
+ [  73   77]]
+Epoch: 39 batch:  5 cost = 31.05165  test accuracy: 0.915
+[[3683  294]
+ [  54   65]]
+Epoch: 39 batch:  6 cost = 31.05165  test accuracy: 0.908
+[[3651  318]
+ [  58   69]]
+training finished for epoch  40
+Epoch: 40 batch:  1 cost = 31.14529  test accuracy: 0.906
+[[3651  338]
+ [  48   59]]
+Epoch: 40 batch:  2 cost = 31.14529  test accuracy: 0.901
+[[3632  344]
+ [  63   57]]
+Epoch: 40 batch:  3 cost = 31.14529  test accuracy: 0.902
+[[3621  326]
+ [  77   72]]
+Epoch: 40 batch:  4 cost = 31.14529  test accuracy: 0.903
+[[3622  324]
+ [  75   75]]
+Epoch: 40 batch:  5 cost = 31.14529  test accuracy: 0.916
+[[3685  292]
+ [  54   65]]
+Epoch: 40 batch:  6 cost = 31.14529  test accuracy: 0.909
+[[3653  316]
+ [  58   69]]
+training finished for epoch  41
+Epoch: 41 batch:  1 cost = 31.15923  test accuracy: 0.885
+[[3555  434]
+ [  35   72]]
+Epoch: 41 batch:  2 cost = 31.15923  test accuracy: 0.885
+[[3558  418]
+ [  52   68]]
+Epoch: 41 batch:  3 cost = 31.15923  test accuracy: 0.886
+[[3543  404]
+ [  61   88]]
+Epoch: 41 batch:  4 cost = 31.15923  test accuracy: 0.891
+[[3558  388]
+ [  60   90]]
+Epoch: 41 batch:  5 cost = 31.15923  test accuracy: 0.899
+[[3608  369]
+ [  46   73]]
+Epoch: 41 batch:  6 cost = 31.15923  test accuracy: 0.887
+[[3555  414]
+ [  50   77]]
+training finished for epoch  42
+Epoch: 42 batch:  1 cost = 31.06308  test accuracy: 0.887
+[[3560  429]
+ [  35   72]]
+Epoch: 42 batch:  2 cost = 31.06308  test accuracy: 0.887
+[[3563  413]
+ [  50   70]]
+Epoch: 42 batch:  3 cost = 31.06308  test accuracy: 0.886
+[[3540  407]
+ [  61   88]]
+Epoch: 42 batch:  4 cost = 31.06308  test accuracy: 0.892
+[[3561  385]
+ [  59   91]]
+Epoch: 42 batch:  5 cost = 31.06308  test accuracy: 0.899
+[[3609  368]
+ [  46   73]]
+Epoch: 42 batch:  6 cost = 31.06308  test accuracy: 0.887
+[[3557  412]
+ [  50   77]]
+training finished for epoch  43
+Epoch: 43 batch:  1 cost = 31.05622  test accuracy: 0.887
+[[3561  428]
+ [  35   72]]
+Epoch: 43 batch:  2 cost = 31.05622  test accuracy: 0.887
+[[3565  411]
+ [  50   70]]
+Epoch: 43 batch:  3 cost = 31.05622  test accuracy: 0.886
+[[3542  405]
+ [  61   88]]
+Epoch: 43 batch:  4 cost = 31.05622  test accuracy: 0.892
+[[3563  383]
+ [  59   91]]
+Epoch: 43 batch:  5 cost = 31.05622  test accuracy: 0.899
+[[3610  367]
+ [  46   73]]
+Epoch: 43 batch:  6 cost = 31.05622  test accuracy: 0.888
+[[3559  410]
+ [  50   77]]
+training finished for epoch  44
+Epoch: 44 batch:  1 cost = 31.02574  test accuracy: 0.887
+[[3561  428]
+ [  35   72]]
+Epoch: 44 batch:  2 cost = 31.02574  test accuracy: 0.887
+[[3566  410]
+ [  51   69]]
+Epoch: 44 batch:  3 cost = 31.02574  test accuracy: 0.887
+[[3544  403]
+ [  61   88]]
+Epoch: 44 batch:  4 cost = 31.02574  test accuracy: 0.892
+[[3563  383]
+ [  59   91]]
+Epoch: 44 batch:  5 cost = 31.02574  test accuracy: 0.899
+[[3610  367]
+ [  46   73]]
+Epoch: 44 batch:  6 cost = 31.02574  test accuracy: 0.888
+[[3559  410]
+ [  50   77]]
+training finished for epoch  45
+Epoch: 45 batch:  1 cost = 30.93440  test accuracy: 0.886
+[[3560  429]
+ [  37   70]]
+Epoch: 45 batch:  2 cost = 30.93440  test accuracy: 0.888
+[[3567  409]
+ [  50   70]]
+Epoch: 45 batch:  3 cost = 30.93440  test accuracy: 0.887
+[[3545  402]
+ [  61   88]]
+Epoch: 45 batch:  4 cost = 30.93440  test accuracy: 0.893
+[[3565  381]
+ [  59   91]]
+Epoch: 45 batch:  5 cost = 30.93440  test accuracy: 0.899
+[[3610  367]
+ [  46   73]]
+Epoch: 45 batch:  6 cost = 30.93440  test accuracy: 0.888
+[[3560  409]
+ [  50   77]]
+training finished for epoch  46
+Epoch: 46 batch:  1 cost = 31.08270  test accuracy: 0.872
+[[3498  491]
+ [  34   73]]
+Epoch: 46 batch:  2 cost = 31.08270  test accuracy: 0.873
+[[3505  471]
+ [  49   71]]
+Epoch: 46 batch:  3 cost = 31.08270  test accuracy: 0.873
+[[3481  466]
+ [  55   94]]
+Epoch: 46 batch:  4 cost = 31.08270  test accuracy: 0.878
+[[3501  445]
+ [  56   94]]
+Epoch: 46 batch:  5 cost = 31.08270  test accuracy: 0.885
+[[3550  427]
+ [  42   77]]
+Epoch: 46 batch:  6 cost = 31.08270  test accuracy: 0.876
+[[3506  463]
+ [  46   81]]
+training finished for epoch  47
+Epoch: 47 batch:  1 cost = 30.76948  test accuracy: 0.872
+[[3498  491]
+ [  34   73]]
+Epoch: 47 batch:  2 cost = 30.76948  test accuracy: 0.874
+[[3508  468]
+ [  49   71]]
+Epoch: 47 batch:  3 cost = 30.76948  test accuracy: 0.873
+[[3482  465]
+ [  55   94]]
+Epoch: 47 batch:  4 cost = 30.76948  test accuracy: 0.879
+[[3504  442]
+ [  55   95]]
+Epoch: 47 batch:  5 cost = 30.76948  test accuracy: 0.887
+[[3556  421]
+ [  42   77]]
+Epoch: 47 batch:  6 cost = 30.76948  test accuracy: 0.876
+[[3507  462]
+ [  46   81]]
+training finished for epoch  48
+Epoch: 48 batch:  1 cost = 30.89381  test accuracy: 0.872
+[[3498  491]
+ [  34   73]]
+Epoch: 48 batch:  2 cost = 30.89381  test accuracy: 0.874
+[[3507  469]
+ [  49   71]]
+Epoch: 48 batch:  3 cost = 30.89381  test accuracy: 0.873
+[[3481  466]
+ [  55   94]]
+Epoch: 48 batch:  4 cost = 30.89381  test accuracy: 0.879
+[[3503  443]
+ [  54   96]]
+Epoch: 48 batch:  5 cost = 30.89381  test accuracy: 0.887
+[[3555  422]
+ [  42   77]]
+Epoch: 48 batch:  6 cost = 30.89381  test accuracy: 0.876
+[[3507  462]
+ [  46   81]]
+training finished for epoch  49
+Epoch: 49 batch:  1 cost = 30.86340  test accuracy: 0.872
+[[3499  490]
+ [  34   73]]
+Epoch: 49 batch:  2 cost = 30.86340  test accuracy: 0.874
+[[3507  469]
+ [  49   71]]
+Epoch: 49 batch:  3 cost = 30.86340  test accuracy: 0.873
+[[3482  465]
+ [  55   94]]
+Epoch: 49 batch:  4 cost = 30.86340  test accuracy: 0.879
+[[3505  441]
+ [  54   96]]
+Epoch: 49 batch:  5 cost = 30.86340  test accuracy: 0.887
+[[3557  420]
+ [  42   77]]
+Epoch: 49 batch:  6 cost = 30.86340  test accuracy: 0.876
+[[3509  460]
+ [  46   81]]
+training finished for epoch  50
+Epoch: 50 batch:  1 cost = 30.87111  test accuracy: 0.872
+[[3499  490]
+ [  34   73]]
+Epoch: 50 batch:  2 cost = 30.87111  test accuracy: 0.874
+[[3507  469]
+ [  49   71]]
+Epoch: 50 batch:  3 cost = 30.87111  test accuracy: 0.873
+[[3482  465]
+ [  55   94]]
+Epoch: 50 batch:  4 cost = 30.87111  test accuracy: 0.879
+[[3503  443]
+ [  54   96]]
+Epoch: 50 batch:  5 cost = 30.87111  test accuracy: 0.887
+[[3555  422]
+ [  42   77]]
+Epoch: 50 batch:  6 cost = 30.87111  test accuracy: 0.876
+[[3508  461]
+ [  45   82]]
+
+Training complete for model  1 !

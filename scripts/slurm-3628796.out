@@ -1,0 +1,220 @@
+2018-11-14 13:26:37.736507: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-11-14 13:26:45.904909: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 0 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:05:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-11-14 13:26:46.041802: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 1 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:06:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-11-14 13:26:46.170111: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 2 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:84:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-11-14 13:26:46.319442: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 3 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:85:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-11-14 13:26:46.320138: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1490] Adding visible gpu devices: 0, 1, 2, 3
+2018-11-14 13:26:47.411984: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-11-14 13:26:47.412040: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977]      0 1 2 3 
+2018-11-14 13:26:47.412049: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0:   N Y N N 
+2018-11-14 13:26:47.412055: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 1:   Y N N N 
+2018-11-14 13:26:47.412060: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 2:   N N N Y 
+2018-11-14 13:26:47.412065: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 3:   N N Y N 
+2018-11-14 13:26:47.412990: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 10759 MB memory) -> physical GPU (device: 0, name: Tesla K80, pci bus id: 0000:05:00.0, compute capability: 3.7)
+2018-11-14 13:26:47.512711: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 10759 MB memory) -> physical GPU (device: 1, name: Tesla K80, pci bus id: 0000:06:00.0, compute capability: 3.7)
+2018-11-14 13:26:47.611678: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 10759 MB memory) -> physical GPU (device: 2, name: Tesla K80, pci bus id: 0000:84:00.0, compute capability: 3.7)
+2018-11-14 13:26:47.729866: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 10759 MB memory) -> physical GPU (device: 3, name: Tesla K80, pci bus id: 0000:85:00.0, compute capability: 3.7)
+]0;IPython: deepdrug/scriptstraining finished for epoch  1
+Epoch: 1 batch:  1 cost = 58.76409  test accuracy: 0.886
+[[3549  433]
+ [  35   79]]
+Epoch: 1 batch:  2 cost = 58.76409  test accuracy: 0.891
+[[3570  408]
+ [  37   81]]
+Epoch: 1 batch:  3 cost = 58.76409  test accuracy: 0.885
+[[3523  435]
+ [  37  101]]
+Epoch: 1 batch:  4 cost = 58.76409  test accuracy: 0.892
+[[3565  405]
+ [  38   88]]
+Epoch: 1 batch:  5 cost = 58.76409  test accuracy: 0.887
+[[3544  418]
+ [  44   90]]
+Epoch: 1 batch:  6 cost = 58.76409  test accuracy: 0.893
+[[3558  403]
+ [  37   98]]
+training finished for epoch  2
+Epoch: 2 batch:  1 cost = 47.95257  test accuracy: 0.836
+[[3340  642]
+ [  30   84]]
+Epoch: 2 batch:  2 cost = 47.95257  test accuracy: 0.837
+[[3337  641]
+ [  25   93]]
+Epoch: 2 batch:  3 cost = 47.95257  test accuracy: 0.832
+[[3300  658]
+ [  30  108]]
+Epoch: 2 batch:  4 cost = 47.95257  test accuracy: 0.839
+[[3345  625]
+ [  33   93]]
+Epoch: 2 batch:  5 cost = 47.95257  test accuracy: 0.833
+[[3307  655]
+ [  30  104]]
+Epoch: 2 batch:  6 cost = 47.95257  test accuracy: 0.842
+[[3340  621]
+ [  26  109]]
+training finished for epoch  3
+Epoch: 3 batch:  1 cost = 45.89011  test accuracy: 0.807
+[[3201  781]
+ [  11  103]]
+Epoch: 3 batch:  2 cost = 45.89011  test accuracy: 0.813
+[[3228  750]
+ [  14  104]]
+Epoch: 3 batch:  3 cost = 45.89011  test accuracy: 0.807
+[[3185  773]
+ [  16  122]]
+Epoch: 3 batch:  4 cost = 45.89011  test accuracy: 0.816
+[[3239  731]
+ [  21  105]]
+Epoch: 3 batch:  5 cost = 45.89011  test accuracy: 0.807
+[[3186  776]
+ [  14  120]]
+Epoch: 3 batch:  6 cost = 45.89011  test accuracy: 0.816
+[[3223  738]
+ [  15  120]]
+training finished for epoch  4
+Epoch: 4 batch:  1 cost = 45.69016  test accuracy: 0.842
+[[3356  626]
+ [  20   94]]
+Epoch: 4 batch:  2 cost = 45.69016  test accuracy: 0.849
+[[3381  597]
+ [  21   97]]
+Epoch: 4 batch:  3 cost = 45.69016  test accuracy: 0.843
+[[3337  621]
+ [  24  114]]
+Epoch: 4 batch:  4 cost = 45.69016  test accuracy: 0.845
+[[3363  607]
+ [  28   98]]
+Epoch: 4 batch:  5 cost = 45.69016  test accuracy: 0.846
+[[3357  605]
+ [  27  107]]
+Epoch: 4 batch:  6 cost = 45.69016  test accuracy: 0.851
+[[3374  587]
+ [  24  111]]
+training finished for epoch  5
+Epoch: 5 batch:  1 cost = 44.55727  test accuracy: 0.918
+[[3696  286]
+ [  49   65]]
+Epoch: 5 batch:  2 cost = 44.55727  test accuracy: 0.921
+[[3704  274]
+ [  51   67]]
+Epoch: 5 batch:  3 cost = 44.55727  test accuracy: 0.915
+[[3668  290]
+ [  58   80]]
+Epoch: 5 batch:  4 cost = 44.55727  test accuracy: 0.919
+[[3693  277]
+ [  55   71]]
+Epoch: 5 batch:  5 cost = 44.55727  test accuracy: 0.919
+[[3681  281]
+ [  51   83]]
+Epoch: 5 batch:  6 cost = 44.55727  test accuracy: 0.924
+[[3706  255]
+ [  56   79]]
+training finished for epoch  6
+Epoch: 6 batch:  1 cost = 41.78092  test accuracy: 0.892
+[[3571  411]
+ [  31   83]]
+Epoch: 6 batch:  2 cost = 41.78092  test accuracy: 0.895
+[[3581  397]
+ [  34   84]]
+Epoch: 6 batch:  3 cost = 41.78092  test accuracy: 0.896
+[[3569  389]
+ [  38  100]]
+Epoch: 6 batch:  4 cost = 41.78092  test accuracy: 0.892
+[[3560  410]
+ [  32   94]]
+Epoch: 6 batch:  5 cost = 41.78092  test accuracy: 0.892
+[[3554  408]
+ [  35   99]]
+Epoch: 6 batch:  6 cost = 41.78092  test accuracy: 0.901
+[[3591  370]
+ [  35  100]]
+training finished for epoch  7
+Epoch: 7 batch:  1 cost = 41.14774  test accuracy: 0.898
+[[3600  382]
+ [  34   80]]
+Epoch: 7 batch:  2 cost = 41.14774  test accuracy: 0.900
+[[3610  368]
+ [  40   78]]
+Epoch: 7 batch:  3 cost = 41.14774  test accuracy: 0.901
+[[3593  365]
+ [  40   98]]
+Epoch: 7 batch:  4 cost = 41.14774  test accuracy: 0.898
+[[3589  381]
+ [  37   89]]
+Epoch: 7 batch:  5 cost = 41.14774  test accuracy: 0.898
+[[3584  378]
+ [  38   96]]
+Epoch: 7 batch:  6 cost = 41.14774  test accuracy: 0.906
+[[3617  344]
+ [  40   95]]
+training finished for epoch  8
+Epoch: 8 batch:  1 cost = 41.39123  test accuracy: 0.917
+[[3680  302]
+ [  40   74]]
+Epoch: 8 batch:  2 cost = 41.39123  test accuracy: 0.917
+[[3684  294]
+ [  44   74]]
+Epoch: 8 batch:  3 cost = 41.39123  test accuracy: 0.912
+[[3652  306]
+ [  56   82]]
+Epoch: 8 batch:  4 cost = 41.39123  test accuracy: 0.915
+[[3672  298]
+ [  50   76]]
+Epoch: 8 batch:  5 cost = 41.39123  test accuracy: 0.918
+[[3672  290]
+ [  47   87]]
+Epoch: 8 batch:  6 cost = 41.39123  test accuracy: 0.922
+[[3698  263]
+ [  56   79]]
+training finished for epoch  9
+Epoch: 9 batch:  1 cost = 40.22929  test accuracy: 0.885
+[[3539  443]
+ [  27   87]]
+Epoch: 9 batch:  2 cost = 40.22929  test accuracy: 0.887
+[[3549  429]
+ [  34   84]]
+Epoch: 9 batch:  3 cost = 40.22929  test accuracy: 0.887
+[[3531  427]
+ [  35  103]]
+Epoch: 9 batch:  4 cost = 40.22929  test accuracy: 0.889
+[[3547  423]
+ [  32   94]]
+Epoch: 9 batch:  5 cost = 40.22929  test accuracy: 0.887
+[[3532  430]
+ [  33  101]]
+Epoch: 9 batch:  6 cost = 40.22929  test accuracy: 0.896
+[[3565  396]
+ [  31  104]]
+training finished for epoch  10
+Epoch: 10 batch:  1 cost = 39.16279  test accuracy: 0.870
+[[3474  508]
+ [  23   91]]
+Epoch: 10 batch:  2 cost = 39.16279  test accuracy: 0.872
+[[3481  497]
+ [  28   90]]
+Epoch: 10 batch:  3 cost = 39.16279  test accuracy: 0.872
+[[3467  491]
+ [  35  103]]
+Epoch: 10 batch:  4 cost = 39.16279  test accuracy: 0.873
+[[3480  490]
+ [  31   95]]
+Epoch: 10 batch:  5 cost = 39.16279  test accuracy: 0.865
+[[3436  526]
+ [  28  106]]
+Epoch: 10 batch:  6 cost = 39.16279  test accuracy: 0.880
+[[3497  464]
+ [  28  107]]
+
+Training complete for model  1 !

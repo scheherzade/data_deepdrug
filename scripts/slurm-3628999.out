@@ -1,0 +1,38 @@
+/home/sshirzad/anaconda3/lib/python3.6/site-packages/sklearn/externals/joblib/externals/cloudpickle/cloudpickle.py:47: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+[Parallel(n_jobs=16)]: Using backend ThreadingBackend with 16 concurrent workers.
+[Parallel(n_jobs=16)]: Done  18 tasks      | elapsed: 38.5min
+[Parallel(n_jobs=16)]: Done 168 tasks      | elapsed: 217.2min
+[Parallel(n_jobs=16)]: Done 418 tasks      | elapsed: 520.0min
+[Parallel(n_jobs=16)]: Done 500 out of 500 | elapsed: 617.9min finished
+[Parallel(n_jobs=16)]: Using backend ThreadingBackend with 16 concurrent workers.
+[Parallel(n_jobs=16)]: Done  18 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=16)]: Done 168 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=16)]: Done 418 tasks      | elapsed:    0.5s
+[Parallel(n_jobs=16)]: Done 500 out of 500 | elapsed:    0.6s finished
+]0;IPython: deepdrug/scriptsset 0
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.97      1.00      0.98     25718
+      active       0.82      0.06      0.11       834
+
+   micro avg       0.97      0.97      0.97     26552
+   macro avg       0.90      0.53      0.55     26552
+weighted avg       0.97      0.97      0.96     26552
+
+confusion matrix:
+[[25707    11]
+ [  784    50]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mStopIteration[0m                             Traceback (most recent call last)
+[0;32m~/workspace/deepdrug/python_scripts/randomforest.py[0m in [0;36m<module>[0;34m[0m
+[1;32m    184[0m [0;34m[0m[0m
+[1;32m    185[0m     [0;32mfor[0m [0mtrain_id[0m [0;32min[0m [0mrange[0m[0;34m([0m[0;36m100[0m[0;34m-[0m[0;36m1[0m[0;34m)[0m[0;34m:[0m[0;34m[0m[0m
+[0;32m--> 186[0;31m         [0;34m([0m[0mtraining_set[0m[0;34m,[0m [0mtraining_labels[0m[0;34m,[0m [0mtest_set[0m[0;34m,[0m [0mtest_labels[0m[0;34m,[0m[0mset_i[0m[0;34m,[0m [0mset_j[0m[0;34m)[0m[0;34m=[0m[0mnext[0m[0;34m([0m[0mmy_data[0m[0;34m)[0m[0;34m[0m[0m
+[0m[1;32m    187[0m         [0mclf[0m [0;34m=[0m [0mRandomForestClassifier[0m[0;34m([0m[0mverbose[0m[0;34m=[0m[0;36m1[0m[0;34m,[0m[0mn_estimators[0m[0;34m=[0m[0;36m500[0m[0;34m,[0m[0mn_jobs[0m[0;34m=[0m[0;36m16[0m[0;34m,[0m[0mmax_features[0m[0;34m=[0m[0;32mNone[0m[0;34m,[0m[0mmax_depth[0m[0;34m=[0m[0;36m10[0m[0;34m)[0m[0;34m[0m[0m
+[1;32m    188[0m         [0mclf[0m[0;34m.[0m[0mfit[0m[0;34m([0m[0mtraining_set[0m[0;34m,[0m [0mtraining_labels[0m[0;34m)[0m[0;34m[0m[0m
+
+[0;31mStopIteration[0m: 

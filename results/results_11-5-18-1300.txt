@@ -1,0 +1,5902 @@
+]0;IPython: deepdrug/scriptsEpoch: 1  train accuracy: 0.957
+Epoch: 1  train accuracy: 0.965
+Epoch: 1  train accuracy: 0.680
+Epoch: 1  train accuracy: 0.242
+Epoch: 1  train accuracy: 0.949
+Epoch: 1  train accuracy: 0.762
+Epoch: 1  train accuracy: 0.980
+Epoch: 1  train accuracy: 0.719
+Epoch: 1  train accuracy: 0.898
+Epoch: 1  train accuracy: 0.734
+Epoch: 1  train accuracy: 0.816
+Epoch: 1  train accuracy: 0.887
+Epoch: 1  train accuracy: 0.246
+Epoch: 1  train accuracy: 0.953
+Epoch: 1  train accuracy: 0.719
+Epoch: 1  train accuracy: 0.875
+Epoch: 1  train accuracy: 0.871
+Epoch: 1  train accuracy: 0.891
+Epoch: 1  train accuracy: 0.871
+Epoch: 1  train accuracy: 0.582
+Epoch: 1  train accuracy: 0.723
+Epoch: 1  train accuracy: 0.742
+Epoch: 1  train accuracy: 0.746
+Epoch: 1  train accuracy: 0.566
+Epoch: 1  train accuracy: 0.859
+Epoch: 1  train accuracy: 0.859
+Epoch: 1  train accuracy: 0.965
+Epoch: 1  train accuracy: 0.879
+Epoch: 1  train accuracy: 0.855
+Epoch: 1  train accuracy: 0.867
+Epoch: 1  train accuracy: 0.926
+Epoch: 1  train accuracy: 0.875
+Epoch: 1  train accuracy: 0.719
+Epoch: 1  train accuracy: 0.574
+Epoch: 1  train accuracy: 0.473
+Epoch: 1  train accuracy: 0.711
+Epoch: 1  train accuracy: 0.984
+Epoch: 1  train accuracy: 0.930
+Epoch: 1  train accuracy: 0.836
+Epoch: 1  train accuracy: 0.207
+Epoch: 1  train accuracy: 0.898
+Epoch: 1  train accuracy: 0.867
+Epoch: 1  train accuracy: 0.438
+Epoch: 1  train accuracy: 0.961
+Epoch: 1  train accuracy: 0.336
+Epoch: 1  train accuracy: 0.945
+Epoch: 1  train accuracy: 0.547
+Epoch: 1  train accuracy: 0.918
+Epoch: 1  train accuracy: 0.539
+Epoch: 1  train accuracy: 0.828
+Epoch: 1  train accuracy: 0.504
+Epoch: 1  train accuracy: 0.938
+Epoch: 1  train accuracy: 0.945
+Epoch: 1  train accuracy: 0.277
+Epoch: 1  train accuracy: 0.957
+Epoch: 1  train accuracy: 0.910
+Epoch: 1  train accuracy: 0.480
+Epoch: 1  train accuracy: 0.965
+Epoch: 1  train accuracy: 0.398
+Epoch: 1  train accuracy: 0.707
+Epoch: 1  train accuracy: 0.707
+Epoch: 1  train accuracy: 0.949
+Epoch: 1  train accuracy: 0.895
+Epoch: 1  train accuracy: 0.824
+Epoch: 1  train accuracy: 0.906
+Epoch: 1  train accuracy: 0.715
+Epoch: 1  train accuracy: 0.770
+Epoch: 1  train accuracy: 0.555
+Epoch: 1  train accuracy: 0.340
+Epoch: 1  train accuracy: 0.668
+Epoch: 1  train accuracy: 0.918
+Epoch: 1  train accuracy: 0.461
+Epoch: 1  train accuracy: 0.840
+Epoch: 1  train accuracy: 0.832
+Epoch: 1  train accuracy: 0.824
+Epoch: 1  train accuracy: 0.867
+Epoch: 1  train accuracy: 0.828
+Epoch: 1  train accuracy: 0.852
+Epoch: 1  train accuracy: 0.891
+Epoch: 1  train accuracy: 0.711
+Epoch: 1  train accuracy: 0.773
+Epoch: 1  train accuracy: 0.785
+Epoch: 1  train accuracy: 0.684
+Epoch: 1  train accuracy: 0.742
+Epoch: 1  train accuracy: 0.609
+Epoch: 1  train accuracy: 0.824
+Epoch: 1  train accuracy: 0.742
+Epoch: 1  train accuracy: 0.523
+Epoch: 1  train accuracy: 0.910
+Epoch: 1  train accuracy: 0.977
+Epoch: 1  train accuracy: 0.676
+Epoch: 1  train accuracy: 0.883
+Epoch: 1  train accuracy: 0.941
+Epoch: 1  train accuracy: 0.887
+Epoch: 1  train accuracy: 0.387
+Epoch: 1  train accuracy: 0.961
+Epoch: 1  train accuracy: 0.953
+Epoch: 1  train accuracy: 0.559
+Epoch: 1  train accuracy: 0.777
+training finished for epoch  1
+Epoch: 1 batch:  1 cost = 58.50671  test accuracy: 0.896
+[[3595  381]
+ [  45   75]]
+Epoch: 1 batch:  2 cost = 58.50671  test accuracy: 0.883
+[[3520  432]
+ [  46   98]]
+Epoch: 1 batch:  3 cost = 58.50671  test accuracy: 0.896
+[[3587  394]
+ [  34   81]]
+Epoch: 1 batch:  4 cost = 58.50671  test accuracy: 0.888
+[[3562  414]
+ [  44   76]]
+Epoch: 1 batch:  5 cost = 58.50671  test accuracy: 0.889
+[[3560  392]
+ [  64   80]]
+Epoch: 1 batch:  6 cost = 58.50671  test accuracy: 0.888
+[[3565  406]
+ [  52   73]]
+Epoch: 2  train accuracy: 0.922
+Epoch: 2  train accuracy: 0.844
+Epoch: 2  train accuracy: 0.934
+Epoch: 2  train accuracy: 0.633
+Epoch: 2  train accuracy: 0.918
+Epoch: 2  train accuracy: 0.898
+Epoch: 2  train accuracy: 0.871
+Epoch: 2  train accuracy: 0.891
+Epoch: 2  train accuracy: 0.906
+Epoch: 2  train accuracy: 0.547
+Epoch: 2  train accuracy: 0.570
+Epoch: 2  train accuracy: 0.762
+Epoch: 2  train accuracy: 0.594
+Epoch: 2  train accuracy: 0.773
+Epoch: 2  train accuracy: 0.816
+Epoch: 2  train accuracy: 0.711
+Epoch: 2  train accuracy: 0.840
+Epoch: 2  train accuracy: 0.816
+Epoch: 2  train accuracy: 0.910
+Epoch: 2  train accuracy: 0.609
+Epoch: 2  train accuracy: 0.750
+Epoch: 2  train accuracy: 0.914
+Epoch: 2  train accuracy: 0.875
+Epoch: 2  train accuracy: 0.430
+Epoch: 2  train accuracy: 0.824
+Epoch: 2  train accuracy: 0.816
+Epoch: 2  train accuracy: 0.914
+Epoch: 2  train accuracy: 0.875
+Epoch: 2  train accuracy: 0.945
+Epoch: 2  train accuracy: 0.746
+Epoch: 2  train accuracy: 0.957
+Epoch: 2  train accuracy: 0.777
+Epoch: 2  train accuracy: 0.547
+Epoch: 2  train accuracy: 0.812
+Epoch: 2  train accuracy: 0.922
+Epoch: 2  train accuracy: 0.836
+Epoch: 2  train accuracy: 0.863
+Epoch: 2  train accuracy: 0.992
+Epoch: 2  train accuracy: 0.324
+Epoch: 2  train accuracy: 0.703
+Epoch: 2  train accuracy: 0.930
+Epoch: 2  train accuracy: 0.891
+Epoch: 2  train accuracy: 0.320
+Epoch: 2  train accuracy: 0.973
+Epoch: 2  train accuracy: 0.883
+Epoch: 2  train accuracy: 0.910
+Epoch: 2  train accuracy: 0.742
+Epoch: 2  train accuracy: 0.930
+Epoch: 2  train accuracy: 0.734
+Epoch: 2  train accuracy: 0.895
+Epoch: 2  train accuracy: 0.738
+Epoch: 2  train accuracy: 0.840
+Epoch: 2  train accuracy: 0.961
+Epoch: 2  train accuracy: 0.328
+Epoch: 2  train accuracy: 0.945
+Epoch: 2  train accuracy: 0.938
+Epoch: 2  train accuracy: 0.637
+Epoch: 2  train accuracy: 0.902
+Epoch: 2  train accuracy: 0.738
+Epoch: 2  train accuracy: 0.449
+Epoch: 2  train accuracy: 0.562
+Epoch: 2  train accuracy: 0.977
+Epoch: 2  train accuracy: 0.957
+Epoch: 2  train accuracy: 0.844
+Epoch: 2  train accuracy: 0.879
+Epoch: 2  train accuracy: 0.801
+Epoch: 2  train accuracy: 0.828
+Epoch: 2  train accuracy: 0.684
+Epoch: 2  train accuracy: 0.262
+Epoch: 2  train accuracy: 0.535
+Epoch: 2  train accuracy: 0.824
+Epoch: 2  train accuracy: 0.930
+Epoch: 2  train accuracy: 0.520
+Epoch: 2  train accuracy: 0.824
+Epoch: 2  train accuracy: 0.902
+Epoch: 2  train accuracy: 0.758
+Epoch: 2  train accuracy: 0.859
+Epoch: 2  train accuracy: 0.816
+Epoch: 2  train accuracy: 0.863
+Epoch: 2  train accuracy: 0.801
+Epoch: 2  train accuracy: 0.785
+Epoch: 2  train accuracy: 0.656
+Epoch: 2  train accuracy: 0.777
+Epoch: 2  train accuracy: 0.691
+Epoch: 2  train accuracy: 0.891
+Epoch: 2  train accuracy: 0.746
+Epoch: 2  train accuracy: 0.758
+Epoch: 2  train accuracy: 0.680
+Epoch: 2  train accuracy: 0.855
+Epoch: 2  train accuracy: 0.926
+Epoch: 2  train accuracy: 0.801
+Epoch: 2  train accuracy: 0.848
+Epoch: 2  train accuracy: 0.953
+Epoch: 2  train accuracy: 0.848
+Epoch: 2  train accuracy: 0.547
+Epoch: 2  train accuracy: 0.984
+Epoch: 2  train accuracy: 0.910
+Epoch: 2  train accuracy: 0.793
+Epoch: 2  train accuracy: 0.805
+training finished for epoch  2
+Epoch: 2 batch:  1 cost = 49.55995  test accuracy: 0.931
+[[3739  237]
+ [  45   75]]
+Epoch: 2 batch:  2 cost = 49.55995  test accuracy: 0.919
+[[3670  282]
+ [  48   96]]
+Epoch: 2 batch:  3 cost = 49.55995  test accuracy: 0.926
+[[3712  269]
+ [  35   80]]
+Epoch: 2 batch:  4 cost = 49.55995  test accuracy: 0.920
+[[3693  283]
+ [  43   77]]
+Epoch: 2 batch:  5 cost = 49.55995  test accuracy: 0.919
+[[3687  265]
+ [  65   79]]
+Epoch: 2 batch:  6 cost = 49.55995  test accuracy: 0.926
+[[3720  251]
+ [  54   71]]
+Epoch: 3  train accuracy: 0.871
+Epoch: 3  train accuracy: 0.836
+Epoch: 3  train accuracy: 0.848
+Epoch: 3  train accuracy: 0.805
+Epoch: 3  train accuracy: 0.855
+Epoch: 3  train accuracy: 0.824
+Epoch: 3  train accuracy: 0.852
+Epoch: 3  train accuracy: 0.945
+Epoch: 3  train accuracy: 0.832
+Epoch: 3  train accuracy: 0.547
+Epoch: 3  train accuracy: 0.449
+Epoch: 3  train accuracy: 0.863
+Epoch: 3  train accuracy: 0.711
+Epoch: 3  train accuracy: 0.887
+Epoch: 3  train accuracy: 0.773
+Epoch: 3  train accuracy: 0.855
+Epoch: 3  train accuracy: 0.492
+Epoch: 3  train accuracy: 0.879
+Epoch: 3  train accuracy: 0.789
+Epoch: 3  train accuracy: 0.805
+Epoch: 3  train accuracy: 0.828
+Epoch: 3  train accuracy: 0.844
+Epoch: 3  train accuracy: 0.863
+Epoch: 3  train accuracy: 0.578
+Epoch: 3  train accuracy: 0.785
+Epoch: 3  train accuracy: 0.809
+Epoch: 3  train accuracy: 0.812
+Epoch: 3  train accuracy: 0.754
+Epoch: 3  train accuracy: 0.914
+Epoch: 3  train accuracy: 0.812
+Epoch: 3  train accuracy: 0.965
+Epoch: 3  train accuracy: 0.438
+Epoch: 3  train accuracy: 0.691
+Epoch: 3  train accuracy: 0.941
+Epoch: 3  train accuracy: 0.953
+Epoch: 3  train accuracy: 0.367
+Epoch: 3  train accuracy: 0.660
+Epoch: 3  train accuracy: 0.996
+Epoch: 3  train accuracy: 0.047
+Epoch: 3  train accuracy: 0.152
+Epoch: 3  train accuracy: 0.941
+Epoch: 3  train accuracy: 0.977
+Epoch: 3  train accuracy: 0.832
+Epoch: 3  train accuracy: 0.945
+Epoch: 3  train accuracy: 0.449
+Epoch: 3  train accuracy: 0.930
+Epoch: 3  train accuracy: 0.625
+Epoch: 3  train accuracy: 0.664
+Epoch: 3  train accuracy: 0.836
+Epoch: 3  train accuracy: 0.664
+Epoch: 3  train accuracy: 0.797
+Epoch: 3  train accuracy: 0.809
+Epoch: 3  train accuracy: 0.922
+Epoch: 3  train accuracy: 0.254
+Epoch: 3  train accuracy: 0.879
+Epoch: 3  train accuracy: 0.613
+Epoch: 3  train accuracy: 0.840
+Epoch: 3  train accuracy: 0.871
+Epoch: 3  train accuracy: 0.543
+Epoch: 3  train accuracy: 0.801
+Epoch: 3  train accuracy: 0.723
+Epoch: 3  train accuracy: 0.969
+Epoch: 3  train accuracy: 0.945
+Epoch: 3  train accuracy: 0.781
+Epoch: 3  train accuracy: 0.867
+Epoch: 3  train accuracy: 0.777
+Epoch: 3  train accuracy: 0.797
+Epoch: 3  train accuracy: 0.594
+Epoch: 3  train accuracy: 0.406
+Epoch: 3  train accuracy: 0.641
+Epoch: 3  train accuracy: 0.914
+Epoch: 3  train accuracy: 0.797
+Epoch: 3  train accuracy: 0.762
+Epoch: 3  train accuracy: 0.914
+Epoch: 3  train accuracy: 0.832
+Epoch: 3  train accuracy: 0.805
+Epoch: 3  train accuracy: 0.945
+Epoch: 3  train accuracy: 0.816
+Epoch: 3  train accuracy: 0.867
+Epoch: 3  train accuracy: 0.859
+Epoch: 3  train accuracy: 0.828
+Epoch: 3  train accuracy: 0.715
+Epoch: 3  train accuracy: 0.840
+Epoch: 3  train accuracy: 0.629
+Epoch: 3  train accuracy: 0.938
+Epoch: 3  train accuracy: 0.676
+Epoch: 3  train accuracy: 0.684
+Epoch: 3  train accuracy: 0.676
+Epoch: 3  train accuracy: 0.863
+Epoch: 3  train accuracy: 0.926
+Epoch: 3  train accuracy: 0.836
+Epoch: 3  train accuracy: 0.738
+Epoch: 3  train accuracy: 0.895
+Epoch: 3  train accuracy: 0.926
+Epoch: 3  train accuracy: 0.473
+Epoch: 3  train accuracy: 0.918
+Epoch: 3  train accuracy: 0.969
+Epoch: 3  train accuracy: 0.980
+Epoch: 3  train accuracy: 0.613
+training finished for epoch  3
+Epoch: 3 batch:  1 cost = 50.43500  test accuracy: 0.798
+[[3168  808]
+ [  18  102]]
+Epoch: 3 batch:  2 cost = 50.43500  test accuracy: 0.803
+[[3167  785]
+ [  21  123]]
+Epoch: 3 batch:  3 cost = 50.43500  test accuracy: 0.785
+[[3119  862]
+ [  18   97]]
+Epoch: 3 batch:  4 cost = 50.43500  test accuracy: 0.791
+[[3141  835]
+ [  21   99]]
+Epoch: 3 batch:  5 cost = 50.43500  test accuracy: 0.788
+[[3118  834]
+ [  36  108]]
+Epoch: 3 batch:  6 cost = 50.43500  test accuracy: 0.792
+[[3153  818]
+ [  36   89]]
+Epoch: 4  train accuracy: 0.781
+Epoch: 4  train accuracy: 0.730
+Epoch: 4  train accuracy: 0.910
+Epoch: 4  train accuracy: 0.641
+Epoch: 4  train accuracy: 0.930
+Epoch: 4  train accuracy: 0.738
+Epoch: 4  train accuracy: 0.789
+Epoch: 4  train accuracy: 0.957
+Epoch: 4  train accuracy: 0.855
+Epoch: 4  train accuracy: 0.512
+Epoch: 4  train accuracy: 0.391
+Epoch: 4  train accuracy: 0.840
+Epoch: 4  train accuracy: 0.883
+Epoch: 4  train accuracy: 0.930
+Epoch: 4  train accuracy: 0.777
+Epoch: 4  train accuracy: 0.848
+Epoch: 4  train accuracy: 0.805
+Epoch: 4  train accuracy: 0.801
+Epoch: 4  train accuracy: 0.770
+Epoch: 4  train accuracy: 0.746
+Epoch: 4  train accuracy: 0.879
+Epoch: 4  train accuracy: 0.938
+Epoch: 4  train accuracy: 0.836
+Epoch: 4  train accuracy: 0.680
+Epoch: 4  train accuracy: 0.875
+Epoch: 4  train accuracy: 0.922
+Epoch: 4  train accuracy: 0.895
+Epoch: 4  train accuracy: 0.594
+Epoch: 4  train accuracy: 0.977
+Epoch: 4  train accuracy: 0.887
+Epoch: 4  train accuracy: 0.957
+Epoch: 4  train accuracy: 0.777
+Epoch: 4  train accuracy: 0.551
+Epoch: 4  train accuracy: 0.766
+Epoch: 4  train accuracy: 0.949
+Epoch: 4  train accuracy: 0.914
+Epoch: 4  train accuracy: 0.957
+Epoch: 4  train accuracy: 0.965
+Epoch: 4  train accuracy: 0.078
+Epoch: 4  train accuracy: 0.176
+Epoch: 4  train accuracy: 0.934
+Epoch: 4  train accuracy: 0.977
+Epoch: 4  train accuracy: 0.961
+Epoch: 4  train accuracy: 0.977
+Epoch: 4  train accuracy: 0.973
+Epoch: 4  train accuracy: 0.520
+Epoch: 4  train accuracy: 0.926
+Epoch: 4  train accuracy: 0.688
+Epoch: 4  train accuracy: 0.797
+Epoch: 4  train accuracy: 0.574
+Epoch: 4  train accuracy: 0.797
+Epoch: 4  train accuracy: 0.844
+Epoch: 4  train accuracy: 0.969
+Epoch: 4  train accuracy: 0.309
+Epoch: 4  train accuracy: 0.695
+Epoch: 4  train accuracy: 0.445
+Epoch: 4  train accuracy: 0.902
+Epoch: 4  train accuracy: 0.871
+Epoch: 4  train accuracy: 0.715
+Epoch: 4  train accuracy: 0.840
+Epoch: 4  train accuracy: 0.473
+Epoch: 4  train accuracy: 0.996
+Epoch: 4  train accuracy: 0.957
+Epoch: 4  train accuracy: 0.605
+Epoch: 4  train accuracy: 0.941
+Epoch: 4  train accuracy: 0.844
+Epoch: 4  train accuracy: 0.828
+Epoch: 4  train accuracy: 0.641
+Epoch: 4  train accuracy: 0.320
+Epoch: 4  train accuracy: 0.566
+Epoch: 4  train accuracy: 0.895
+Epoch: 4  train accuracy: 0.746
+Epoch: 4  train accuracy: 0.516
+Epoch: 4  train accuracy: 0.742
+Epoch: 4  train accuracy: 0.914
+Epoch: 4  train accuracy: 0.918
+Epoch: 4  train accuracy: 0.801
+Epoch: 4  train accuracy: 0.945
+Epoch: 4  train accuracy: 0.867
+Epoch: 4  train accuracy: 0.770
+Epoch: 4  train accuracy: 0.816
+Epoch: 4  train accuracy: 0.672
+Epoch: 4  train accuracy: 0.742
+Epoch: 4  train accuracy: 0.742
+Epoch: 4  train accuracy: 0.863
+Epoch: 4  train accuracy: 0.723
+Epoch: 4  train accuracy: 0.730
+Epoch: 4  train accuracy: 0.574
+Epoch: 4  train accuracy: 0.828
+Epoch: 4  train accuracy: 0.953
+Epoch: 4  train accuracy: 0.832
+Epoch: 4  train accuracy: 0.785
+Epoch: 4  train accuracy: 0.930
+Epoch: 4  train accuracy: 0.863
+Epoch: 4  train accuracy: 0.621
+Epoch: 4  train accuracy: 0.977
+Epoch: 4  train accuracy: 0.984
+Epoch: 4  train accuracy: 0.793
+Epoch: 4  train accuracy: 0.730
+training finished for epoch  4
+Epoch: 4 batch:  1 cost = 50.53885  test accuracy: 0.855
+[[3419  557]
+ [  35   85]]
+Epoch: 4 batch:  2 cost = 50.53885  test accuracy: 0.848
+[[3362  590]
+ [  31  113]]
+Epoch: 4 batch:  3 cost = 50.53885  test accuracy: 0.845
+[[3375  606]
+ [  28   87]]
+Epoch: 4 batch:  4 cost = 50.53885  test accuracy: 0.846
+[[3378  598]
+ [  32   88]]
+Epoch: 4 batch:  5 cost = 50.53885  test accuracy: 0.839
+[[3345  607]
+ [  54   90]]
+Epoch: 4 batch:  6 cost = 50.53885  test accuracy: 0.847
+[[3395  576]
+ [  49   76]]
+Epoch: 5  train accuracy: 0.957
+Epoch: 5  train accuracy: 0.629
+Epoch: 5  train accuracy: 0.598
+Epoch: 5  train accuracy: 0.418
+Epoch: 5  train accuracy: 0.887
+Epoch: 5  train accuracy: 0.801
+Epoch: 5  train accuracy: 0.777
+Epoch: 5  train accuracy: 0.980
+Epoch: 5  train accuracy: 0.836
+Epoch: 5  train accuracy: 0.586
+Epoch: 5  train accuracy: 0.500
+Epoch: 5  train accuracy: 0.652
+Epoch: 5  train accuracy: 0.707
+Epoch: 5  train accuracy: 0.879
+Epoch: 5  train accuracy: 0.867
+Epoch: 5  train accuracy: 0.812
+Epoch: 5  train accuracy: 0.582
+Epoch: 5  train accuracy: 0.926
+Epoch: 5  train accuracy: 0.902
+Epoch: 5  train accuracy: 0.914
+Epoch: 5  train accuracy: 0.578
+Epoch: 5  train accuracy: 0.977
+Epoch: 5  train accuracy: 0.926
+Epoch: 5  train accuracy: 0.539
+Epoch: 5  train accuracy: 0.750
+Epoch: 5  train accuracy: 0.848
+Epoch: 5  train accuracy: 0.910
+Epoch: 5  train accuracy: 0.832
+Epoch: 5  train accuracy: 0.953
+Epoch: 5  train accuracy: 0.719
+Epoch: 5  train accuracy: 0.730
+Epoch: 5  train accuracy: 0.816
+Epoch: 5  train accuracy: 0.746
+Epoch: 5  train accuracy: 0.949
+Epoch: 5  train accuracy: 0.930
+Epoch: 5  train accuracy: 0.633
+Epoch: 5  train accuracy: 0.824
+Epoch: 5  train accuracy: 0.945
+Epoch: 5  train accuracy: 0.305
+Epoch: 5  train accuracy: 0.684
+Epoch: 5  train accuracy: 0.965
+Epoch: 5  train accuracy: 0.625
+Epoch: 5  train accuracy: 0.875
+Epoch: 5  train accuracy: 0.922
+Epoch: 5  train accuracy: 0.621
+Epoch: 5  train accuracy: 0.879
+Epoch: 5  train accuracy: 0.750
+Epoch: 5  train accuracy: 0.902
+Epoch: 5  train accuracy: 0.668
+Epoch: 5  train accuracy: 0.930
+Epoch: 5  train accuracy: 0.840
+Epoch: 5  train accuracy: 0.801
+Epoch: 5  train accuracy: 0.965
+Epoch: 5  train accuracy: 0.406
+Epoch: 5  train accuracy: 0.906
+Epoch: 5  train accuracy: 0.965
+Epoch: 5  train accuracy: 0.785
+Epoch: 5  train accuracy: 0.781
+Epoch: 5  train accuracy: 0.789
+Epoch: 5  train accuracy: 0.773
+Epoch: 5  train accuracy: 0.781
+Epoch: 5  train accuracy: 0.938
+Epoch: 5  train accuracy: 0.922
+Epoch: 5  train accuracy: 0.906
+Epoch: 5  train accuracy: 0.930
+Epoch: 5  train accuracy: 0.812
+Epoch: 5  train accuracy: 0.852
+Epoch: 5  train accuracy: 0.730
+Epoch: 5  train accuracy: 0.352
+Epoch: 5  train accuracy: 0.648
+Epoch: 5  train accuracy: 0.773
+Epoch: 5  train accuracy: 0.867
+Epoch: 5  train accuracy: 0.672
+Epoch: 5  train accuracy: 0.871
+Epoch: 5  train accuracy: 0.906
+Epoch: 5  train accuracy: 0.816
+Epoch: 5  train accuracy: 0.836
+Epoch: 5  train accuracy: 0.852
+Epoch: 5  train accuracy: 0.906
+Epoch: 5  train accuracy: 0.812
+Epoch: 5  train accuracy: 0.875
+Epoch: 5  train accuracy: 0.758
+Epoch: 5  train accuracy: 0.852
+Epoch: 5  train accuracy: 0.582
+Epoch: 5  train accuracy: 0.891
+Epoch: 5  train accuracy: 0.914
+Epoch: 5  train accuracy: 0.652
+Epoch: 5  train accuracy: 0.430
+Epoch: 5  train accuracy: 0.805
+Epoch: 5  train accuracy: 0.965
+Epoch: 5  train accuracy: 0.844
+Epoch: 5  train accuracy: 0.812
+Epoch: 5  train accuracy: 0.844
+Epoch: 5  train accuracy: 0.902
+Epoch: 5  train accuracy: 0.719
+Epoch: 5  train accuracy: 0.934
+Epoch: 5  train accuracy: 0.992
+Epoch: 5  train accuracy: 0.977
+Epoch: 5  train accuracy: 0.582
+training finished for epoch  5
+Epoch: 5 batch:  1 cost = 47.50919  test accuracy: 0.718
+[[2831 1145]
+ [  10  110]]
+Epoch: 5 batch:  2 cost = 47.50919  test accuracy: 0.721
+[[2824 1128]
+ [  16  128]]
+Epoch: 5 batch:  3 cost = 47.50919  test accuracy: 0.703
+[[2777 1204]
+ [  13  102]]
+Epoch: 5 batch:  4 cost = 47.50919  test accuracy: 0.717
+[[2826 1150]
+ [  10  110]]
+Epoch: 5 batch:  5 cost = 47.50919  test accuracy: 0.704
+[[2758 1194]
+ [  19  125]]
+Epoch: 5 batch:  6 cost = 47.50919  test accuracy: 0.711
+[[2808 1163]
+ [  21  104]]
+Epoch: 6  train accuracy: 0.965
+Epoch: 6  train accuracy: 0.621
+Epoch: 6  train accuracy: 0.820
+Epoch: 6  train accuracy: 0.758
+Epoch: 6  train accuracy: 0.906
+Epoch: 6  train accuracy: 0.652
+Epoch: 6  train accuracy: 0.848
+Epoch: 6  train accuracy: 0.941
+Epoch: 6  train accuracy: 0.883
+Epoch: 6  train accuracy: 0.629
+Epoch: 6  train accuracy: 0.434
+Epoch: 6  train accuracy: 0.598
+Epoch: 6  train accuracy: 0.848
+Epoch: 6  train accuracy: 0.867
+Epoch: 6  train accuracy: 0.859
+Epoch: 6  train accuracy: 0.809
+Epoch: 6  train accuracy: 0.773
+Epoch: 6  train accuracy: 0.875
+Epoch: 6  train accuracy: 0.762
+Epoch: 6  train accuracy: 0.812
+Epoch: 6  train accuracy: 0.730
+Epoch: 6  train accuracy: 0.914
+Epoch: 6  train accuracy: 0.883
+Epoch: 6  train accuracy: 0.844
+Epoch: 6  train accuracy: 0.625
+Epoch: 6  train accuracy: 0.719
+Epoch: 6  train accuracy: 0.816
+Epoch: 6  train accuracy: 0.668
+Epoch: 6  train accuracy: 0.949
+Epoch: 6  train accuracy: 0.727
+Epoch: 6  train accuracy: 0.887
+Epoch: 6  train accuracy: 0.758
+Epoch: 6  train accuracy: 0.824
+Epoch: 6  train accuracy: 0.961
+Epoch: 6  train accuracy: 0.953
+Epoch: 6  train accuracy: 0.793
+Epoch: 6  train accuracy: 0.957
+Epoch: 6  train accuracy: 0.887
+Epoch: 6  train accuracy: 0.426
+Epoch: 6  train accuracy: 0.359
+Epoch: 6  train accuracy: 0.922
+Epoch: 6  train accuracy: 0.949
+Epoch: 6  train accuracy: 0.906
+Epoch: 6  train accuracy: 0.648
+Epoch: 6  train accuracy: 0.629
+Epoch: 6  train accuracy: 0.785
+Epoch: 6  train accuracy: 0.605
+Epoch: 6  train accuracy: 0.793
+Epoch: 6  train accuracy: 0.793
+Epoch: 6  train accuracy: 0.926
+Epoch: 6  train accuracy: 0.965
+Epoch: 6  train accuracy: 0.727
+Epoch: 6  train accuracy: 0.492
+Epoch: 6  train accuracy: 0.523
+Epoch: 6  train accuracy: 0.871
+Epoch: 6  train accuracy: 0.930
+Epoch: 6  train accuracy: 0.934
+Epoch: 6  train accuracy: 0.742
+Epoch: 6  train accuracy: 0.926
+Epoch: 6  train accuracy: 0.879
+Epoch: 6  train accuracy: 0.855
+Epoch: 6  train accuracy: 0.820
+Epoch: 6  train accuracy: 0.789
+Epoch: 6  train accuracy: 0.914
+Epoch: 6  train accuracy: 0.855
+Epoch: 6  train accuracy: 0.898
+Epoch: 6  train accuracy: 0.844
+Epoch: 6  train accuracy: 0.820
+Epoch: 6  train accuracy: 0.527
+Epoch: 6  train accuracy: 0.629
+Epoch: 6  train accuracy: 0.801
+Epoch: 6  train accuracy: 0.855
+Epoch: 6  train accuracy: 0.773
+Epoch: 6  train accuracy: 0.727
+Epoch: 6  train accuracy: 0.902
+Epoch: 6  train accuracy: 0.793
+Epoch: 6  train accuracy: 0.777
+Epoch: 6  train accuracy: 0.945
+Epoch: 6  train accuracy: 0.879
+Epoch: 6  train accuracy: 0.758
+Epoch: 6  train accuracy: 0.770
+Epoch: 6  train accuracy: 0.676
+Epoch: 6  train accuracy: 0.801
+Epoch: 6  train accuracy: 0.852
+Epoch: 6  train accuracy: 0.859
+Epoch: 6  train accuracy: 0.781
+Epoch: 6  train accuracy: 0.820
+Epoch: 6  train accuracy: 0.793
+Epoch: 6  train accuracy: 0.930
+Epoch: 6  train accuracy: 0.953
+Epoch: 6  train accuracy: 0.832
+Epoch: 6  train accuracy: 0.762
+Epoch: 6  train accuracy: 0.855
+Epoch: 6  train accuracy: 0.875
+Epoch: 6  train accuracy: 0.777
+Epoch: 6  train accuracy: 0.746
+Epoch: 6  train accuracy: 0.848
+Epoch: 6  train accuracy: 0.938
+Epoch: 6  train accuracy: 0.812
+training finished for epoch  6
+Epoch: 6 batch:  1 cost = 43.84865  test accuracy: 0.917
+[[3682  294]
+ [  47   73]]
+Epoch: 6 batch:  2 cost = 43.84865  test accuracy: 0.899
+[[3597  355]
+ [  58   86]]
+Epoch: 6 batch:  3 cost = 43.84865  test accuracy: 0.909
+[[3648  333]
+ [  39   76]]
+Epoch: 6 batch:  4 cost = 43.84865  test accuracy: 0.913
+[[3664  312]
+ [  43   77]]
+Epoch: 6 batch:  5 cost = 43.84865  test accuracy: 0.899
+[[3603  349]
+ [  65   79]]
+Epoch: 6 batch:  6 cost = 43.84865  test accuracy: 0.908
+[[3653  318]
+ [  57   68]]
+Epoch: 7  train accuracy: 0.906
+Epoch: 7  train accuracy: 0.848
+Epoch: 7  train accuracy: 0.867
+Epoch: 7  train accuracy: 0.734
+Epoch: 7  train accuracy: 0.898
+Epoch: 7  train accuracy: 0.684
+Epoch: 7  train accuracy: 0.812
+Epoch: 7  train accuracy: 0.934
+Epoch: 7  train accuracy: 0.941
+Epoch: 7  train accuracy: 0.629
+Epoch: 7  train accuracy: 0.438
+Epoch: 7  train accuracy: 0.441
+Epoch: 7  train accuracy: 0.711
+Epoch: 7  train accuracy: 0.949
+Epoch: 7  train accuracy: 0.855
+Epoch: 7  train accuracy: 0.727
+Epoch: 7  train accuracy: 0.832
+Epoch: 7  train accuracy: 0.789
+Epoch: 7  train accuracy: 0.766
+Epoch: 7  train accuracy: 0.887
+Epoch: 7  train accuracy: 0.625
+Epoch: 7  train accuracy: 0.945
+Epoch: 7  train accuracy: 0.918
+Epoch: 7  train accuracy: 0.770
+Epoch: 7  train accuracy: 0.684
+Epoch: 7  train accuracy: 0.832
+Epoch: 7  train accuracy: 0.891
+Epoch: 7  train accuracy: 0.652
+Epoch: 7  train accuracy: 0.887
+Epoch: 7  train accuracy: 0.852
+Epoch: 7  train accuracy: 0.863
+Epoch: 7  train accuracy: 0.770
+Epoch: 7  train accuracy: 0.824
+Epoch: 7  train accuracy: 0.961
+Epoch: 7  train accuracy: 0.949
+Epoch: 7  train accuracy: 0.773
+Epoch: 7  train accuracy: 0.785
+Epoch: 7  train accuracy: 0.848
+Epoch: 7  train accuracy: 0.617
+Epoch: 7  train accuracy: 0.434
+Epoch: 7  train accuracy: 0.656
+Epoch: 7  train accuracy: 0.812
+Epoch: 7  train accuracy: 0.965
+Epoch: 7  train accuracy: 0.859
+Epoch: 7  train accuracy: 0.754
+Epoch: 7  train accuracy: 0.824
+Epoch: 7  train accuracy: 0.531
+Epoch: 7  train accuracy: 0.785
+Epoch: 7  train accuracy: 0.859
+Epoch: 7  train accuracy: 0.957
+Epoch: 7  train accuracy: 0.941
+Epoch: 7  train accuracy: 0.672
+Epoch: 7  train accuracy: 0.516
+Epoch: 7  train accuracy: 0.418
+Epoch: 7  train accuracy: 0.781
+Epoch: 7  train accuracy: 0.914
+Epoch: 7  train accuracy: 0.961
+Epoch: 7  train accuracy: 0.738
+Epoch: 7  train accuracy: 0.887
+Epoch: 7  train accuracy: 0.781
+Epoch: 7  train accuracy: 0.863
+Epoch: 7  train accuracy: 0.832
+Epoch: 7  train accuracy: 0.797
+Epoch: 7  train accuracy: 0.898
+Epoch: 7  train accuracy: 0.859
+Epoch: 7  train accuracy: 0.887
+Epoch: 7  train accuracy: 0.828
+Epoch: 7  train accuracy: 0.871
+Epoch: 7  train accuracy: 0.543
+Epoch: 7  train accuracy: 0.660
+Epoch: 7  train accuracy: 0.812
+Epoch: 7  train accuracy: 0.785
+Epoch: 7  train accuracy: 0.781
+Epoch: 7  train accuracy: 0.789
+Epoch: 7  train accuracy: 0.840
+Epoch: 7  train accuracy: 0.762
+Epoch: 7  train accuracy: 0.781
+Epoch: 7  train accuracy: 0.871
+Epoch: 7  train accuracy: 0.832
+Epoch: 7  train accuracy: 0.758
+Epoch: 7  train accuracy: 0.777
+Epoch: 7  train accuracy: 0.609
+Epoch: 7  train accuracy: 0.781
+Epoch: 7  train accuracy: 0.816
+Epoch: 7  train accuracy: 0.832
+Epoch: 7  train accuracy: 0.816
+Epoch: 7  train accuracy: 0.824
+Epoch: 7  train accuracy: 0.773
+Epoch: 7  train accuracy: 0.891
+Epoch: 7  train accuracy: 0.945
+Epoch: 7  train accuracy: 0.867
+Epoch: 7  train accuracy: 0.750
+Epoch: 7  train accuracy: 0.863
+Epoch: 7  train accuracy: 0.852
+Epoch: 7  train accuracy: 0.840
+Epoch: 7  train accuracy: 0.898
+Epoch: 7  train accuracy: 0.902
+Epoch: 7  train accuracy: 0.992
+Epoch: 7  train accuracy: 0.848
+training finished for epoch  7
+Epoch: 7 batch:  1 cost = 43.20558  test accuracy: 0.931
+[[3742  234]
+ [  48   72]]
+Epoch: 7 batch:  2 cost = 43.20558  test accuracy: 0.916
+[[3669  283]
+ [  61   83]]
+Epoch: 7 batch:  3 cost = 43.20558  test accuracy: 0.923
+[[3706  275]
+ [  39   76]]
+Epoch: 7 batch:  4 cost = 43.20558  test accuracy: 0.924
+[[3715  261]
+ [  51   69]]
+Epoch: 7 batch:  5 cost = 43.20558  test accuracy: 0.914
+[[3672  280]
+ [  72   72]]
+Epoch: 7 batch:  6 cost = 43.20558  test accuracy: 0.925
+[[3722  249]
+ [  57   68]]
+Epoch: 8  train accuracy: 0.742
+Epoch: 8  train accuracy: 0.898
+Epoch: 8  train accuracy: 0.898
+Epoch: 8  train accuracy: 0.812
+Epoch: 8  train accuracy: 0.918
+Epoch: 8  train accuracy: 0.652
+Epoch: 8  train accuracy: 0.906
+Epoch: 8  train accuracy: 0.957
+Epoch: 8  train accuracy: 0.902
+Epoch: 8  train accuracy: 0.664
+Epoch: 8  train accuracy: 0.426
+Epoch: 8  train accuracy: 0.645
+Epoch: 8  train accuracy: 0.801
+Epoch: 8  train accuracy: 0.945
+Epoch: 8  train accuracy: 0.859
+Epoch: 8  train accuracy: 0.641
+Epoch: 8  train accuracy: 0.852
+Epoch: 8  train accuracy: 0.766
+Epoch: 8  train accuracy: 0.773
+Epoch: 8  train accuracy: 0.941
+Epoch: 8  train accuracy: 0.738
+Epoch: 8  train accuracy: 0.875
+Epoch: 8  train accuracy: 0.918
+Epoch: 8  train accuracy: 0.906
+Epoch: 8  train accuracy: 0.422
+Epoch: 8  train accuracy: 0.711
+Epoch: 8  train accuracy: 0.848
+Epoch: 8  train accuracy: 0.723
+Epoch: 8  train accuracy: 0.895
+Epoch: 8  train accuracy: 0.773
+Epoch: 8  train accuracy: 0.859
+Epoch: 8  train accuracy: 0.844
+Epoch: 8  train accuracy: 0.734
+Epoch: 8  train accuracy: 0.934
+Epoch: 8  train accuracy: 0.977
+Epoch: 8  train accuracy: 0.840
+Epoch: 8  train accuracy: 0.809
+Epoch: 8  train accuracy: 0.633
+Epoch: 8  train accuracy: 0.789
+Epoch: 8  train accuracy: 0.574
+Epoch: 8  train accuracy: 0.578
+Epoch: 8  train accuracy: 0.801
+Epoch: 8  train accuracy: 0.953
+Epoch: 8  train accuracy: 0.918
+Epoch: 8  train accuracy: 0.801
+Epoch: 8  train accuracy: 0.836
+Epoch: 8  train accuracy: 0.605
+Epoch: 8  train accuracy: 0.879
+Epoch: 8  train accuracy: 0.898
+Epoch: 8  train accuracy: 0.934
+Epoch: 8  train accuracy: 0.934
+Epoch: 8  train accuracy: 0.598
+Epoch: 8  train accuracy: 0.660
+Epoch: 8  train accuracy: 0.746
+Epoch: 8  train accuracy: 0.867
+Epoch: 8  train accuracy: 0.934
+Epoch: 8  train accuracy: 0.852
+Epoch: 8  train accuracy: 0.883
+Epoch: 8  train accuracy: 0.871
+Epoch: 8  train accuracy: 0.805
+Epoch: 8  train accuracy: 0.734
+Epoch: 8  train accuracy: 0.844
+Epoch: 8  train accuracy: 0.871
+Epoch: 8  train accuracy: 0.957
+Epoch: 8  train accuracy: 0.934
+Epoch: 8  train accuracy: 0.914
+Epoch: 8  train accuracy: 0.883
+Epoch: 8  train accuracy: 0.793
+Epoch: 8  train accuracy: 0.508
+Epoch: 8  train accuracy: 0.766
+Epoch: 8  train accuracy: 0.820
+Epoch: 8  train accuracy: 0.879
+Epoch: 8  train accuracy: 0.793
+Epoch: 8  train accuracy: 0.750
+Epoch: 8  train accuracy: 0.852
+Epoch: 8  train accuracy: 0.801
+Epoch: 8  train accuracy: 0.895
+Epoch: 8  train accuracy: 0.918
+Epoch: 8  train accuracy: 0.898
+Epoch: 8  train accuracy: 0.836
+Epoch: 8  train accuracy: 0.824
+Epoch: 8  train accuracy: 0.707
+Epoch: 8  train accuracy: 0.820
+Epoch: 8  train accuracy: 0.824
+Epoch: 8  train accuracy: 0.844
+Epoch: 8  train accuracy: 0.812
+Epoch: 8  train accuracy: 0.867
+Epoch: 8  train accuracy: 0.797
+Epoch: 8  train accuracy: 0.949
+Epoch: 8  train accuracy: 0.938
+Epoch: 8  train accuracy: 0.883
+Epoch: 8  train accuracy: 0.844
+Epoch: 8  train accuracy: 0.875
+Epoch: 8  train accuracy: 0.867
+Epoch: 8  train accuracy: 0.828
+Epoch: 8  train accuracy: 0.656
+Epoch: 8  train accuracy: 0.883
+Epoch: 8  train accuracy: 0.871
+Epoch: 8  train accuracy: 0.797
+training finished for epoch  8
+Epoch: 8 batch:  1 cost = 40.44996  test accuracy: 0.893
+[[3574  402]
+ [  38   82]]
+Epoch: 8 batch:  2 cost = 40.44996  test accuracy: 0.876
+[[3490  462]
+ [  45   99]]
+Epoch: 8 batch:  3 cost = 40.44996  test accuracy: 0.882
+[[3530  451]
+ [  32   83]]
+Epoch: 8 batch:  4 cost = 40.44996  test accuracy: 0.881
+[[3528  448]
+ [  38   82]]
+Epoch: 8 batch:  5 cost = 40.44996  test accuracy: 0.873
+[[3490  462]
+ [  58   86]]
+Epoch: 8 batch:  6 cost = 40.44996  test accuracy: 0.885
+[[3548  423]
+ [  50   75]]
+Epoch: 9  train accuracy: 0.949
+Epoch: 9  train accuracy: 0.754
+Epoch: 9  train accuracy: 0.840
+Epoch: 9  train accuracy: 0.656
+Epoch: 9  train accuracy: 0.836
+Epoch: 9  train accuracy: 0.715
+Epoch: 9  train accuracy: 0.793
+Epoch: 9  train accuracy: 0.961
+Epoch: 9  train accuracy: 0.969
+Epoch: 9  train accuracy: 0.707
+Epoch: 9  train accuracy: 0.434
+Epoch: 9  train accuracy: 0.414
+Epoch: 9  train accuracy: 0.719
+Epoch: 9  train accuracy: 0.934
+Epoch: 9  train accuracy: 0.879
+Epoch: 9  train accuracy: 0.555
+Epoch: 9  train accuracy: 0.801
+Epoch: 9  train accuracy: 0.793
+Epoch: 9  train accuracy: 0.820
+Epoch: 9  train accuracy: 0.902
+Epoch: 9  train accuracy: 0.660
+Epoch: 9  train accuracy: 0.891
+Epoch: 9  train accuracy: 0.945
+Epoch: 9  train accuracy: 0.863
+Epoch: 9  train accuracy: 0.492
+Epoch: 9  train accuracy: 0.770
+Epoch: 9  train accuracy: 0.801
+Epoch: 9  train accuracy: 0.793
+Epoch: 9  train accuracy: 0.953
+Epoch: 9  train accuracy: 0.895
+Epoch: 9  train accuracy: 0.875
+Epoch: 9  train accuracy: 0.777
+Epoch: 9  train accuracy: 0.730
+Epoch: 9  train accuracy: 0.953
+Epoch: 9  train accuracy: 0.953
+Epoch: 9  train accuracy: 0.805
+Epoch: 9  train accuracy: 0.977
+Epoch: 9  train accuracy: 0.918
+Epoch: 9  train accuracy: 0.387
+Epoch: 9  train accuracy: 0.262
+Epoch: 9  train accuracy: 0.578
+Epoch: 9  train accuracy: 0.820
+Epoch: 9  train accuracy: 0.977
+Epoch: 9  train accuracy: 0.938
+Epoch: 9  train accuracy: 0.863
+Epoch: 9  train accuracy: 0.867
+Epoch: 9  train accuracy: 0.539
+Epoch: 9  train accuracy: 0.887
+Epoch: 9  train accuracy: 0.898
+Epoch: 9  train accuracy: 0.930
+Epoch: 9  train accuracy: 0.910
+Epoch: 9  train accuracy: 0.746
+Epoch: 9  train accuracy: 0.645
+Epoch: 9  train accuracy: 0.559
+Epoch: 9  train accuracy: 0.863
+Epoch: 9  train accuracy: 0.906
+Epoch: 9  train accuracy: 0.945
+Epoch: 9  train accuracy: 0.734
+Epoch: 9  train accuracy: 0.906
+Epoch: 9  train accuracy: 0.875
+Epoch: 9  train accuracy: 0.855
+Epoch: 9  train accuracy: 0.824
+Epoch: 9  train accuracy: 0.828
+Epoch: 9  train accuracy: 0.859
+Epoch: 9  train accuracy: 0.883
+Epoch: 9  train accuracy: 0.922
+Epoch: 9  train accuracy: 0.852
+Epoch: 9  train accuracy: 0.762
+Epoch: 9  train accuracy: 0.543
+Epoch: 9  train accuracy: 0.711
+Epoch: 9  train accuracy: 0.805
+Epoch: 9  train accuracy: 0.859
+Epoch: 9  train accuracy: 0.754
+Epoch: 9  train accuracy: 0.777
+Epoch: 9  train accuracy: 0.859
+Epoch: 9  train accuracy: 0.754
+Epoch: 9  train accuracy: 0.844
+Epoch: 9  train accuracy: 0.910
+Epoch: 9  train accuracy: 0.867
+Epoch: 9  train accuracy: 0.746
+Epoch: 9  train accuracy: 0.828
+Epoch: 9  train accuracy: 0.691
+Epoch: 9  train accuracy: 0.812
+Epoch: 9  train accuracy: 0.844
+Epoch: 9  train accuracy: 0.809
+Epoch: 9  train accuracy: 0.832
+Epoch: 9  train accuracy: 0.844
+Epoch: 9  train accuracy: 0.840
+Epoch: 9  train accuracy: 0.906
+Epoch: 9  train accuracy: 0.926
+Epoch: 9  train accuracy: 0.836
+Epoch: 9  train accuracy: 0.781
+Epoch: 9  train accuracy: 0.852
+Epoch: 9  train accuracy: 0.883
+Epoch: 9  train accuracy: 0.855
+Epoch: 9  train accuracy: 0.754
+Epoch: 9  train accuracy: 0.914
+Epoch: 9  train accuracy: 0.910
+Epoch: 9  train accuracy: 0.770
+training finished for epoch  9
+Epoch: 9 batch:  1 cost = 41.40410  test accuracy: 0.897
+[[3590  386]
+ [  35   85]]
+Epoch: 9 batch:  2 cost = 41.40410  test accuracy: 0.879
+[[3500  452]
+ [  45   99]]
+Epoch: 9 batch:  3 cost = 41.40410  test accuracy: 0.885
+[[3540  441]
+ [  28   87]]
+Epoch: 9 batch:  4 cost = 41.40410  test accuracy: 0.887
+[[3549  427]
+ [  35   85]]
+Epoch: 9 batch:  5 cost = 41.40410  test accuracy: 0.880
+[[3510  442]
+ [  48   96]]
+Epoch: 9 batch:  6 cost = 41.40410  test accuracy: 0.889
+[[3563  408]
+ [  47   78]]
+Epoch: 10  train accuracy: 0.871
+Epoch: 10  train accuracy: 0.824
+Epoch: 10  train accuracy: 0.879
+Epoch: 10  train accuracy: 0.785
+Epoch: 10  train accuracy: 0.895
+Epoch: 10  train accuracy: 0.688
+Epoch: 10  train accuracy: 0.855
+Epoch: 10  train accuracy: 0.957
+Epoch: 10  train accuracy: 0.930
+Epoch: 10  train accuracy: 0.680
+Epoch: 10  train accuracy: 0.469
+Epoch: 10  train accuracy: 0.430
+Epoch: 10  train accuracy: 0.695
+Epoch: 10  train accuracy: 0.949
+Epoch: 10  train accuracy: 0.883
+Epoch: 10  train accuracy: 0.750
+Epoch: 10  train accuracy: 0.844
+Epoch: 10  train accuracy: 0.844
+Epoch: 10  train accuracy: 0.816
+Epoch: 10  train accuracy: 0.914
+Epoch: 10  train accuracy: 0.555
+Epoch: 10  train accuracy: 0.891
+Epoch: 10  train accuracy: 0.910
+Epoch: 10  train accuracy: 0.891
+Epoch: 10  train accuracy: 0.461
+Epoch: 10  train accuracy: 0.824
+Epoch: 10  train accuracy: 0.812
+Epoch: 10  train accuracy: 0.730
+Epoch: 10  train accuracy: 0.895
+Epoch: 10  train accuracy: 0.824
+Epoch: 10  train accuracy: 0.895
+Epoch: 10  train accuracy: 0.828
+Epoch: 10  train accuracy: 0.777
+Epoch: 10  train accuracy: 0.926
+Epoch: 10  train accuracy: 0.957
+Epoch: 10  train accuracy: 0.766
+Epoch: 10  train accuracy: 0.719
+Epoch: 10  train accuracy: 0.770
+Epoch: 10  train accuracy: 0.695
+Epoch: 10  train accuracy: 0.516
+Epoch: 10  train accuracy: 0.461
+Epoch: 10  train accuracy: 0.598
+Epoch: 10  train accuracy: 0.895
+Epoch: 10  train accuracy: 0.973
+Epoch: 10  train accuracy: 0.914
+Epoch: 10  train accuracy: 0.934
+Epoch: 10  train accuracy: 0.469
+Epoch: 10  train accuracy: 0.844
+Epoch: 10  train accuracy: 0.879
+Epoch: 10  train accuracy: 0.973
+Epoch: 10  train accuracy: 0.965
+Epoch: 10  train accuracy: 0.754
+Epoch: 10  train accuracy: 0.574
+Epoch: 10  train accuracy: 0.348
+Epoch: 10  train accuracy: 0.605
+Epoch: 10  train accuracy: 0.754
+Epoch: 10  train accuracy: 0.895
+Epoch: 10  train accuracy: 0.812
+Epoch: 10  train accuracy: 0.898
+Epoch: 10  train accuracy: 0.762
+Epoch: 10  train accuracy: 0.781
+Epoch: 10  train accuracy: 0.910
+Epoch: 10  train accuracy: 0.875
+Epoch: 10  train accuracy: 0.930
+Epoch: 10  train accuracy: 0.906
+Epoch: 10  train accuracy: 0.895
+Epoch: 10  train accuracy: 0.891
+Epoch: 10  train accuracy: 0.812
+Epoch: 10  train accuracy: 0.574
+Epoch: 10  train accuracy: 0.602
+Epoch: 10  train accuracy: 0.758
+Epoch: 10  train accuracy: 0.879
+Epoch: 10  train accuracy: 0.766
+Epoch: 10  train accuracy: 0.793
+Epoch: 10  train accuracy: 0.875
+Epoch: 10  train accuracy: 0.750
+Epoch: 10  train accuracy: 0.828
+Epoch: 10  train accuracy: 0.867
+Epoch: 10  train accuracy: 0.891
+Epoch: 10  train accuracy: 0.797
+Epoch: 10  train accuracy: 0.801
+Epoch: 10  train accuracy: 0.703
+Epoch: 10  train accuracy: 0.758
+Epoch: 10  train accuracy: 0.848
+Epoch: 10  train accuracy: 0.812
+Epoch: 10  train accuracy: 0.852
+Epoch: 10  train accuracy: 0.883
+Epoch: 10  train accuracy: 0.871
+Epoch: 10  train accuracy: 0.945
+Epoch: 10  train accuracy: 0.883
+Epoch: 10  train accuracy: 0.801
+Epoch: 10  train accuracy: 0.805
+Epoch: 10  train accuracy: 0.906
+Epoch: 10  train accuracy: 0.844
+Epoch: 10  train accuracy: 0.805
+Epoch: 10  train accuracy: 0.816
+Epoch: 10  train accuracy: 0.891
+Epoch: 10  train accuracy: 0.922
+Epoch: 10  train accuracy: 0.840
+training finished for epoch  10
+Epoch: 10 batch:  1 cost = 41.67850  test accuracy: 0.924
+[[3725  251]
+ [  61   59]]
+Epoch: 10 batch:  2 cost = 41.67850  test accuracy: 0.906
+[[3640  312]
+ [  75   69]]
+Epoch: 10 batch:  3 cost = 41.67850  test accuracy: 0.919
+[[3698  283]
+ [  48   67]]
+Epoch: 10 batch:  4 cost = 41.67850  test accuracy: 0.917
+[[3694  282]
+ [  59   61]]
+Epoch: 10 batch:  5 cost = 41.67850  test accuracy: 0.906
+[[3651  301]
+ [  85   59]]
+Epoch: 10 batch:  6 cost = 41.67850  test accuracy: 0.921
+[[3707  264]
+ [  61   64]]
+Epoch: 11  train accuracy: 0.906
+Epoch: 11  train accuracy: 0.863
+Epoch: 11  train accuracy: 0.832
+Epoch: 11  train accuracy: 0.766
+Epoch: 11  train accuracy: 0.914
+Epoch: 11  train accuracy: 0.656
+Epoch: 11  train accuracy: 0.871
+Epoch: 11  train accuracy: 0.973
+Epoch: 11  train accuracy: 0.957
+Epoch: 11  train accuracy: 0.836
+Epoch: 11  train accuracy: 0.668
+Epoch: 11  train accuracy: 0.484
+Epoch: 11  train accuracy: 0.535
+Epoch: 11  train accuracy: 0.957
+Epoch: 11  train accuracy: 0.980
+Epoch: 11  train accuracy: 0.402
+Epoch: 11  train accuracy: 0.602
+Epoch: 11  train accuracy: 0.855
+Epoch: 11  train accuracy: 0.785
+Epoch: 11  train accuracy: 0.902
+Epoch: 11  train accuracy: 0.844
+Epoch: 11  train accuracy: 0.816
+Epoch: 11  train accuracy: 0.871
+Epoch: 11  train accuracy: 0.824
+Epoch: 11  train accuracy: 0.699
+Epoch: 11  train accuracy: 0.906
+Epoch: 11  train accuracy: 0.715
+Epoch: 11  train accuracy: 0.664
+Epoch: 11  train accuracy: 0.844
+Epoch: 11  train accuracy: 0.824
+Epoch: 11  train accuracy: 0.902
+Epoch: 11  train accuracy: 0.727
+Epoch: 11  train accuracy: 0.594
+Epoch: 11  train accuracy: 0.797
+Epoch: 11  train accuracy: 0.926
+Epoch: 11  train accuracy: 0.906
+Epoch: 11  train accuracy: 0.949
+Epoch: 11  train accuracy: 0.777
+Epoch: 11  train accuracy: 0.773
+Epoch: 11  train accuracy: 0.641
+Epoch: 11  train accuracy: 0.543
+Epoch: 11  train accuracy: 0.574
+Epoch: 11  train accuracy: 0.895
+Epoch: 11  train accuracy: 0.938
+Epoch: 11  train accuracy: 0.902
+Epoch: 11  train accuracy: 0.848
+Epoch: 11  train accuracy: 0.777
+Epoch: 11  train accuracy: 0.766
+Epoch: 11  train accuracy: 0.727
+Epoch: 11  train accuracy: 0.863
+Epoch: 11  train accuracy: 0.895
+Epoch: 11  train accuracy: 0.891
+Epoch: 11  train accuracy: 0.879
+Epoch: 11  train accuracy: 0.754
+Epoch: 11  train accuracy: 0.730
+Epoch: 11  train accuracy: 0.812
+Epoch: 11  train accuracy: 0.836
+Epoch: 11  train accuracy: 0.824
+Epoch: 11  train accuracy: 0.848
+Epoch: 11  train accuracy: 0.703
+Epoch: 11  train accuracy: 0.742
+Epoch: 11  train accuracy: 0.828
+Epoch: 11  train accuracy: 0.863
+Epoch: 11  train accuracy: 0.918
+Epoch: 11  train accuracy: 0.785
+Epoch: 11  train accuracy: 0.918
+Epoch: 11  train accuracy: 0.805
+Epoch: 11  train accuracy: 0.785
+Epoch: 11  train accuracy: 0.660
+Epoch: 11  train accuracy: 0.723
+Epoch: 11  train accuracy: 0.828
+Epoch: 11  train accuracy: 0.738
+Epoch: 11  train accuracy: 0.707
+Epoch: 11  train accuracy: 0.832
+Epoch: 11  train accuracy: 0.895
+Epoch: 11  train accuracy: 0.703
+Epoch: 11  train accuracy: 0.883
+Epoch: 11  train accuracy: 0.895
+Epoch: 11  train accuracy: 0.879
+Epoch: 11  train accuracy: 0.801
+Epoch: 11  train accuracy: 0.785
+Epoch: 11  train accuracy: 0.727
+Epoch: 11  train accuracy: 0.785
+Epoch: 11  train accuracy: 0.867
+Epoch: 11  train accuracy: 0.836
+Epoch: 11  train accuracy: 0.863
+Epoch: 11  train accuracy: 0.777
+Epoch: 11  train accuracy: 0.801
+Epoch: 11  train accuracy: 0.934
+Epoch: 11  train accuracy: 0.941
+Epoch: 11  train accuracy: 0.863
+Epoch: 11  train accuracy: 0.738
+Epoch: 11  train accuracy: 0.902
+Epoch: 11  train accuracy: 0.898
+Epoch: 11  train accuracy: 0.922
+Epoch: 11  train accuracy: 0.719
+Epoch: 11  train accuracy: 0.949
+Epoch: 11  train accuracy: 0.965
+Epoch: 11  train accuracy: 0.824
+training finished for epoch  11
+Epoch: 11 batch:  1 cost = 38.82881  test accuracy: 0.929
+[[3736  240]
+ [  50   70]]
+Epoch: 11 batch:  2 cost = 38.82881  test accuracy: 0.914
+[[3667  285]
+ [  66   78]]
+Epoch: 11 batch:  3 cost = 38.82881  test accuracy: 0.922
+[[3708  273]
+ [  48   67]]
+Epoch: 11 batch:  4 cost = 38.82881  test accuracy: 0.924
+[[3710  266]
+ [  47   73]]
+Epoch: 11 batch:  5 cost = 38.82881  test accuracy: 0.909
+[[3654  298]
+ [  76   68]]
+Epoch: 11 batch:  6 cost = 38.82881  test accuracy: 0.920
+[[3702  269]
+ [  60   65]]
+Epoch: 12  train accuracy: 0.879
+Epoch: 12  train accuracy: 0.809
+Epoch: 12  train accuracy: 0.887
+Epoch: 12  train accuracy: 0.820
+Epoch: 12  train accuracy: 0.957
+Epoch: 12  train accuracy: 0.754
+Epoch: 12  train accuracy: 0.840
+Epoch: 12  train accuracy: 0.961
+Epoch: 12  train accuracy: 0.969
+Epoch: 12  train accuracy: 0.855
+Epoch: 12  train accuracy: 0.758
+Epoch: 12  train accuracy: 0.461
+Epoch: 12  train accuracy: 0.492
+Epoch: 12  train accuracy: 0.855
+Epoch: 12  train accuracy: 0.980
+Epoch: 12  train accuracy: 0.523
+Epoch: 12  train accuracy: 0.570
+Epoch: 12  train accuracy: 0.801
+Epoch: 12  train accuracy: 0.777
+Epoch: 12  train accuracy: 0.902
+Epoch: 12  train accuracy: 0.906
+Epoch: 12  train accuracy: 0.809
+Epoch: 12  train accuracy: 0.809
+Epoch: 12  train accuracy: 0.836
+Epoch: 12  train accuracy: 0.664
+Epoch: 12  train accuracy: 0.898
+Epoch: 12  train accuracy: 0.902
+Epoch: 12  train accuracy: 0.695
+Epoch: 12  train accuracy: 0.930
+Epoch: 12  train accuracy: 0.805
+Epoch: 12  train accuracy: 0.879
+Epoch: 12  train accuracy: 0.691
+Epoch: 12  train accuracy: 0.676
+Epoch: 12  train accuracy: 0.891
+Epoch: 12  train accuracy: 0.949
+Epoch: 12  train accuracy: 0.926
+Epoch: 12  train accuracy: 0.926
+Epoch: 12  train accuracy: 0.785
+Epoch: 12  train accuracy: 0.820
+Epoch: 12  train accuracy: 0.605
+Epoch: 12  train accuracy: 0.594
+Epoch: 12  train accuracy: 0.645
+Epoch: 12  train accuracy: 0.938
+Epoch: 12  train accuracy: 0.938
+Epoch: 12  train accuracy: 0.859
+Epoch: 12  train accuracy: 0.898
+Epoch: 12  train accuracy: 0.785
+Epoch: 12  train accuracy: 0.738
+Epoch: 12  train accuracy: 0.648
+Epoch: 12  train accuracy: 0.844
+Epoch: 12  train accuracy: 0.891
+Epoch: 12  train accuracy: 0.895
+Epoch: 12  train accuracy: 0.902
+Epoch: 12  train accuracy: 0.750
+Epoch: 12  train accuracy: 0.773
+Epoch: 12  train accuracy: 0.723
+Epoch: 12  train accuracy: 0.816
+Epoch: 12  train accuracy: 0.863
+Epoch: 12  train accuracy: 0.836
+Epoch: 12  train accuracy: 0.680
+Epoch: 12  train accuracy: 0.766
+Epoch: 12  train accuracy: 0.855
+Epoch: 12  train accuracy: 0.824
+Epoch: 12  train accuracy: 0.926
+Epoch: 12  train accuracy: 0.828
+Epoch: 12  train accuracy: 0.914
+Epoch: 12  train accuracy: 0.840
+Epoch: 12  train accuracy: 0.754
+Epoch: 12  train accuracy: 0.594
+Epoch: 12  train accuracy: 0.742
+Epoch: 12  train accuracy: 0.832
+Epoch: 12  train accuracy: 0.785
+Epoch: 12  train accuracy: 0.742
+Epoch: 12  train accuracy: 0.836
+Epoch: 12  train accuracy: 0.840
+Epoch: 12  train accuracy: 0.680
+Epoch: 12  train accuracy: 0.895
+Epoch: 12  train accuracy: 0.914
+Epoch: 12  train accuracy: 0.879
+Epoch: 12  train accuracy: 0.785
+Epoch: 12  train accuracy: 0.820
+Epoch: 12  train accuracy: 0.668
+Epoch: 12  train accuracy: 0.777
+Epoch: 12  train accuracy: 0.871
+Epoch: 12  train accuracy: 0.824
+Epoch: 12  train accuracy: 0.828
+Epoch: 12  train accuracy: 0.809
+Epoch: 12  train accuracy: 0.809
+Epoch: 12  train accuracy: 0.914
+Epoch: 12  train accuracy: 0.910
+Epoch: 12  train accuracy: 0.895
+Epoch: 12  train accuracy: 0.809
+Epoch: 12  train accuracy: 0.887
+Epoch: 12  train accuracy: 0.918
+Epoch: 12  train accuracy: 0.879
+Epoch: 12  train accuracy: 0.770
+Epoch: 12  train accuracy: 0.930
+Epoch: 12  train accuracy: 0.965
+Epoch: 12  train accuracy: 0.832
+training finished for epoch  12
+Epoch: 12 batch:  1 cost = 38.79359  test accuracy: 0.925
+[[3714  262]
+ [  45   75]]
+Epoch: 12 batch:  2 cost = 38.79359  test accuracy: 0.906
+[[3630  322]
+ [  65   79]]
+Epoch: 12 batch:  3 cost = 38.79359  test accuracy: 0.918
+[[3687  294]
+ [  41   74]]
+Epoch: 12 batch:  4 cost = 38.79359  test accuracy: 0.917
+[[3681  295]
+ [  45   75]]
+Epoch: 12 batch:  5 cost = 38.79359  test accuracy: 0.905
+[[3632  320]
+ [  70   74]]
+Epoch: 12 batch:  6 cost = 38.79359  test accuracy: 0.918
+[[3692  279]
+ [  58   67]]
+Epoch: 13  train accuracy: 0.871
+Epoch: 13  train accuracy: 0.816
+Epoch: 13  train accuracy: 0.859
+Epoch: 13  train accuracy: 0.828
+Epoch: 13  train accuracy: 0.926
+Epoch: 13  train accuracy: 0.695
+Epoch: 13  train accuracy: 0.836
+Epoch: 13  train accuracy: 0.973
+Epoch: 13  train accuracy: 0.973
+Epoch: 13  train accuracy: 0.852
+Epoch: 13  train accuracy: 0.750
+Epoch: 13  train accuracy: 0.461
+Epoch: 13  train accuracy: 0.516
+Epoch: 13  train accuracy: 0.914
+Epoch: 13  train accuracy: 0.980
+Epoch: 13  train accuracy: 0.574
+Epoch: 13  train accuracy: 0.691
+Epoch: 13  train accuracy: 0.793
+Epoch: 13  train accuracy: 0.762
+Epoch: 13  train accuracy: 0.910
+Epoch: 13  train accuracy: 0.902
+Epoch: 13  train accuracy: 0.766
+Epoch: 13  train accuracy: 0.879
+Epoch: 13  train accuracy: 0.762
+Epoch: 13  train accuracy: 0.676
+Epoch: 13  train accuracy: 0.895
+Epoch: 13  train accuracy: 0.758
+Epoch: 13  train accuracy: 0.844
+Epoch: 13  train accuracy: 0.871
+Epoch: 13  train accuracy: 0.859
+Epoch: 13  train accuracy: 0.891
+Epoch: 13  train accuracy: 0.715
+Epoch: 13  train accuracy: 0.625
+Epoch: 13  train accuracy: 0.855
+Epoch: 13  train accuracy: 0.887
+Epoch: 13  train accuracy: 0.926
+Epoch: 13  train accuracy: 0.938
+Epoch: 13  train accuracy: 0.785
+Epoch: 13  train accuracy: 0.777
+Epoch: 13  train accuracy: 0.613
+Epoch: 13  train accuracy: 0.570
+Epoch: 13  train accuracy: 0.648
+Epoch: 13  train accuracy: 0.922
+Epoch: 13  train accuracy: 0.961
+Epoch: 13  train accuracy: 0.902
+Epoch: 13  train accuracy: 0.863
+Epoch: 13  train accuracy: 0.719
+Epoch: 13  train accuracy: 0.770
+Epoch: 13  train accuracy: 0.688
+Epoch: 13  train accuracy: 0.859
+Epoch: 13  train accuracy: 0.910
+Epoch: 13  train accuracy: 0.906
+Epoch: 13  train accuracy: 0.863
+Epoch: 13  train accuracy: 0.762
+Epoch: 13  train accuracy: 0.742
+Epoch: 13  train accuracy: 0.793
+Epoch: 13  train accuracy: 0.789
+Epoch: 13  train accuracy: 0.871
+Epoch: 13  train accuracy: 0.871
+Epoch: 13  train accuracy: 0.711
+Epoch: 13  train accuracy: 0.805
+Epoch: 13  train accuracy: 0.824
+Epoch: 13  train accuracy: 0.820
+Epoch: 13  train accuracy: 0.883
+Epoch: 13  train accuracy: 0.785
+Epoch: 13  train accuracy: 0.934
+Epoch: 13  train accuracy: 0.848
+Epoch: 13  train accuracy: 0.777
+Epoch: 13  train accuracy: 0.652
+Epoch: 13  train accuracy: 0.707
+Epoch: 13  train accuracy: 0.812
+Epoch: 13  train accuracy: 0.797
+Epoch: 13  train accuracy: 0.816
+Epoch: 13  train accuracy: 0.828
+Epoch: 13  train accuracy: 0.852
+Epoch: 13  train accuracy: 0.758
+Epoch: 13  train accuracy: 0.922
+Epoch: 13  train accuracy: 0.875
+Epoch: 13  train accuracy: 0.914
+Epoch: 13  train accuracy: 0.801
+Epoch: 13  train accuracy: 0.797
+Epoch: 13  train accuracy: 0.703
+Epoch: 13  train accuracy: 0.750
+Epoch: 13  train accuracy: 0.922
+Epoch: 13  train accuracy: 0.844
+Epoch: 13  train accuracy: 0.789
+Epoch: 13  train accuracy: 0.793
+Epoch: 13  train accuracy: 0.793
+Epoch: 13  train accuracy: 0.910
+Epoch: 13  train accuracy: 0.914
+Epoch: 13  train accuracy: 0.871
+Epoch: 13  train accuracy: 0.746
+Epoch: 13  train accuracy: 0.895
+Epoch: 13  train accuracy: 0.895
+Epoch: 13  train accuracy: 0.867
+Epoch: 13  train accuracy: 0.703
+Epoch: 13  train accuracy: 0.941
+Epoch: 13  train accuracy: 0.984
+Epoch: 13  train accuracy: 0.879
+training finished for epoch  13
+Epoch: 13 batch:  1 cost = 38.20555  test accuracy: 0.933
+[[3763  213]
+ [  60   60]]
+Epoch: 13 batch:  2 cost = 38.20555  test accuracy: 0.920
+[[3701  251]
+ [  75   69]]
+Epoch: 13 batch:  3 cost = 38.20555  test accuracy: 0.926
+[[3731  250]
+ [  53   62]]
+Epoch: 13 batch:  4 cost = 38.20555  test accuracy: 0.927
+[[3734  242]
+ [  58   62]]
+Epoch: 13 batch:  5 cost = 38.20555  test accuracy: 0.913
+[[3682  270]
+ [  88   56]]
+Epoch: 13 batch:  6 cost = 38.20555  test accuracy: 0.923
+[[3724  247]
+ [  70   55]]
+Epoch: 14  train accuracy: 0.848
+Epoch: 14  train accuracy: 0.770
+Epoch: 14  train accuracy: 0.891
+Epoch: 14  train accuracy: 0.828
+Epoch: 14  train accuracy: 0.953
+Epoch: 14  train accuracy: 0.688
+Epoch: 14  train accuracy: 0.855
+Epoch: 14  train accuracy: 0.953
+Epoch: 14  train accuracy: 0.945
+Epoch: 14  train accuracy: 0.867
+Epoch: 14  train accuracy: 0.742
+Epoch: 14  train accuracy: 0.547
+Epoch: 14  train accuracy: 0.523
+Epoch: 14  train accuracy: 0.902
+Epoch: 14  train accuracy: 0.957
+Epoch: 14  train accuracy: 0.539
+Epoch: 14  train accuracy: 0.656
+Epoch: 14  train accuracy: 0.828
+Epoch: 14  train accuracy: 0.762
+Epoch: 14  train accuracy: 0.918
+Epoch: 14  train accuracy: 0.879
+Epoch: 14  train accuracy: 0.789
+Epoch: 14  train accuracy: 0.836
+Epoch: 14  train accuracy: 0.766
+Epoch: 14  train accuracy: 0.719
+Epoch: 14  train accuracy: 0.879
+Epoch: 14  train accuracy: 0.746
+Epoch: 14  train accuracy: 0.797
+Epoch: 14  train accuracy: 0.898
+Epoch: 14  train accuracy: 0.828
+Epoch: 14  train accuracy: 0.906
+Epoch: 14  train accuracy: 0.680
+Epoch: 14  train accuracy: 0.598
+Epoch: 14  train accuracy: 0.840
+Epoch: 14  train accuracy: 0.891
+Epoch: 14  train accuracy: 0.926
+Epoch: 14  train accuracy: 0.957
+Epoch: 14  train accuracy: 0.750
+Epoch: 14  train accuracy: 0.785
+Epoch: 14  train accuracy: 0.594
+Epoch: 14  train accuracy: 0.504
+Epoch: 14  train accuracy: 0.527
+Epoch: 14  train accuracy: 0.887
+Epoch: 14  train accuracy: 0.957
+Epoch: 14  train accuracy: 0.891
+Epoch: 14  train accuracy: 0.793
+Epoch: 14  train accuracy: 0.836
+Epoch: 14  train accuracy: 0.848
+Epoch: 14  train accuracy: 0.746
+Epoch: 14  train accuracy: 0.871
+Epoch: 14  train accuracy: 0.883
+Epoch: 14  train accuracy: 0.863
+Epoch: 14  train accuracy: 0.863
+Epoch: 14  train accuracy: 0.711
+Epoch: 14  train accuracy: 0.777
+Epoch: 14  train accuracy: 0.793
+Epoch: 14  train accuracy: 0.875
+Epoch: 14  train accuracy: 0.855
+Epoch: 14  train accuracy: 0.848
+Epoch: 14  train accuracy: 0.742
+Epoch: 14  train accuracy: 0.805
+Epoch: 14  train accuracy: 0.824
+Epoch: 14  train accuracy: 0.844
+Epoch: 14  train accuracy: 0.934
+Epoch: 14  train accuracy: 0.859
+Epoch: 14  train accuracy: 0.926
+Epoch: 14  train accuracy: 0.812
+Epoch: 14  train accuracy: 0.820
+Epoch: 14  train accuracy: 0.590
+Epoch: 14  train accuracy: 0.742
+Epoch: 14  train accuracy: 0.828
+Epoch: 14  train accuracy: 0.777
+Epoch: 14  train accuracy: 0.691
+Epoch: 14  train accuracy: 0.816
+Epoch: 14  train accuracy: 0.875
+Epoch: 14  train accuracy: 0.773
+Epoch: 14  train accuracy: 0.906
+Epoch: 14  train accuracy: 0.895
+Epoch: 14  train accuracy: 0.883
+Epoch: 14  train accuracy: 0.820
+Epoch: 14  train accuracy: 0.844
+Epoch: 14  train accuracy: 0.691
+Epoch: 14  train accuracy: 0.793
+Epoch: 14  train accuracy: 0.828
+Epoch: 14  train accuracy: 0.852
+Epoch: 14  train accuracy: 0.859
+Epoch: 14  train accuracy: 0.816
+Epoch: 14  train accuracy: 0.832
+Epoch: 14  train accuracy: 0.891
+Epoch: 14  train accuracy: 0.922
+Epoch: 14  train accuracy: 0.875
+Epoch: 14  train accuracy: 0.777
+Epoch: 14  train accuracy: 0.945
+Epoch: 14  train accuracy: 0.922
+Epoch: 14  train accuracy: 0.883
+Epoch: 14  train accuracy: 0.750
+Epoch: 14  train accuracy: 0.969
+Epoch: 14  train accuracy: 0.992
+Epoch: 14  train accuracy: 0.852
+training finished for epoch  14
+Epoch: 14 batch:  1 cost = 37.84954  test accuracy: 0.926
+[[3727  249]
+ [  56   64]]
+Epoch: 14 batch:  2 cost = 37.84954  test accuracy: 0.907
+[[3640  312]
+ [  67   77]]
+Epoch: 14 batch:  3 cost = 37.84954  test accuracy: 0.918
+[[3694  287]
+ [  47   68]]
+Epoch: 14 batch:  4 cost = 37.84954  test accuracy: 0.917
+[[3695  281]
+ [  58   62]]
+Epoch: 14 batch:  5 cost = 37.84954  test accuracy: 0.906
+[[3648  304]
+ [  83   61]]
+Epoch: 14 batch:  6 cost = 37.84954  test accuracy: 0.917
+[[3695  276]
+ [  66   59]]
+Epoch: 15  train accuracy: 0.855
+Epoch: 15  train accuracy: 0.859
+Epoch: 15  train accuracy: 0.895
+Epoch: 15  train accuracy: 0.797
+Epoch: 15  train accuracy: 0.941
+Epoch: 15  train accuracy: 0.727
+Epoch: 15  train accuracy: 0.824
+Epoch: 15  train accuracy: 0.941
+Epoch: 15  train accuracy: 0.945
+Epoch: 15  train accuracy: 0.848
+Epoch: 15  train accuracy: 0.734
+Epoch: 15  train accuracy: 0.586
+Epoch: 15  train accuracy: 0.508
+Epoch: 15  train accuracy: 0.922
+Epoch: 15  train accuracy: 0.973
+Epoch: 15  train accuracy: 0.660
+Epoch: 15  train accuracy: 0.715
+Epoch: 15  train accuracy: 0.820
+Epoch: 15  train accuracy: 0.785
+Epoch: 15  train accuracy: 0.914
+Epoch: 15  train accuracy: 0.871
+Epoch: 15  train accuracy: 0.742
+Epoch: 15  train accuracy: 0.812
+Epoch: 15  train accuracy: 0.727
+Epoch: 15  train accuracy: 0.664
+Epoch: 15  train accuracy: 0.902
+Epoch: 15  train accuracy: 0.719
+Epoch: 15  train accuracy: 0.789
+Epoch: 15  train accuracy: 0.906
+Epoch: 15  train accuracy: 0.824
+Epoch: 15  train accuracy: 0.902
+Epoch: 15  train accuracy: 0.730
+Epoch: 15  train accuracy: 0.648
+Epoch: 15  train accuracy: 0.836
+Epoch: 15  train accuracy: 0.922
+Epoch: 15  train accuracy: 0.941
+Epoch: 15  train accuracy: 0.938
+Epoch: 15  train accuracy: 0.809
+Epoch: 15  train accuracy: 0.777
+Epoch: 15  train accuracy: 0.605
+Epoch: 15  train accuracy: 0.559
+Epoch: 15  train accuracy: 0.605
+Epoch: 15  train accuracy: 0.906
+Epoch: 15  train accuracy: 0.969
+Epoch: 15  train accuracy: 0.930
+Epoch: 15  train accuracy: 0.895
+Epoch: 15  train accuracy: 0.816
+Epoch: 15  train accuracy: 0.781
+Epoch: 15  train accuracy: 0.734
+Epoch: 15  train accuracy: 0.832
+Epoch: 15  train accuracy: 0.848
+Epoch: 15  train accuracy: 0.898
+Epoch: 15  train accuracy: 0.930
+Epoch: 15  train accuracy: 0.742
+Epoch: 15  train accuracy: 0.742
+Epoch: 15  train accuracy: 0.809
+Epoch: 15  train accuracy: 0.863
+Epoch: 15  train accuracy: 0.914
+Epoch: 15  train accuracy: 0.844
+Epoch: 15  train accuracy: 0.691
+Epoch: 15  train accuracy: 0.754
+Epoch: 15  train accuracy: 0.812
+Epoch: 15  train accuracy: 0.844
+Epoch: 15  train accuracy: 0.926
+Epoch: 15  train accuracy: 0.785
+Epoch: 15  train accuracy: 0.930
+Epoch: 15  train accuracy: 0.844
+Epoch: 15  train accuracy: 0.781
+Epoch: 15  train accuracy: 0.566
+Epoch: 15  train accuracy: 0.730
+Epoch: 15  train accuracy: 0.828
+Epoch: 15  train accuracy: 0.801
+Epoch: 15  train accuracy: 0.746
+Epoch: 15  train accuracy: 0.836
+Epoch: 15  train accuracy: 0.863
+Epoch: 15  train accuracy: 0.723
+Epoch: 15  train accuracy: 0.863
+Epoch: 15  train accuracy: 0.902
+Epoch: 15  train accuracy: 0.898
+Epoch: 15  train accuracy: 0.832
+Epoch: 15  train accuracy: 0.844
+Epoch: 15  train accuracy: 0.762
+Epoch: 15  train accuracy: 0.746
+Epoch: 15  train accuracy: 0.836
+Epoch: 15  train accuracy: 0.828
+Epoch: 15  train accuracy: 0.836
+Epoch: 15  train accuracy: 0.777
+Epoch: 15  train accuracy: 0.809
+Epoch: 15  train accuracy: 0.926
+Epoch: 15  train accuracy: 0.922
+Epoch: 15  train accuracy: 0.836
+Epoch: 15  train accuracy: 0.770
+Epoch: 15  train accuracy: 0.910
+Epoch: 15  train accuracy: 0.938
+Epoch: 15  train accuracy: 0.938
+Epoch: 15  train accuracy: 0.758
+Epoch: 15  train accuracy: 0.938
+Epoch: 15  train accuracy: 0.973
+Epoch: 15  train accuracy: 0.859
+training finished for epoch  15
+Epoch: 15 batch:  1 cost = 37.59296  test accuracy: 0.931
+[[3755  221]
+ [  61   59]]
+Epoch: 15 batch:  2 cost = 37.59296  test accuracy: 0.917
+[[3692  260]
+ [  80   64]]
+Epoch: 15 batch:  3 cost = 37.59296  test accuracy: 0.924
+[[3728  253]
+ [  57   58]]
+Epoch: 15 batch:  4 cost = 37.59296  test accuracy: 0.925
+[[3735  241]
+ [  65   55]]
+Epoch: 15 batch:  5 cost = 37.59296  test accuracy: 0.912
+[[3683  269]
+ [  92   52]]
+Epoch: 15 batch:  6 cost = 37.59296  test accuracy: 0.925
+[[3736  235]
+ [  72   53]]
+Epoch: 16  train accuracy: 0.875
+Epoch: 16  train accuracy: 0.754
+Epoch: 16  train accuracy: 0.875
+Epoch: 16  train accuracy: 0.809
+Epoch: 16  train accuracy: 0.969
+Epoch: 16  train accuracy: 0.676
+Epoch: 16  train accuracy: 0.781
+Epoch: 16  train accuracy: 0.945
+Epoch: 16  train accuracy: 0.973
+Epoch: 16  train accuracy: 0.879
+Epoch: 16  train accuracy: 0.789
+Epoch: 16  train accuracy: 0.512
+Epoch: 16  train accuracy: 0.504
+Epoch: 16  train accuracy: 0.887
+Epoch: 16  train accuracy: 0.969
+Epoch: 16  train accuracy: 0.828
+Epoch: 16  train accuracy: 0.863
+Epoch: 16  train accuracy: 0.727
+Epoch: 16  train accuracy: 0.664
+Epoch: 16  train accuracy: 0.789
+Epoch: 16  train accuracy: 0.809
+Epoch: 16  train accuracy: 0.836
+Epoch: 16  train accuracy: 0.867
+Epoch: 16  train accuracy: 0.820
+Epoch: 16  train accuracy: 0.738
+Epoch: 16  train accuracy: 0.801
+Epoch: 16  train accuracy: 0.777
+Epoch: 16  train accuracy: 0.637
+Epoch: 16  train accuracy: 0.953
+Epoch: 16  train accuracy: 0.914
+Epoch: 16  train accuracy: 0.844
+Epoch: 16  train accuracy: 0.789
+Epoch: 16  train accuracy: 0.680
+Epoch: 16  train accuracy: 0.848
+Epoch: 16  train accuracy: 0.926
+Epoch: 16  train accuracy: 0.906
+Epoch: 16  train accuracy: 0.930
+Epoch: 16  train accuracy: 0.777
+Epoch: 16  train accuracy: 0.875
+Epoch: 16  train accuracy: 0.707
+Epoch: 16  train accuracy: 0.664
+Epoch: 16  train accuracy: 0.555
+Epoch: 16  train accuracy: 0.836
+Epoch: 16  train accuracy: 0.898
+Epoch: 16  train accuracy: 0.895
+Epoch: 16  train accuracy: 0.742
+Epoch: 16  train accuracy: 0.750
+Epoch: 16  train accuracy: 0.781
+Epoch: 16  train accuracy: 0.785
+Epoch: 16  train accuracy: 0.898
+Epoch: 16  train accuracy: 0.926
+Epoch: 16  train accuracy: 0.875
+Epoch: 16  train accuracy: 0.918
+Epoch: 16  train accuracy: 0.801
+Epoch: 16  train accuracy: 0.824
+Epoch: 16  train accuracy: 0.777
+Epoch: 16  train accuracy: 0.820
+Epoch: 16  train accuracy: 0.891
+Epoch: 16  train accuracy: 0.922
+Epoch: 16  train accuracy: 0.816
+Epoch: 16  train accuracy: 0.828
+Epoch: 16  train accuracy: 0.832
+Epoch: 16  train accuracy: 0.797
+Epoch: 16  train accuracy: 0.867
+Epoch: 16  train accuracy: 0.859
+Epoch: 16  train accuracy: 0.902
+Epoch: 16  train accuracy: 0.895
+Epoch: 16  train accuracy: 0.855
+Epoch: 16  train accuracy: 0.656
+Epoch: 16  train accuracy: 0.824
+Epoch: 16  train accuracy: 0.773
+Epoch: 16  train accuracy: 0.859
+Epoch: 16  train accuracy: 0.766
+Epoch: 16  train accuracy: 0.797
+Epoch: 16  train accuracy: 0.902
+Epoch: 16  train accuracy: 0.727
+Epoch: 16  train accuracy: 0.898
+Epoch: 16  train accuracy: 0.855
+Epoch: 16  train accuracy: 0.922
+Epoch: 16  train accuracy: 0.809
+Epoch: 16  train accuracy: 0.770
+Epoch: 16  train accuracy: 0.668
+Epoch: 16  train accuracy: 0.668
+Epoch: 16  train accuracy: 0.867
+Epoch: 16  train accuracy: 0.836
+Epoch: 16  train accuracy: 0.840
+Epoch: 16  train accuracy: 0.797
+Epoch: 16  train accuracy: 0.816
+Epoch: 16  train accuracy: 0.941
+Epoch: 16  train accuracy: 0.945
+Epoch: 16  train accuracy: 0.879
+Epoch: 16  train accuracy: 0.812
+Epoch: 16  train accuracy: 0.887
+Epoch: 16  train accuracy: 0.930
+Epoch: 16  train accuracy: 0.938
+Epoch: 16  train accuracy: 0.848
+Epoch: 16  train accuracy: 0.934
+Epoch: 16  train accuracy: 0.906
+Epoch: 16  train accuracy: 0.809
+training finished for epoch  16
+Epoch: 16 batch:  1 cost = 36.78358  test accuracy: 0.900
+[[3610  366]
+ [  45   75]]
+Epoch: 16 batch:  2 cost = 36.78358  test accuracy: 0.877
+[[3508  444]
+ [  58   86]]
+Epoch: 16 batch:  3 cost = 36.78358  test accuracy: 0.893
+[[3582  399]
+ [  40   75]]
+Epoch: 16 batch:  4 cost = 36.78358  test accuracy: 0.889
+[[3574  402]
+ [  51   69]]
+Epoch: 16 batch:  5 cost = 36.78358  test accuracy: 0.874
+[[3508  444]
+ [  71   73]]
+Epoch: 16 batch:  6 cost = 36.78358  test accuracy: 0.891
+[[3583  388]
+ [  58   67]]
+Epoch: 17  train accuracy: 0.918
+Epoch: 17  train accuracy: 0.812
+Epoch: 17  train accuracy: 0.855
+Epoch: 17  train accuracy: 0.777
+Epoch: 17  train accuracy: 0.984
+Epoch: 17  train accuracy: 0.816
+Epoch: 17  train accuracy: 0.707
+Epoch: 17  train accuracy: 0.824
+Epoch: 17  train accuracy: 0.902
+Epoch: 17  train accuracy: 0.875
+Epoch: 17  train accuracy: 0.844
+Epoch: 17  train accuracy: 0.852
+Epoch: 17  train accuracy: 0.730
+Epoch: 17  train accuracy: 0.754
+Epoch: 17  train accuracy: 0.871
+Epoch: 17  train accuracy: 0.812
+Epoch: 17  train accuracy: 0.840
+Epoch: 17  train accuracy: 0.750
+Epoch: 17  train accuracy: 0.684
+Epoch: 17  train accuracy: 0.855
+Epoch: 17  train accuracy: 0.840
+Epoch: 17  train accuracy: 0.844
+Epoch: 17  train accuracy: 0.844
+Epoch: 17  train accuracy: 0.832
+Epoch: 17  train accuracy: 0.742
+Epoch: 17  train accuracy: 0.840
+Epoch: 17  train accuracy: 0.816
+Epoch: 17  train accuracy: 0.656
+Epoch: 17  train accuracy: 0.941
+Epoch: 17  train accuracy: 0.922
+Epoch: 17  train accuracy: 0.875
+Epoch: 17  train accuracy: 0.770
+Epoch: 17  train accuracy: 0.652
+Epoch: 17  train accuracy: 0.840
+Epoch: 17  train accuracy: 0.906
+Epoch: 17  train accuracy: 0.926
+Epoch: 17  train accuracy: 0.957
+Epoch: 17  train accuracy: 0.812
+Epoch: 17  train accuracy: 0.852
+Epoch: 17  train accuracy: 0.715
+Epoch: 17  train accuracy: 0.652
+Epoch: 17  train accuracy: 0.664
+Epoch: 17  train accuracy: 0.840
+Epoch: 17  train accuracy: 0.883
+Epoch: 17  train accuracy: 0.875
+Epoch: 17  train accuracy: 0.805
+Epoch: 17  train accuracy: 0.711
+Epoch: 17  train accuracy: 0.824
+Epoch: 17  train accuracy: 0.828
+Epoch: 17  train accuracy: 0.891
+Epoch: 17  train accuracy: 0.898
+Epoch: 17  train accuracy: 0.922
+Epoch: 17  train accuracy: 0.914
+Epoch: 17  train accuracy: 0.758
+Epoch: 17  train accuracy: 0.781
+Epoch: 17  train accuracy: 0.820
+Epoch: 17  train accuracy: 0.793
+Epoch: 17  train accuracy: 0.859
+Epoch: 17  train accuracy: 0.902
+Epoch: 17  train accuracy: 0.832
+Epoch: 17  train accuracy: 0.812
+Epoch: 17  train accuracy: 0.816
+Epoch: 17  train accuracy: 0.824
+Epoch: 17  train accuracy: 0.848
+Epoch: 17  train accuracy: 0.879
+Epoch: 17  train accuracy: 0.926
+Epoch: 17  train accuracy: 0.883
+Epoch: 17  train accuracy: 0.832
+Epoch: 17  train accuracy: 0.699
+Epoch: 17  train accuracy: 0.828
+Epoch: 17  train accuracy: 0.801
+Epoch: 17  train accuracy: 0.828
+Epoch: 17  train accuracy: 0.734
+Epoch: 17  train accuracy: 0.875
+Epoch: 17  train accuracy: 0.855
+Epoch: 17  train accuracy: 0.754
+Epoch: 17  train accuracy: 0.906
+Epoch: 17  train accuracy: 0.922
+Epoch: 17  train accuracy: 0.887
+Epoch: 17  train accuracy: 0.852
+Epoch: 17  train accuracy: 0.738
+Epoch: 17  train accuracy: 0.648
+Epoch: 17  train accuracy: 0.789
+Epoch: 17  train accuracy: 0.816
+Epoch: 17  train accuracy: 0.840
+Epoch: 17  train accuracy: 0.816
+Epoch: 17  train accuracy: 0.801
+Epoch: 17  train accuracy: 0.809
+Epoch: 17  train accuracy: 0.906
+Epoch: 17  train accuracy: 0.922
+Epoch: 17  train accuracy: 0.844
+Epoch: 17  train accuracy: 0.789
+Epoch: 17  train accuracy: 0.875
+Epoch: 17  train accuracy: 0.957
+Epoch: 17  train accuracy: 0.938
+Epoch: 17  train accuracy: 0.848
+Epoch: 17  train accuracy: 0.895
+Epoch: 17  train accuracy: 0.922
+Epoch: 17  train accuracy: 0.828
+training finished for epoch  17
+Epoch: 17 batch:  1 cost = 36.11032  test accuracy: 0.907
+[[3645  331]
+ [  49   71]]
+Epoch: 17 batch:  2 cost = 36.11032  test accuracy: 0.885
+[[3544  408]
+ [  65   79]]
+Epoch: 17 batch:  3 cost = 36.11032  test accuracy: 0.900
+[[3614  367]
+ [  43   72]]
+Epoch: 17 batch:  4 cost = 36.11032  test accuracy: 0.896
+[[3607  369]
+ [  56   64]]
+Epoch: 17 batch:  5 cost = 36.11032  test accuracy: 0.883
+[[3551  401]
+ [  79   65]]
+Epoch: 17 batch:  6 cost = 36.11032  test accuracy: 0.899
+[[3620  351]
+ [  61   64]]
+Epoch: 18  train accuracy: 0.930
+Epoch: 18  train accuracy: 0.840
+Epoch: 18  train accuracy: 0.820
+Epoch: 18  train accuracy: 0.879
+Epoch: 18  train accuracy: 0.949
+Epoch: 18  train accuracy: 0.809
+Epoch: 18  train accuracy: 0.695
+Epoch: 18  train accuracy: 0.867
+Epoch: 18  train accuracy: 0.926
+Epoch: 18  train accuracy: 0.926
+Epoch: 18  train accuracy: 0.871
+Epoch: 18  train accuracy: 0.793
+Epoch: 18  train accuracy: 0.691
+Epoch: 18  train accuracy: 0.746
+Epoch: 18  train accuracy: 0.867
+Epoch: 18  train accuracy: 0.777
+Epoch: 18  train accuracy: 0.848
+Epoch: 18  train accuracy: 0.781
+Epoch: 18  train accuracy: 0.688
+Epoch: 18  train accuracy: 0.844
+Epoch: 18  train accuracy: 0.875
+Epoch: 18  train accuracy: 0.883
+Epoch: 18  train accuracy: 0.875
+Epoch: 18  train accuracy: 0.816
+Epoch: 18  train accuracy: 0.742
+Epoch: 18  train accuracy: 0.801
+Epoch: 18  train accuracy: 0.824
+Epoch: 18  train accuracy: 0.660
+Epoch: 18  train accuracy: 0.953
+Epoch: 18  train accuracy: 0.863
+Epoch: 18  train accuracy: 0.871
+Epoch: 18  train accuracy: 0.773
+Epoch: 18  train accuracy: 0.664
+Epoch: 18  train accuracy: 0.828
+Epoch: 18  train accuracy: 0.875
+Epoch: 18  train accuracy: 0.941
+Epoch: 18  train accuracy: 0.930
+Epoch: 18  train accuracy: 0.816
+Epoch: 18  train accuracy: 0.855
+Epoch: 18  train accuracy: 0.699
+Epoch: 18  train accuracy: 0.695
+Epoch: 18  train accuracy: 0.586
+Epoch: 18  train accuracy: 0.820
+Epoch: 18  train accuracy: 0.902
+Epoch: 18  train accuracy: 0.906
+Epoch: 18  train accuracy: 0.762
+Epoch: 18  train accuracy: 0.746
+Epoch: 18  train accuracy: 0.797
+Epoch: 18  train accuracy: 0.836
+Epoch: 18  train accuracy: 0.906
+Epoch: 18  train accuracy: 0.902
+Epoch: 18  train accuracy: 0.871
+Epoch: 18  train accuracy: 0.887
+Epoch: 18  train accuracy: 0.816
+Epoch: 18  train accuracy: 0.762
+Epoch: 18  train accuracy: 0.754
+Epoch: 18  train accuracy: 0.797
+Epoch: 18  train accuracy: 0.875
+Epoch: 18  train accuracy: 0.898
+Epoch: 18  train accuracy: 0.805
+Epoch: 18  train accuracy: 0.770
+Epoch: 18  train accuracy: 0.805
+Epoch: 18  train accuracy: 0.766
+Epoch: 18  train accuracy: 0.863
+Epoch: 18  train accuracy: 0.859
+Epoch: 18  train accuracy: 0.965
+Epoch: 18  train accuracy: 0.891
+Epoch: 18  train accuracy: 0.805
+Epoch: 18  train accuracy: 0.711
+Epoch: 18  train accuracy: 0.840
+Epoch: 18  train accuracy: 0.770
+Epoch: 18  train accuracy: 0.867
+Epoch: 18  train accuracy: 0.766
+Epoch: 18  train accuracy: 0.805
+Epoch: 18  train accuracy: 0.848
+Epoch: 18  train accuracy: 0.766
+Epoch: 18  train accuracy: 0.891
+Epoch: 18  train accuracy: 0.891
+Epoch: 18  train accuracy: 0.871
+Epoch: 18  train accuracy: 0.824
+Epoch: 18  train accuracy: 0.812
+Epoch: 18  train accuracy: 0.688
+Epoch: 18  train accuracy: 0.770
+Epoch: 18  train accuracy: 0.852
+Epoch: 18  train accuracy: 0.840
+Epoch: 18  train accuracy: 0.809
+Epoch: 18  train accuracy: 0.852
+Epoch: 18  train accuracy: 0.762
+Epoch: 18  train accuracy: 0.961
+Epoch: 18  train accuracy: 0.902
+Epoch: 18  train accuracy: 0.883
+Epoch: 18  train accuracy: 0.785
+Epoch: 18  train accuracy: 0.926
+Epoch: 18  train accuracy: 0.965
+Epoch: 18  train accuracy: 0.957
+Epoch: 18  train accuracy: 0.852
+Epoch: 18  train accuracy: 0.891
+Epoch: 18  train accuracy: 0.945
+Epoch: 18  train accuracy: 0.777
+training finished for epoch  18
+Epoch: 18 batch:  1 cost = 35.87792  test accuracy: 0.910
+[[3662  314]
+ [  55   65]]
+Epoch: 18 batch:  2 cost = 35.87792  test accuracy: 0.891
+[[3574  378]
+ [  68   76]]
+Epoch: 18 batch:  3 cost = 35.87792  test accuracy: 0.901
+[[3622  359]
+ [  45   70]]
+Epoch: 18 batch:  4 cost = 35.87792  test accuracy: 0.899
+[[3621  355]
+ [  58   62]]
+Epoch: 18 batch:  5 cost = 35.87792  test accuracy: 0.887
+[[3570  382]
+ [  82   62]]
+Epoch: 18 batch:  6 cost = 35.87792  test accuracy: 0.902
+[[3636  335]
+ [  66   59]]
+Epoch: 19  train accuracy: 0.895
+Epoch: 19  train accuracy: 0.852
+Epoch: 19  train accuracy: 0.848
+Epoch: 19  train accuracy: 0.852
+Epoch: 19  train accuracy: 0.941
+Epoch: 19  train accuracy: 0.801
+Epoch: 19  train accuracy: 0.699
+Epoch: 19  train accuracy: 0.887
+Epoch: 19  train accuracy: 0.949
+Epoch: 19  train accuracy: 0.922
+Epoch: 19  train accuracy: 0.836
+Epoch: 19  train accuracy: 0.750
+Epoch: 19  train accuracy: 0.562
+Epoch: 19  train accuracy: 0.785
+Epoch: 19  train accuracy: 0.879
+Epoch: 19  train accuracy: 0.781
+Epoch: 19  train accuracy: 0.809
+Epoch: 19  train accuracy: 0.730
+Epoch: 19  train accuracy: 0.688
+Epoch: 19  train accuracy: 0.828
+Epoch: 19  train accuracy: 0.879
+Epoch: 19  train accuracy: 0.828
+Epoch: 19  train accuracy: 0.883
+Epoch: 19  train accuracy: 0.805
+Epoch: 19  train accuracy: 0.750
+Epoch: 19  train accuracy: 0.848
+Epoch: 19  train accuracy: 0.832
+Epoch: 19  train accuracy: 0.609
+Epoch: 19  train accuracy: 0.941
+Epoch: 19  train accuracy: 0.895
+Epoch: 19  train accuracy: 0.836
+Epoch: 19  train accuracy: 0.777
+Epoch: 19  train accuracy: 0.680
+Epoch: 19  train accuracy: 0.801
+Epoch: 19  train accuracy: 0.891
+Epoch: 19  train accuracy: 0.918
+Epoch: 19  train accuracy: 0.953
+Epoch: 19  train accuracy: 0.809
+Epoch: 19  train accuracy: 0.895
+Epoch: 19  train accuracy: 0.699
+Epoch: 19  train accuracy: 0.652
+Epoch: 19  train accuracy: 0.656
+Epoch: 19  train accuracy: 0.887
+Epoch: 19  train accuracy: 0.910
+Epoch: 19  train accuracy: 0.898
+Epoch: 19  train accuracy: 0.762
+Epoch: 19  train accuracy: 0.742
+Epoch: 19  train accuracy: 0.812
+Epoch: 19  train accuracy: 0.816
+Epoch: 19  train accuracy: 0.895
+Epoch: 19  train accuracy: 0.879
+Epoch: 19  train accuracy: 0.875
+Epoch: 19  train accuracy: 0.871
+Epoch: 19  train accuracy: 0.836
+Epoch: 19  train accuracy: 0.773
+Epoch: 19  train accuracy: 0.723
+Epoch: 19  train accuracy: 0.801
+Epoch: 19  train accuracy: 0.891
+Epoch: 19  train accuracy: 0.922
+Epoch: 19  train accuracy: 0.836
+Epoch: 19  train accuracy: 0.750
+Epoch: 19  train accuracy: 0.848
+Epoch: 19  train accuracy: 0.836
+Epoch: 19  train accuracy: 0.875
+Epoch: 19  train accuracy: 0.875
+Epoch: 19  train accuracy: 0.941
+Epoch: 19  train accuracy: 0.879
+Epoch: 19  train accuracy: 0.805
+Epoch: 19  train accuracy: 0.668
+Epoch: 19  train accuracy: 0.793
+Epoch: 19  train accuracy: 0.738
+Epoch: 19  train accuracy: 0.816
+Epoch: 19  train accuracy: 0.746
+Epoch: 19  train accuracy: 0.855
+Epoch: 19  train accuracy: 0.891
+Epoch: 19  train accuracy: 0.785
+Epoch: 19  train accuracy: 0.922
+Epoch: 19  train accuracy: 0.906
+Epoch: 19  train accuracy: 0.902
+Epoch: 19  train accuracy: 0.805
+Epoch: 19  train accuracy: 0.828
+Epoch: 19  train accuracy: 0.742
+Epoch: 19  train accuracy: 0.750
+Epoch: 19  train accuracy: 0.848
+Epoch: 19  train accuracy: 0.887
+Epoch: 19  train accuracy: 0.852
+Epoch: 19  train accuracy: 0.816
+Epoch: 19  train accuracy: 0.762
+Epoch: 19  train accuracy: 0.902
+Epoch: 19  train accuracy: 0.914
+Epoch: 19  train accuracy: 0.863
+Epoch: 19  train accuracy: 0.816
+Epoch: 19  train accuracy: 0.883
+Epoch: 19  train accuracy: 0.953
+Epoch: 19  train accuracy: 0.938
+Epoch: 19  train accuracy: 0.852
+Epoch: 19  train accuracy: 0.906
+Epoch: 19  train accuracy: 0.930
+Epoch: 19  train accuracy: 0.848
+training finished for epoch  19
+Epoch: 19 batch:  1 cost = 35.51029  test accuracy: 0.914
+[[3682  294]
+ [  60   60]]
+Epoch: 19 batch:  2 cost = 35.51029  test accuracy: 0.897
+[[3602  350]
+ [  73   71]]
+Epoch: 19 batch:  3 cost = 35.51029  test accuracy: 0.908
+[[3656  325]
+ [  53   62]]
+Epoch: 19 batch:  4 cost = 35.51029  test accuracy: 0.907
+[[3656  320]
+ [  61   59]]
+Epoch: 19 batch:  5 cost = 35.51029  test accuracy: 0.894
+[[3602  350]
+ [  85   59]]
+Epoch: 19 batch:  6 cost = 35.51029  test accuracy: 0.910
+[[3669  302]
+ [  67   58]]
+Epoch: 20  train accuracy: 0.934
+Epoch: 20  train accuracy: 0.855
+Epoch: 20  train accuracy: 0.828
+Epoch: 20  train accuracy: 0.852
+Epoch: 20  train accuracy: 0.941
+Epoch: 20  train accuracy: 0.812
+Epoch: 20  train accuracy: 0.750
+Epoch: 20  train accuracy: 0.910
+Epoch: 20  train accuracy: 0.918
+Epoch: 20  train accuracy: 0.891
+Epoch: 20  train accuracy: 0.914
+Epoch: 20  train accuracy: 0.754
+Epoch: 20  train accuracy: 0.668
+Epoch: 20  train accuracy: 0.840
+Epoch: 20  train accuracy: 0.891
+Epoch: 20  train accuracy: 0.836
+Epoch: 20  train accuracy: 0.828
+Epoch: 20  train accuracy: 0.781
+Epoch: 20  train accuracy: 0.629
+Epoch: 20  train accuracy: 0.832
+Epoch: 20  train accuracy: 0.871
+Epoch: 20  train accuracy: 0.859
+Epoch: 20  train accuracy: 0.906
+Epoch: 20  train accuracy: 0.750
+Epoch: 20  train accuracy: 0.668
+Epoch: 20  train accuracy: 0.852
+Epoch: 20  train accuracy: 0.781
+Epoch: 20  train accuracy: 0.691
+Epoch: 20  train accuracy: 0.941
+Epoch: 20  train accuracy: 0.941
+Epoch: 20  train accuracy: 0.848
+Epoch: 20  train accuracy: 0.773
+Epoch: 20  train accuracy: 0.723
+Epoch: 20  train accuracy: 0.805
+Epoch: 20  train accuracy: 0.914
+Epoch: 20  train accuracy: 0.898
+Epoch: 20  train accuracy: 0.945
+Epoch: 20  train accuracy: 0.809
+Epoch: 20  train accuracy: 0.875
+Epoch: 20  train accuracy: 0.684
+Epoch: 20  train accuracy: 0.672
+Epoch: 20  train accuracy: 0.602
+Epoch: 20  train accuracy: 0.836
+Epoch: 20  train accuracy: 0.902
+Epoch: 20  train accuracy: 0.859
+Epoch: 20  train accuracy: 0.809
+Epoch: 20  train accuracy: 0.723
+Epoch: 20  train accuracy: 0.848
+Epoch: 20  train accuracy: 0.801
+Epoch: 20  train accuracy: 0.875
+Epoch: 20  train accuracy: 0.895
+Epoch: 20  train accuracy: 0.906
+Epoch: 20  train accuracy: 0.918
+Epoch: 20  train accuracy: 0.770
+Epoch: 20  train accuracy: 0.777
+Epoch: 20  train accuracy: 0.777
+Epoch: 20  train accuracy: 0.805
+Epoch: 20  train accuracy: 0.898
+Epoch: 20  train accuracy: 0.918
+Epoch: 20  train accuracy: 0.812
+Epoch: 20  train accuracy: 0.789
+Epoch: 20  train accuracy: 0.816
+Epoch: 20  train accuracy: 0.797
+Epoch: 20  train accuracy: 0.879
+Epoch: 20  train accuracy: 0.902
+Epoch: 20  train accuracy: 0.938
+Epoch: 20  train accuracy: 0.879
+Epoch: 20  train accuracy: 0.809
+Epoch: 20  train accuracy: 0.719
+Epoch: 20  train accuracy: 0.793
+Epoch: 20  train accuracy: 0.777
+Epoch: 20  train accuracy: 0.773
+Epoch: 20  train accuracy: 0.715
+Epoch: 20  train accuracy: 0.844
+Epoch: 20  train accuracy: 0.879
+Epoch: 20  train accuracy: 0.770
+Epoch: 20  train accuracy: 0.887
+Epoch: 20  train accuracy: 0.859
+Epoch: 20  train accuracy: 0.887
+Epoch: 20  train accuracy: 0.852
+Epoch: 20  train accuracy: 0.828
+Epoch: 20  train accuracy: 0.742
+Epoch: 20  train accuracy: 0.738
+Epoch: 20  train accuracy: 0.812
+Epoch: 20  train accuracy: 0.879
+Epoch: 20  train accuracy: 0.848
+Epoch: 20  train accuracy: 0.820
+Epoch: 20  train accuracy: 0.797
+Epoch: 20  train accuracy: 0.930
+Epoch: 20  train accuracy: 0.875
+Epoch: 20  train accuracy: 0.867
+Epoch: 20  train accuracy: 0.809
+Epoch: 20  train accuracy: 0.941
+Epoch: 20  train accuracy: 0.918
+Epoch: 20  train accuracy: 0.934
+Epoch: 20  train accuracy: 0.828
+Epoch: 20  train accuracy: 0.898
+Epoch: 20  train accuracy: 0.945
+Epoch: 20  train accuracy: 0.832
+training finished for epoch  20
+Epoch: 20 batch:  1 cost = 35.38390  test accuracy: 0.916
+[[3691  285]
+ [  59   61]]
+Epoch: 20 batch:  2 cost = 35.38390  test accuracy: 0.900
+[[3609  343]
+ [  68   76]]
+Epoch: 20 batch:  3 cost = 35.38390  test accuracy: 0.911
+[[3666  315]
+ [  50   65]]
+Epoch: 20 batch:  4 cost = 35.38390  test accuracy: 0.909
+[[3668  308]
+ [  63   57]]
+Epoch: 20 batch:  5 cost = 35.38390  test accuracy: 0.895
+[[3611  341]
+ [  88   56]]
+Epoch: 20 batch:  6 cost = 35.38390  test accuracy: 0.912
+[[3679  292]
+ [  67   58]]
+Epoch: 21  train accuracy: 0.945
+Epoch: 21  train accuracy: 0.840
+Epoch: 21  train accuracy: 0.879
+Epoch: 21  train accuracy: 0.824
+Epoch: 21  train accuracy: 0.938
+Epoch: 21  train accuracy: 0.773
+Epoch: 21  train accuracy: 0.699
+Epoch: 21  train accuracy: 0.906
+Epoch: 21  train accuracy: 0.945
+Epoch: 21  train accuracy: 0.934
+Epoch: 21  train accuracy: 0.879
+Epoch: 21  train accuracy: 0.828
+Epoch: 21  train accuracy: 0.602
+Epoch: 21  train accuracy: 0.828
+Epoch: 21  train accuracy: 0.906
+Epoch: 21  train accuracy: 0.824
+Epoch: 21  train accuracy: 0.836
+Epoch: 21  train accuracy: 0.770
+Epoch: 21  train accuracy: 0.742
+Epoch: 21  train accuracy: 0.867
+Epoch: 21  train accuracy: 0.836
+Epoch: 21  train accuracy: 0.895
+Epoch: 21  train accuracy: 0.887
+Epoch: 21  train accuracy: 0.777
+Epoch: 21  train accuracy: 0.793
+Epoch: 21  train accuracy: 0.746
+Epoch: 21  train accuracy: 0.824
+Epoch: 21  train accuracy: 0.676
+Epoch: 21  train accuracy: 0.910
+Epoch: 21  train accuracy: 0.914
+Epoch: 21  train accuracy: 0.914
+Epoch: 21  train accuracy: 0.805
+Epoch: 21  train accuracy: 0.609
+Epoch: 21  train accuracy: 0.734
+Epoch: 21  train accuracy: 0.863
+Epoch: 21  train accuracy: 0.836
+Epoch: 21  train accuracy: 0.941
+Epoch: 21  train accuracy: 0.770
+Epoch: 21  train accuracy: 0.902
+Epoch: 21  train accuracy: 0.836
+Epoch: 21  train accuracy: 0.695
+Epoch: 21  train accuracy: 0.699
+Epoch: 21  train accuracy: 0.785
+Epoch: 21  train accuracy: 0.801
+Epoch: 21  train accuracy: 0.824
+Epoch: 21  train accuracy: 0.859
+Epoch: 21  train accuracy: 0.680
+Epoch: 21  train accuracy: 0.750
+Epoch: 21  train accuracy: 0.727
+Epoch: 21  train accuracy: 0.852
+Epoch: 21  train accuracy: 0.863
+Epoch: 21  train accuracy: 0.887
+Epoch: 21  train accuracy: 0.891
+Epoch: 21  train accuracy: 0.801
+Epoch: 21  train accuracy: 0.840
+Epoch: 21  train accuracy: 0.828
+Epoch: 21  train accuracy: 0.855
+Epoch: 21  train accuracy: 0.871
+Epoch: 21  train accuracy: 0.965
+Epoch: 21  train accuracy: 0.836
+Epoch: 21  train accuracy: 0.828
+Epoch: 21  train accuracy: 0.855
+Epoch: 21  train accuracy: 0.793
+Epoch: 21  train accuracy: 0.848
+Epoch: 21  train accuracy: 0.852
+Epoch: 21  train accuracy: 0.898
+Epoch: 21  train accuracy: 0.852
+Epoch: 21  train accuracy: 0.859
+Epoch: 21  train accuracy: 0.723
+Epoch: 21  train accuracy: 0.828
+Epoch: 21  train accuracy: 0.793
+Epoch: 21  train accuracy: 0.809
+Epoch: 21  train accuracy: 0.715
+Epoch: 21  train accuracy: 0.836
+Epoch: 21  train accuracy: 0.902
+Epoch: 21  train accuracy: 0.781
+Epoch: 21  train accuracy: 0.906
+Epoch: 21  train accuracy: 0.852
+Epoch: 21  train accuracy: 0.902
+Epoch: 21  train accuracy: 0.852
+Epoch: 21  train accuracy: 0.848
+Epoch: 21  train accuracy: 0.789
+Epoch: 21  train accuracy: 0.762
+Epoch: 21  train accuracy: 0.809
+Epoch: 21  train accuracy: 0.867
+Epoch: 21  train accuracy: 0.812
+Epoch: 21  train accuracy: 0.691
+Epoch: 21  train accuracy: 0.785
+Epoch: 21  train accuracy: 0.941
+Epoch: 21  train accuracy: 0.926
+Epoch: 21  train accuracy: 0.906
+Epoch: 21  train accuracy: 0.832
+Epoch: 21  train accuracy: 0.836
+Epoch: 21  train accuracy: 0.902
+Epoch: 21  train accuracy: 0.949
+Epoch: 21  train accuracy: 0.863
+Epoch: 21  train accuracy: 0.934
+Epoch: 21  train accuracy: 0.895
+Epoch: 21  train accuracy: 0.809
+training finished for epoch  21
+Epoch: 21 batch:  1 cost = 35.00822  test accuracy: 0.892
+[[3579  397]
+ [  45   75]]
+Epoch: 21 batch:  2 cost = 35.00822  test accuracy: 0.871
+[[3480  472]
+ [  58   86]]
+Epoch: 21 batch:  3 cost = 35.00822  test accuracy: 0.887
+[[3556  425]
+ [  36   79]]
+Epoch: 21 batch:  4 cost = 35.00822  test accuracy: 0.886
+[[3557  419]
+ [  47   73]]
+Epoch: 21 batch:  5 cost = 35.00822  test accuracy: 0.870
+[[3490  462]
+ [  72   72]]
+Epoch: 21 batch:  6 cost = 35.00822  test accuracy: 0.885
+[[3555  416]
+ [  53   72]]
+Epoch: 22  train accuracy: 0.879
+Epoch: 22  train accuracy: 0.809
+Epoch: 22  train accuracy: 0.855
+Epoch: 22  train accuracy: 0.816
+Epoch: 22  train accuracy: 0.945
+Epoch: 22  train accuracy: 0.898
+Epoch: 22  train accuracy: 0.805
+Epoch: 22  train accuracy: 0.812
+Epoch: 22  train accuracy: 0.832
+Epoch: 22  train accuracy: 0.848
+Epoch: 22  train accuracy: 0.738
+Epoch: 22  train accuracy: 0.836
+Epoch: 22  train accuracy: 0.797
+Epoch: 22  train accuracy: 0.832
+Epoch: 22  train accuracy: 0.883
+Epoch: 22  train accuracy: 0.812
+Epoch: 22  train accuracy: 0.891
+Epoch: 22  train accuracy: 0.734
+Epoch: 22  train accuracy: 0.680
+Epoch: 22  train accuracy: 0.797
+Epoch: 22  train accuracy: 0.820
+Epoch: 22  train accuracy: 0.855
+Epoch: 22  train accuracy: 0.855
+Epoch: 22  train accuracy: 0.828
+Epoch: 22  train accuracy: 0.773
+Epoch: 22  train accuracy: 0.762
+Epoch: 22  train accuracy: 0.805
+Epoch: 22  train accuracy: 0.668
+Epoch: 22  train accuracy: 0.926
+Epoch: 22  train accuracy: 0.938
+Epoch: 22  train accuracy: 0.848
+Epoch: 22  train accuracy: 0.832
+Epoch: 22  train accuracy: 0.645
+Epoch: 22  train accuracy: 0.789
+Epoch: 22  train accuracy: 0.855
+Epoch: 22  train accuracy: 0.891
+Epoch: 22  train accuracy: 0.938
+Epoch: 22  train accuracy: 0.863
+Epoch: 22  train accuracy: 0.945
+Epoch: 22  train accuracy: 0.781
+Epoch: 22  train accuracy: 0.727
+Epoch: 22  train accuracy: 0.762
+Epoch: 22  train accuracy: 0.875
+Epoch: 22  train accuracy: 0.855
+Epoch: 22  train accuracy: 0.816
+Epoch: 22  train accuracy: 0.832
+Epoch: 22  train accuracy: 0.727
+Epoch: 22  train accuracy: 0.816
+Epoch: 22  train accuracy: 0.777
+Epoch: 22  train accuracy: 0.871
+Epoch: 22  train accuracy: 0.898
+Epoch: 22  train accuracy: 0.922
+Epoch: 22  train accuracy: 0.902
+Epoch: 22  train accuracy: 0.875
+Epoch: 22  train accuracy: 0.824
+Epoch: 22  train accuracy: 0.863
+Epoch: 22  train accuracy: 0.855
+Epoch: 22  train accuracy: 0.902
+Epoch: 22  train accuracy: 0.902
+Epoch: 22  train accuracy: 0.879
+Epoch: 22  train accuracy: 0.844
+Epoch: 22  train accuracy: 0.840
+Epoch: 22  train accuracy: 0.816
+Epoch: 22  train accuracy: 0.867
+Epoch: 22  train accuracy: 0.852
+Epoch: 22  train accuracy: 0.910
+Epoch: 22  train accuracy: 0.875
+Epoch: 22  train accuracy: 0.844
+Epoch: 22  train accuracy: 0.789
+Epoch: 22  train accuracy: 0.828
+Epoch: 22  train accuracy: 0.758
+Epoch: 22  train accuracy: 0.840
+Epoch: 22  train accuracy: 0.750
+Epoch: 22  train accuracy: 0.789
+Epoch: 22  train accuracy: 0.887
+Epoch: 22  train accuracy: 0.773
+Epoch: 22  train accuracy: 0.914
+Epoch: 22  train accuracy: 0.871
+Epoch: 22  train accuracy: 0.918
+Epoch: 22  train accuracy: 0.828
+Epoch: 22  train accuracy: 0.848
+Epoch: 22  train accuracy: 0.797
+Epoch: 22  train accuracy: 0.754
+Epoch: 22  train accuracy: 0.828
+Epoch: 22  train accuracy: 0.863
+Epoch: 22  train accuracy: 0.797
+Epoch: 22  train accuracy: 0.754
+Epoch: 22  train accuracy: 0.809
+Epoch: 22  train accuracy: 0.945
+Epoch: 22  train accuracy: 0.910
+Epoch: 22  train accuracy: 0.898
+Epoch: 22  train accuracy: 0.828
+Epoch: 22  train accuracy: 0.875
+Epoch: 22  train accuracy: 0.895
+Epoch: 22  train accuracy: 0.930
+Epoch: 22  train accuracy: 0.926
+Epoch: 22  train accuracy: 0.938
+Epoch: 22  train accuracy: 0.922
+Epoch: 22  train accuracy: 0.762
+training finished for epoch  22
+Epoch: 22 batch:  1 cost = 33.85486  test accuracy: 0.897
+[[3605  371]
+ [  50   70]]
+Epoch: 22 batch:  2 cost = 33.85486  test accuracy: 0.877
+[[3506  446]
+ [  59   85]]
+Epoch: 22 batch:  3 cost = 33.85486  test accuracy: 0.892
+[[3581  400]
+ [  41   74]]
+Epoch: 22 batch:  4 cost = 33.85486  test accuracy: 0.893
+[[3585  391]
+ [  49   71]]
+Epoch: 22 batch:  5 cost = 33.85486  test accuracy: 0.877
+[[3523  429]
+ [  74   70]]
+Epoch: 22 batch:  6 cost = 33.85486  test accuracy: 0.894
+[[3589  382]
+ [  54   71]]
+Epoch: 23  train accuracy: 0.922
+Epoch: 23  train accuracy: 0.840
+Epoch: 23  train accuracy: 0.887
+Epoch: 23  train accuracy: 0.840
+Epoch: 23  train accuracy: 0.957
+Epoch: 23  train accuracy: 0.863
+Epoch: 23  train accuracy: 0.762
+Epoch: 23  train accuracy: 0.867
+Epoch: 23  train accuracy: 0.836
+Epoch: 23  train accuracy: 0.848
+Epoch: 23  train accuracy: 0.785
+Epoch: 23  train accuracy: 0.828
+Epoch: 23  train accuracy: 0.754
+Epoch: 23  train accuracy: 0.824
+Epoch: 23  train accuracy: 0.828
+Epoch: 23  train accuracy: 0.785
+Epoch: 23  train accuracy: 0.863
+Epoch: 23  train accuracy: 0.699
+Epoch: 23  train accuracy: 0.738
+Epoch: 23  train accuracy: 0.816
+Epoch: 23  train accuracy: 0.820
+Epoch: 23  train accuracy: 0.824
+Epoch: 23  train accuracy: 0.871
+Epoch: 23  train accuracy: 0.848
+Epoch: 23  train accuracy: 0.793
+Epoch: 23  train accuracy: 0.816
+Epoch: 23  train accuracy: 0.832
+Epoch: 23  train accuracy: 0.590
+Epoch: 23  train accuracy: 0.883
+Epoch: 23  train accuracy: 0.934
+Epoch: 23  train accuracy: 0.848
+Epoch: 23  train accuracy: 0.832
+Epoch: 23  train accuracy: 0.641
+Epoch: 23  train accuracy: 0.805
+Epoch: 23  train accuracy: 0.863
+Epoch: 23  train accuracy: 0.844
+Epoch: 23  train accuracy: 0.953
+Epoch: 23  train accuracy: 0.812
+Epoch: 23  train accuracy: 0.891
+Epoch: 23  train accuracy: 0.805
+Epoch: 23  train accuracy: 0.766
+Epoch: 23  train accuracy: 0.762
+Epoch: 23  train accuracy: 0.848
+Epoch: 23  train accuracy: 0.824
+Epoch: 23  train accuracy: 0.898
+Epoch: 23  train accuracy: 0.840
+Epoch: 23  train accuracy: 0.730
+Epoch: 23  train accuracy: 0.766
+Epoch: 23  train accuracy: 0.758
+Epoch: 23  train accuracy: 0.871
+Epoch: 23  train accuracy: 0.883
+Epoch: 23  train accuracy: 0.895
+Epoch: 23  train accuracy: 0.922
+Epoch: 23  train accuracy: 0.828
+Epoch: 23  train accuracy: 0.836
+Epoch: 23  train accuracy: 0.812
+Epoch: 23  train accuracy: 0.863
+Epoch: 23  train accuracy: 0.883
+Epoch: 23  train accuracy: 0.902
+Epoch: 23  train accuracy: 0.844
+Epoch: 23  train accuracy: 0.859
+Epoch: 23  train accuracy: 0.852
+Epoch: 23  train accuracy: 0.820
+Epoch: 23  train accuracy: 0.879
+Epoch: 23  train accuracy: 0.871
+Epoch: 23  train accuracy: 0.930
+Epoch: 23  train accuracy: 0.891
+Epoch: 23  train accuracy: 0.871
+Epoch: 23  train accuracy: 0.715
+Epoch: 23  train accuracy: 0.805
+Epoch: 23  train accuracy: 0.758
+Epoch: 23  train accuracy: 0.836
+Epoch: 23  train accuracy: 0.770
+Epoch: 23  train accuracy: 0.785
+Epoch: 23  train accuracy: 0.891
+Epoch: 23  train accuracy: 0.785
+Epoch: 23  train accuracy: 0.914
+Epoch: 23  train accuracy: 0.879
+Epoch: 23  train accuracy: 0.926
+Epoch: 23  train accuracy: 0.875
+Epoch: 23  train accuracy: 0.848
+Epoch: 23  train accuracy: 0.738
+Epoch: 23  train accuracy: 0.781
+Epoch: 23  train accuracy: 0.742
+Epoch: 23  train accuracy: 0.855
+Epoch: 23  train accuracy: 0.781
+Epoch: 23  train accuracy: 0.738
+Epoch: 23  train accuracy: 0.844
+Epoch: 23  train accuracy: 0.938
+Epoch: 23  train accuracy: 0.914
+Epoch: 23  train accuracy: 0.844
+Epoch: 23  train accuracy: 0.824
+Epoch: 23  train accuracy: 0.918
+Epoch: 23  train accuracy: 0.914
+Epoch: 23  train accuracy: 0.934
+Epoch: 23  train accuracy: 0.891
+Epoch: 23  train accuracy: 0.941
+Epoch: 23  train accuracy: 0.902
+Epoch: 23  train accuracy: 0.820
+training finished for epoch  23
+Epoch: 23 batch:  1 cost = 33.47081  test accuracy: 0.904
+[[3642  334]
+ [  59   61]]
+Epoch: 23 batch:  2 cost = 33.47081  test accuracy: 0.883
+[[3544  408]
+ [  70   74]]
+Epoch: 23 batch:  3 cost = 33.47081  test accuracy: 0.900
+[[3618  363]
+ [  46   69]]
+Epoch: 23 batch:  4 cost = 33.47081  test accuracy: 0.899
+[[3622  354]
+ [  59   61]]
+Epoch: 23 batch:  5 cost = 33.47081  test accuracy: 0.884
+[[3557  395]
+ [  82   62]]
+Epoch: 23 batch:  6 cost = 33.47081  test accuracy: 0.900
+[[3626  345]
+ [  65   60]]
+Epoch: 24  train accuracy: 0.926
+Epoch: 24  train accuracy: 0.875
+Epoch: 24  train accuracy: 0.840
+Epoch: 24  train accuracy: 0.852
+Epoch: 24  train accuracy: 0.934
+Epoch: 24  train accuracy: 0.816
+Epoch: 24  train accuracy: 0.770
+Epoch: 24  train accuracy: 0.746
+Epoch: 24  train accuracy: 0.805
+Epoch: 24  train accuracy: 0.832
+Epoch: 24  train accuracy: 0.766
+Epoch: 24  train accuracy: 0.879
+Epoch: 24  train accuracy: 0.824
+Epoch: 24  train accuracy: 0.840
+Epoch: 24  train accuracy: 0.883
+Epoch: 24  train accuracy: 0.727
+Epoch: 24  train accuracy: 0.871
+Epoch: 24  train accuracy: 0.770
+Epoch: 24  train accuracy: 0.688
+Epoch: 24  train accuracy: 0.805
+Epoch: 24  train accuracy: 0.859
+Epoch: 24  train accuracy: 0.844
+Epoch: 24  train accuracy: 0.859
+Epoch: 24  train accuracy: 0.867
+Epoch: 24  train accuracy: 0.793
+Epoch: 24  train accuracy: 0.852
+Epoch: 24  train accuracy: 0.844
+Epoch: 24  train accuracy: 0.641
+Epoch: 24  train accuracy: 0.922
+Epoch: 24  train accuracy: 0.922
+Epoch: 24  train accuracy: 0.836
+Epoch: 24  train accuracy: 0.812
+Epoch: 24  train accuracy: 0.664
+Epoch: 24  train accuracy: 0.781
+Epoch: 24  train accuracy: 0.855
+Epoch: 24  train accuracy: 0.848
+Epoch: 24  train accuracy: 0.945
+Epoch: 24  train accuracy: 0.859
+Epoch: 24  train accuracy: 0.926
+Epoch: 24  train accuracy: 0.855
+Epoch: 24  train accuracy: 0.809
+Epoch: 24  train accuracy: 0.766
+Epoch: 24  train accuracy: 0.879
+Epoch: 24  train accuracy: 0.863
+Epoch: 24  train accuracy: 0.844
+Epoch: 24  train accuracy: 0.816
+Epoch: 24  train accuracy: 0.730
+Epoch: 24  train accuracy: 0.805
+Epoch: 24  train accuracy: 0.773
+Epoch: 24  train accuracy: 0.895
+Epoch: 24  train accuracy: 0.867
+Epoch: 24  train accuracy: 0.895
+Epoch: 24  train accuracy: 0.930
+Epoch: 24  train accuracy: 0.816
+Epoch: 24  train accuracy: 0.891
+Epoch: 24  train accuracy: 0.891
+Epoch: 24  train accuracy: 0.883
+Epoch: 24  train accuracy: 0.906
+Epoch: 24  train accuracy: 0.926
+Epoch: 24  train accuracy: 0.863
+Epoch: 24  train accuracy: 0.836
+Epoch: 24  train accuracy: 0.859
+Epoch: 24  train accuracy: 0.793
+Epoch: 24  train accuracy: 0.875
+Epoch: 24  train accuracy: 0.891
+Epoch: 24  train accuracy: 0.938
+Epoch: 24  train accuracy: 0.879
+Epoch: 24  train accuracy: 0.859
+Epoch: 24  train accuracy: 0.695
+Epoch: 24  train accuracy: 0.816
+Epoch: 24  train accuracy: 0.805
+Epoch: 24  train accuracy: 0.848
+Epoch: 24  train accuracy: 0.727
+Epoch: 24  train accuracy: 0.809
+Epoch: 24  train accuracy: 0.871
+Epoch: 24  train accuracy: 0.793
+Epoch: 24  train accuracy: 0.867
+Epoch: 24  train accuracy: 0.891
+Epoch: 24  train accuracy: 0.898
+Epoch: 24  train accuracy: 0.855
+Epoch: 24  train accuracy: 0.848
+Epoch: 24  train accuracy: 0.762
+Epoch: 24  train accuracy: 0.766
+Epoch: 24  train accuracy: 0.777
+Epoch: 24  train accuracy: 0.863
+Epoch: 24  train accuracy: 0.828
+Epoch: 24  train accuracy: 0.789
+Epoch: 24  train accuracy: 0.809
+Epoch: 24  train accuracy: 0.934
+Epoch: 24  train accuracy: 0.930
+Epoch: 24  train accuracy: 0.891
+Epoch: 24  train accuracy: 0.820
+Epoch: 24  train accuracy: 0.887
+Epoch: 24  train accuracy: 0.949
+Epoch: 24  train accuracy: 0.938
+Epoch: 24  train accuracy: 0.895
+Epoch: 24  train accuracy: 0.918
+Epoch: 24  train accuracy: 0.910
+Epoch: 24  train accuracy: 0.820
+training finished for epoch  24
+Epoch: 24 batch:  1 cost = 33.20869  test accuracy: 0.906
+[[3656  320]
+ [  63   57]]
+Epoch: 24 batch:  2 cost = 33.20869  test accuracy: 0.887
+[[3564  388]
+ [  75   69]]
+Epoch: 24 batch:  3 cost = 33.20869  test accuracy: 0.902
+[[3633  348]
+ [  52   63]]
+Epoch: 24 batch:  4 cost = 33.20869  test accuracy: 0.903
+[[3643  333]
+ [  63   57]]
+Epoch: 24 batch:  5 cost = 33.20869  test accuracy: 0.887
+[[3576  376]
+ [  86   58]]
+Epoch: 24 batch:  6 cost = 33.20869  test accuracy: 0.903
+[[3644  327]
+ [  69   56]]
+Epoch: 25  train accuracy: 0.941
+Epoch: 25  train accuracy: 0.859
+Epoch: 25  train accuracy: 0.805
+Epoch: 25  train accuracy: 0.887
+Epoch: 25  train accuracy: 0.938
+Epoch: 25  train accuracy: 0.867
+Epoch: 25  train accuracy: 0.820
+Epoch: 25  train accuracy: 0.766
+Epoch: 25  train accuracy: 0.824
+Epoch: 25  train accuracy: 0.832
+Epoch: 25  train accuracy: 0.746
+Epoch: 25  train accuracy: 0.871
+Epoch: 25  train accuracy: 0.797
+Epoch: 25  train accuracy: 0.848
+Epoch: 25  train accuracy: 0.809
+Epoch: 25  train accuracy: 0.852
+Epoch: 25  train accuracy: 0.898
+Epoch: 25  train accuracy: 0.750
+Epoch: 25  train accuracy: 0.699
+Epoch: 25  train accuracy: 0.820
+Epoch: 25  train accuracy: 0.828
+Epoch: 25  train accuracy: 0.859
+Epoch: 25  train accuracy: 0.910
+Epoch: 25  train accuracy: 0.781
+Epoch: 25  train accuracy: 0.828
+Epoch: 25  train accuracy: 0.840
+Epoch: 25  train accuracy: 0.809
+Epoch: 25  train accuracy: 0.645
+Epoch: 25  train accuracy: 0.875
+Epoch: 25  train accuracy: 0.918
+Epoch: 25  train accuracy: 0.898
+Epoch: 25  train accuracy: 0.812
+Epoch: 25  train accuracy: 0.645
+Epoch: 25  train accuracy: 0.789
+Epoch: 25  train accuracy: 0.867
+Epoch: 25  train accuracy: 0.879
+Epoch: 25  train accuracy: 0.941
+Epoch: 25  train accuracy: 0.844
+Epoch: 25  train accuracy: 0.918
+Epoch: 25  train accuracy: 0.863
+Epoch: 25  train accuracy: 0.809
+Epoch: 25  train accuracy: 0.758
+Epoch: 25  train accuracy: 0.844
+Epoch: 25  train accuracy: 0.891
+Epoch: 25  train accuracy: 0.801
+Epoch: 25  train accuracy: 0.820
+Epoch: 25  train accuracy: 0.699
+Epoch: 25  train accuracy: 0.820
+Epoch: 25  train accuracy: 0.840
+Epoch: 25  train accuracy: 0.875
+Epoch: 25  train accuracy: 0.871
+Epoch: 25  train accuracy: 0.859
+Epoch: 25  train accuracy: 0.875
+Epoch: 25  train accuracy: 0.785
+Epoch: 25  train accuracy: 0.812
+Epoch: 25  train accuracy: 0.895
+Epoch: 25  train accuracy: 0.902
+Epoch: 25  train accuracy: 0.918
+Epoch: 25  train accuracy: 0.902
+Epoch: 25  train accuracy: 0.855
+Epoch: 25  train accuracy: 0.828
+Epoch: 25  train accuracy: 0.871
+Epoch: 25  train accuracy: 0.801
+Epoch: 25  train accuracy: 0.887
+Epoch: 25  train accuracy: 0.902
+Epoch: 25  train accuracy: 0.910
+Epoch: 25  train accuracy: 0.879
+Epoch: 25  train accuracy: 0.832
+Epoch: 25  train accuracy: 0.781
+Epoch: 25  train accuracy: 0.859
+Epoch: 25  train accuracy: 0.797
+Epoch: 25  train accuracy: 0.828
+Epoch: 25  train accuracy: 0.805
+Epoch: 25  train accuracy: 0.824
+Epoch: 25  train accuracy: 0.883
+Epoch: 25  train accuracy: 0.773
+Epoch: 25  train accuracy: 0.879
+Epoch: 25  train accuracy: 0.883
+Epoch: 25  train accuracy: 0.926
+Epoch: 25  train accuracy: 0.852
+Epoch: 25  train accuracy: 0.836
+Epoch: 25  train accuracy: 0.762
+Epoch: 25  train accuracy: 0.742
+Epoch: 25  train accuracy: 0.832
+Epoch: 25  train accuracy: 0.848
+Epoch: 25  train accuracy: 0.824
+Epoch: 25  train accuracy: 0.773
+Epoch: 25  train accuracy: 0.891
+Epoch: 25  train accuracy: 0.961
+Epoch: 25  train accuracy: 0.949
+Epoch: 25  train accuracy: 0.898
+Epoch: 25  train accuracy: 0.844
+Epoch: 25  train accuracy: 0.883
+Epoch: 25  train accuracy: 0.922
+Epoch: 25  train accuracy: 0.945
+Epoch: 25  train accuracy: 0.918
+Epoch: 25  train accuracy: 0.906
+Epoch: 25  train accuracy: 0.918
+Epoch: 25  train accuracy: 0.781
+training finished for epoch  25
+Epoch: 25 batch:  1 cost = 33.01398  test accuracy: 0.907
+[[3660  316]
+ [  63   57]]
+Epoch: 25 batch:  2 cost = 33.01398  test accuracy: 0.888
+[[3570  382]
+ [  75   69]]
+Epoch: 25 batch:  3 cost = 33.01398  test accuracy: 0.903
+[[3634  347]
+ [  52   63]]
+Epoch: 25 batch:  4 cost = 33.01398  test accuracy: 0.903
+[[3642  334]
+ [  63   57]]
+Epoch: 25 batch:  5 cost = 33.01398  test accuracy: 0.888
+[[3580  372]
+ [  86   58]]
+Epoch: 25 batch:  6 cost = 33.01398  test accuracy: 0.905
+[[3651  320]
+ [  69   56]]
+Epoch: 26  train accuracy: 0.930
+Epoch: 26  train accuracy: 0.883
+Epoch: 26  train accuracy: 0.863
+Epoch: 26  train accuracy: 0.820
+Epoch: 26  train accuracy: 0.965
+Epoch: 26  train accuracy: 0.855
+Epoch: 26  train accuracy: 0.828
+Epoch: 26  train accuracy: 0.762
+Epoch: 26  train accuracy: 0.840
+Epoch: 26  train accuracy: 0.848
+Epoch: 26  train accuracy: 0.770
+Epoch: 26  train accuracy: 0.844
+Epoch: 26  train accuracy: 0.781
+Epoch: 26  train accuracy: 0.855
+Epoch: 26  train accuracy: 0.812
+Epoch: 26  train accuracy: 0.840
+Epoch: 26  train accuracy: 0.883
+Epoch: 26  train accuracy: 0.758
+Epoch: 26  train accuracy: 0.707
+Epoch: 26  train accuracy: 0.801
+Epoch: 26  train accuracy: 0.816
+Epoch: 26  train accuracy: 0.844
+Epoch: 26  train accuracy: 0.906
+Epoch: 26  train accuracy: 0.805
+Epoch: 26  train accuracy: 0.859
+Epoch: 26  train accuracy: 0.809
+Epoch: 26  train accuracy: 0.801
+Epoch: 26  train accuracy: 0.672
+Epoch: 26  train accuracy: 0.926
+Epoch: 26  train accuracy: 0.902
+Epoch: 26  train accuracy: 0.898
+Epoch: 26  train accuracy: 0.855
+Epoch: 26  train accuracy: 0.719
+Epoch: 26  train accuracy: 0.852
+Epoch: 26  train accuracy: 0.887
+Epoch: 26  train accuracy: 0.816
+Epoch: 26  train accuracy: 0.922
+Epoch: 26  train accuracy: 0.746
+Epoch: 26  train accuracy: 0.891
+Epoch: 26  train accuracy: 0.832
+Epoch: 26  train accuracy: 0.801
+Epoch: 26  train accuracy: 0.848
+Epoch: 26  train accuracy: 0.887
+Epoch: 26  train accuracy: 0.871
+Epoch: 26  train accuracy: 0.852
+Epoch: 26  train accuracy: 0.828
+Epoch: 26  train accuracy: 0.711
+Epoch: 26  train accuracy: 0.844
+Epoch: 26  train accuracy: 0.785
+Epoch: 26  train accuracy: 0.859
+Epoch: 26  train accuracy: 0.855
+Epoch: 26  train accuracy: 0.812
+Epoch: 26  train accuracy: 0.895
+Epoch: 26  train accuracy: 0.762
+Epoch: 26  train accuracy: 0.852
+Epoch: 26  train accuracy: 0.895
+Epoch: 26  train accuracy: 0.891
+Epoch: 26  train accuracy: 0.914
+Epoch: 26  train accuracy: 0.922
+Epoch: 26  train accuracy: 0.871
+Epoch: 26  train accuracy: 0.883
+Epoch: 26  train accuracy: 0.902
+Epoch: 26  train accuracy: 0.840
+Epoch: 26  train accuracy: 0.906
+Epoch: 26  train accuracy: 0.875
+Epoch: 26  train accuracy: 0.926
+Epoch: 26  train accuracy: 0.910
+Epoch: 26  train accuracy: 0.871
+Epoch: 26  train accuracy: 0.801
+Epoch: 26  train accuracy: 0.828
+Epoch: 26  train accuracy: 0.805
+Epoch: 26  train accuracy: 0.809
+Epoch: 26  train accuracy: 0.762
+Epoch: 26  train accuracy: 0.801
+Epoch: 26  train accuracy: 0.895
+Epoch: 26  train accuracy: 0.781
+Epoch: 26  train accuracy: 0.887
+Epoch: 26  train accuracy: 0.883
+Epoch: 26  train accuracy: 0.895
+Epoch: 26  train accuracy: 0.875
+Epoch: 26  train accuracy: 0.867
+Epoch: 26  train accuracy: 0.824
+Epoch: 26  train accuracy: 0.734
+Epoch: 26  train accuracy: 0.770
+Epoch: 26  train accuracy: 0.875
+Epoch: 26  train accuracy: 0.777
+Epoch: 26  train accuracy: 0.734
+Epoch: 26  train accuracy: 0.777
+Epoch: 26  train accuracy: 0.953
+Epoch: 26  train accuracy: 0.934
+Epoch: 26  train accuracy: 0.895
+Epoch: 26  train accuracy: 0.824
+Epoch: 26  train accuracy: 0.852
+Epoch: 26  train accuracy: 0.887
+Epoch: 26  train accuracy: 0.914
+Epoch: 26  train accuracy: 0.859
+Epoch: 26  train accuracy: 0.938
+Epoch: 26  train accuracy: 0.957
+Epoch: 26  train accuracy: 0.836
+training finished for epoch  26
+Epoch: 26 batch:  1 cost = 32.68790  test accuracy: 0.918
+[[3707  269]
+ [  66   54]]
+Epoch: 26 batch:  2 cost = 32.68790  test accuracy: 0.898
+[[3622  330]
+ [  86   58]]
+Epoch: 26 batch:  3 cost = 32.68790  test accuracy: 0.913
+[[3688  293]
+ [  63   52]]
+Epoch: 26 batch:  4 cost = 32.68790  test accuracy: 0.914
+[[3685  291]
+ [  62   58]]
+Epoch: 26 batch:  5 cost = 32.68790  test accuracy: 0.898
+[[3625  327]
+ [  90   54]]
+Epoch: 26 batch:  6 cost = 32.68790  test accuracy: 0.916
+[[3694  277]
+ [  68   57]]
+Epoch: 27  train accuracy: 0.926
+Epoch: 27  train accuracy: 0.883
+Epoch: 27  train accuracy: 0.863
+Epoch: 27  train accuracy: 0.887
+Epoch: 27  train accuracy: 0.945
+Epoch: 27  train accuracy: 0.859
+Epoch: 27  train accuracy: 0.844
+Epoch: 27  train accuracy: 0.867
+Epoch: 27  train accuracy: 0.840
+Epoch: 27  train accuracy: 0.816
+Epoch: 27  train accuracy: 0.707
+Epoch: 27  train accuracy: 0.820
+Epoch: 27  train accuracy: 0.809
+Epoch: 27  train accuracy: 0.828
+Epoch: 27  train accuracy: 0.871
+Epoch: 27  train accuracy: 0.805
+Epoch: 27  train accuracy: 0.898
+Epoch: 27  train accuracy: 0.805
+Epoch: 27  train accuracy: 0.754
+Epoch: 27  train accuracy: 0.844
+Epoch: 27  train accuracy: 0.883
+Epoch: 27  train accuracy: 0.871
+Epoch: 27  train accuracy: 0.891
+Epoch: 27  train accuracy: 0.824
+Epoch: 27  train accuracy: 0.840
+Epoch: 27  train accuracy: 0.758
+Epoch: 27  train accuracy: 0.848
+Epoch: 27  train accuracy: 0.711
+Epoch: 27  train accuracy: 0.895
+Epoch: 27  train accuracy: 0.879
+Epoch: 27  train accuracy: 0.867
+Epoch: 27  train accuracy: 0.859
+Epoch: 27  train accuracy: 0.770
+Epoch: 27  train accuracy: 0.824
+Epoch: 27  train accuracy: 0.891
+Epoch: 27  train accuracy: 0.859
+Epoch: 27  train accuracy: 0.922
+Epoch: 27  train accuracy: 0.742
+Epoch: 27  train accuracy: 0.914
+Epoch: 27  train accuracy: 0.793
+Epoch: 27  train accuracy: 0.852
+Epoch: 27  train accuracy: 0.844
+Epoch: 27  train accuracy: 0.898
+Epoch: 27  train accuracy: 0.891
+Epoch: 27  train accuracy: 0.875
+Epoch: 27  train accuracy: 0.879
+Epoch: 27  train accuracy: 0.707
+Epoch: 27  train accuracy: 0.840
+Epoch: 27  train accuracy: 0.785
+Epoch: 27  train accuracy: 0.902
+Epoch: 27  train accuracy: 0.883
+Epoch: 27  train accuracy: 0.859
+Epoch: 27  train accuracy: 0.930
+Epoch: 27  train accuracy: 0.801
+Epoch: 27  train accuracy: 0.793
+Epoch: 27  train accuracy: 0.891
+Epoch: 27  train accuracy: 0.895
+Epoch: 27  train accuracy: 0.914
+Epoch: 27  train accuracy: 0.914
+Epoch: 27  train accuracy: 0.883
+Epoch: 27  train accuracy: 0.883
+Epoch: 27  train accuracy: 0.883
+Epoch: 27  train accuracy: 0.836
+Epoch: 27  train accuracy: 0.883
+Epoch: 27  train accuracy: 0.859
+Epoch: 27  train accuracy: 0.922
+Epoch: 27  train accuracy: 0.867
+Epoch: 27  train accuracy: 0.871
+Epoch: 27  train accuracy: 0.816
+Epoch: 27  train accuracy: 0.867
+Epoch: 27  train accuracy: 0.797
+Epoch: 27  train accuracy: 0.781
+Epoch: 27  train accuracy: 0.750
+Epoch: 27  train accuracy: 0.816
+Epoch: 27  train accuracy: 0.910
+Epoch: 27  train accuracy: 0.832
+Epoch: 27  train accuracy: 0.926
+Epoch: 27  train accuracy: 0.855
+Epoch: 27  train accuracy: 0.910
+Epoch: 27  train accuracy: 0.875
+Epoch: 27  train accuracy: 0.871
+Epoch: 27  train accuracy: 0.848
+Epoch: 27  train accuracy: 0.777
+Epoch: 27  train accuracy: 0.809
+Epoch: 27  train accuracy: 0.895
+Epoch: 27  train accuracy: 0.758
+Epoch: 27  train accuracy: 0.734
+Epoch: 27  train accuracy: 0.797
+Epoch: 27  train accuracy: 0.938
+Epoch: 27  train accuracy: 0.953
+Epoch: 27  train accuracy: 0.895
+Epoch: 27  train accuracy: 0.844
+Epoch: 27  train accuracy: 0.867
+Epoch: 27  train accuracy: 0.883
+Epoch: 27  train accuracy: 0.914
+Epoch: 27  train accuracy: 0.875
+Epoch: 27  train accuracy: 0.918
+Epoch: 27  train accuracy: 0.957
+Epoch: 27  train accuracy: 0.852
+training finished for epoch  27
+Epoch: 27 batch:  1 cost = 32.03707  test accuracy: 0.919
+[[3714  262]
+ [  69   51]]
+Epoch: 27 batch:  2 cost = 32.03707  test accuracy: 0.902
+[[3635  317]
+ [  86   58]]
+Epoch: 27 batch:  3 cost = 32.03707  test accuracy: 0.915
+[[3697  284]
+ [  63   52]]
+Epoch: 27 batch:  4 cost = 32.03707  test accuracy: 0.917
+[[3700  276]
+ [  64   56]]
+Epoch: 27 batch:  5 cost = 32.03707  test accuracy: 0.900
+[[3632  320]
+ [  91   53]]
+Epoch: 27 batch:  6 cost = 32.03707  test accuracy: 0.918
+[[3704  267]
+ [  70   55]]
+Epoch: 28  train accuracy: 0.934
+Epoch: 28  train accuracy: 0.902
+Epoch: 28  train accuracy: 0.859
+Epoch: 28  train accuracy: 0.895
+Epoch: 28  train accuracy: 0.949
+Epoch: 28  train accuracy: 0.859
+Epoch: 28  train accuracy: 0.914
+Epoch: 28  train accuracy: 0.895
+Epoch: 28  train accuracy: 0.875
+Epoch: 28  train accuracy: 0.852
+Epoch: 28  train accuracy: 0.730
+Epoch: 28  train accuracy: 0.859
+Epoch: 28  train accuracy: 0.828
+Epoch: 28  train accuracy: 0.836
+Epoch: 28  train accuracy: 0.883
+Epoch: 28  train accuracy: 0.809
+Epoch: 28  train accuracy: 0.855
+Epoch: 28  train accuracy: 0.777
+Epoch: 28  train accuracy: 0.805
+Epoch: 28  train accuracy: 0.891
+Epoch: 28  train accuracy: 0.902
+Epoch: 28  train accuracy: 0.863
+Epoch: 28  train accuracy: 0.883
+Epoch: 28  train accuracy: 0.793
+Epoch: 28  train accuracy: 0.840
+Epoch: 28  train accuracy: 0.730
+Epoch: 28  train accuracy: 0.891
+Epoch: 28  train accuracy: 0.707
+Epoch: 28  train accuracy: 0.855
+Epoch: 28  train accuracy: 0.883
+Epoch: 28  train accuracy: 0.863
+Epoch: 28  train accuracy: 0.820
+Epoch: 28  train accuracy: 0.715
+Epoch: 28  train accuracy: 0.836
+Epoch: 28  train accuracy: 0.887
+Epoch: 28  train accuracy: 0.863
+Epoch: 28  train accuracy: 0.938
+Epoch: 28  train accuracy: 0.750
+Epoch: 28  train accuracy: 0.926
+Epoch: 28  train accuracy: 0.836
+Epoch: 28  train accuracy: 0.820
+Epoch: 28  train accuracy: 0.824
+Epoch: 28  train accuracy: 0.941
+Epoch: 28  train accuracy: 0.867
+Epoch: 28  train accuracy: 0.883
+Epoch: 28  train accuracy: 0.871
+Epoch: 28  train accuracy: 0.699
+Epoch: 28  train accuracy: 0.832
+Epoch: 28  train accuracy: 0.770
+Epoch: 28  train accuracy: 0.879
+Epoch: 28  train accuracy: 0.859
+Epoch: 28  train accuracy: 0.832
+Epoch: 28  train accuracy: 0.922
+Epoch: 28  train accuracy: 0.809
+Epoch: 28  train accuracy: 0.832
+Epoch: 28  train accuracy: 0.891
+Epoch: 28  train accuracy: 0.883
+Epoch: 28  train accuracy: 0.902
+Epoch: 28  train accuracy: 0.941
+Epoch: 28  train accuracy: 0.891
+Epoch: 28  train accuracy: 0.902
+Epoch: 28  train accuracy: 0.926
+Epoch: 28  train accuracy: 0.859
+Epoch: 28  train accuracy: 0.898
+Epoch: 28  train accuracy: 0.859
+Epoch: 28  train accuracy: 0.926
+Epoch: 28  train accuracy: 0.895
+Epoch: 28  train accuracy: 0.859
+Epoch: 28  train accuracy: 0.781
+Epoch: 28  train accuracy: 0.852
+Epoch: 28  train accuracy: 0.801
+Epoch: 28  train accuracy: 0.828
+Epoch: 28  train accuracy: 0.758
+Epoch: 28  train accuracy: 0.785
+Epoch: 28  train accuracy: 0.863
+Epoch: 28  train accuracy: 0.805
+Epoch: 28  train accuracy: 0.891
+Epoch: 28  train accuracy: 0.867
+Epoch: 28  train accuracy: 0.906
+Epoch: 28  train accuracy: 0.852
+Epoch: 28  train accuracy: 0.867
+Epoch: 28  train accuracy: 0.832
+Epoch: 28  train accuracy: 0.820
+Epoch: 28  train accuracy: 0.824
+Epoch: 28  train accuracy: 0.844
+Epoch: 28  train accuracy: 0.828
+Epoch: 28  train accuracy: 0.762
+Epoch: 28  train accuracy: 0.812
+Epoch: 28  train accuracy: 0.941
+Epoch: 28  train accuracy: 0.930
+Epoch: 28  train accuracy: 0.906
+Epoch: 28  train accuracy: 0.844
+Epoch: 28  train accuracy: 0.871
+Epoch: 28  train accuracy: 0.871
+Epoch: 28  train accuracy: 0.922
+Epoch: 28  train accuracy: 0.883
+Epoch: 28  train accuracy: 0.934
+Epoch: 28  train accuracy: 0.980
+Epoch: 28  train accuracy: 0.898
+training finished for epoch  28
+Epoch: 28 batch:  1 cost = 31.77541  test accuracy: 0.919
+[[3718  258]
+ [  72   48]]
+Epoch: 28 batch:  2 cost = 31.77541  test accuracy: 0.903
+[[3645  307]
+ [  89   55]]
+Epoch: 28 batch:  3 cost = 31.77541  test accuracy: 0.916
+[[3701  280]
+ [  64   51]]
+Epoch: 28 batch:  4 cost = 31.77541  test accuracy: 0.919
+[[3709  267]
+ [  65   55]]
+Epoch: 28 batch:  5 cost = 31.77541  test accuracy: 0.900
+[[3638  314]
+ [  94   50]]
+Epoch: 28 batch:  6 cost = 31.77541  test accuracy: 0.918
+[[3709  262]
+ [  73   52]]
+Epoch: 29  train accuracy: 0.945
+Epoch: 29  train accuracy: 0.898
+Epoch: 29  train accuracy: 0.875
+Epoch: 29  train accuracy: 0.844
+Epoch: 29  train accuracy: 0.914
+Epoch: 29  train accuracy: 0.863
+Epoch: 29  train accuracy: 0.875
+Epoch: 29  train accuracy: 0.906
+Epoch: 29  train accuracy: 0.855
+Epoch: 29  train accuracy: 0.867
+Epoch: 29  train accuracy: 0.746
+Epoch: 29  train accuracy: 0.879
+Epoch: 29  train accuracy: 0.785
+Epoch: 29  train accuracy: 0.836
+Epoch: 29  train accuracy: 0.859
+Epoch: 29  train accuracy: 0.777
+Epoch: 29  train accuracy: 0.898
+Epoch: 29  train accuracy: 0.805
+Epoch: 29  train accuracy: 0.777
+Epoch: 29  train accuracy: 0.871
+Epoch: 29  train accuracy: 0.895
+Epoch: 29  train accuracy: 0.840
+Epoch: 29  train accuracy: 0.832
+Epoch: 29  train accuracy: 0.812
+Epoch: 29  train accuracy: 0.820
+Epoch: 29  train accuracy: 0.766
+Epoch: 29  train accuracy: 0.887
+Epoch: 29  train accuracy: 0.664
+Epoch: 29  train accuracy: 0.863
+Epoch: 29  train accuracy: 0.883
+Epoch: 29  train accuracy: 0.887
+Epoch: 29  train accuracy: 0.863
+Epoch: 29  train accuracy: 0.688
+Epoch: 29  train accuracy: 0.848
+Epoch: 29  train accuracy: 0.934
+Epoch: 29  train accuracy: 0.871
+Epoch: 29  train accuracy: 0.938
+Epoch: 29  train accuracy: 0.758
+Epoch: 29  train accuracy: 0.906
+Epoch: 29  train accuracy: 0.875
+Epoch: 29  train accuracy: 0.863
+Epoch: 29  train accuracy: 0.840
+Epoch: 29  train accuracy: 0.891
+Epoch: 29  train accuracy: 0.875
+Epoch: 29  train accuracy: 0.840
+Epoch: 29  train accuracy: 0.875
+Epoch: 29  train accuracy: 0.719
+Epoch: 29  train accuracy: 0.848
+Epoch: 29  train accuracy: 0.844
+Epoch: 29  train accuracy: 0.844
+Epoch: 29  train accuracy: 0.863
+Epoch: 29  train accuracy: 0.852
+Epoch: 29  train accuracy: 0.895
+Epoch: 29  train accuracy: 0.797
+Epoch: 29  train accuracy: 0.820
+Epoch: 29  train accuracy: 0.883
+Epoch: 29  train accuracy: 0.918
+Epoch: 29  train accuracy: 0.895
+Epoch: 29  train accuracy: 0.918
+Epoch: 29  train accuracy: 0.867
+Epoch: 29  train accuracy: 0.852
+Epoch: 29  train accuracy: 0.914
+Epoch: 29  train accuracy: 0.863
+Epoch: 29  train accuracy: 0.898
+Epoch: 29  train accuracy: 0.836
+Epoch: 29  train accuracy: 0.945
+Epoch: 29  train accuracy: 0.875
+Epoch: 29  train accuracy: 0.879
+Epoch: 29  train accuracy: 0.754
+Epoch: 29  train accuracy: 0.852
+Epoch: 29  train accuracy: 0.770
+Epoch: 29  train accuracy: 0.820
+Epoch: 29  train accuracy: 0.832
+Epoch: 29  train accuracy: 0.844
+Epoch: 29  train accuracy: 0.898
+Epoch: 29  train accuracy: 0.785
+Epoch: 29  train accuracy: 0.898
+Epoch: 29  train accuracy: 0.875
+Epoch: 29  train accuracy: 0.922
+Epoch: 29  train accuracy: 0.891
+Epoch: 29  train accuracy: 0.879
+Epoch: 29  train accuracy: 0.840
+Epoch: 29  train accuracy: 0.738
+Epoch: 29  train accuracy: 0.809
+Epoch: 29  train accuracy: 0.859
+Epoch: 29  train accuracy: 0.801
+Epoch: 29  train accuracy: 0.738
+Epoch: 29  train accuracy: 0.875
+Epoch: 29  train accuracy: 0.969
+Epoch: 29  train accuracy: 0.922
+Epoch: 29  train accuracy: 0.922
+Epoch: 29  train accuracy: 0.828
+Epoch: 29  train accuracy: 0.902
+Epoch: 29  train accuracy: 0.883
+Epoch: 29  train accuracy: 0.922
+Epoch: 29  train accuracy: 0.902
+Epoch: 29  train accuracy: 0.930
+Epoch: 29  train accuracy: 0.961
+Epoch: 29  train accuracy: 0.871
+training finished for epoch  29
+Epoch: 29 batch:  1 cost = 31.67239  test accuracy: 0.921
+[[3726  250]
+ [  74   46]]
+Epoch: 29 batch:  2 cost = 31.67239  test accuracy: 0.904
+[[3649  303]
+ [  91   53]]
+Epoch: 29 batch:  3 cost = 31.67239  test accuracy: 0.918
+[[3709  272]
+ [  65   50]]
+Epoch: 29 batch:  4 cost = 31.67239  test accuracy: 0.920
+[[3714  262]
+ [  66   54]]
+Epoch: 29 batch:  5 cost = 31.67239  test accuracy: 0.903
+[[3653  299]
+ [  98   46]]
+Epoch: 29 batch:  6 cost = 31.67239  test accuracy: 0.918
+[[3712  259]
+ [  75   50]]
+Epoch: 30  train accuracy: 0.934
+Epoch: 30  train accuracy: 0.930
+Epoch: 30  train accuracy: 0.875
+Epoch: 30  train accuracy: 0.863
+Epoch: 30  train accuracy: 0.906
+Epoch: 30  train accuracy: 0.875
+Epoch: 30  train accuracy: 0.836
+Epoch: 30  train accuracy: 0.859
+Epoch: 30  train accuracy: 0.852
+Epoch: 30  train accuracy: 0.844
+Epoch: 30  train accuracy: 0.758
+Epoch: 30  train accuracy: 0.828
+Epoch: 30  train accuracy: 0.820
+Epoch: 30  train accuracy: 0.789
+Epoch: 30  train accuracy: 0.852
+Epoch: 30  train accuracy: 0.824
+Epoch: 30  train accuracy: 0.887
+Epoch: 30  train accuracy: 0.820
+Epoch: 30  train accuracy: 0.797
+Epoch: 30  train accuracy: 0.883
+Epoch: 30  train accuracy: 0.844
+Epoch: 30  train accuracy: 0.879
+Epoch: 30  train accuracy: 0.895
+Epoch: 30  train accuracy: 0.805
+Epoch: 30  train accuracy: 0.809
+Epoch: 30  train accuracy: 0.816
+Epoch: 30  train accuracy: 0.875
+Epoch: 30  train accuracy: 0.695
+Epoch: 30  train accuracy: 0.867
+Epoch: 30  train accuracy: 0.867
+Epoch: 30  train accuracy: 0.902
+Epoch: 30  train accuracy: 0.855
+Epoch: 30  train accuracy: 0.723
+Epoch: 30  train accuracy: 0.840
+Epoch: 30  train accuracy: 0.934
+Epoch: 30  train accuracy: 0.867
+Epoch: 30  train accuracy: 0.926
+Epoch: 30  train accuracy: 0.781
+Epoch: 30  train accuracy: 0.906
+Epoch: 30  train accuracy: 0.863
+Epoch: 30  train accuracy: 0.867
+Epoch: 30  train accuracy: 0.824
+Epoch: 30  train accuracy: 0.902
+Epoch: 30  train accuracy: 0.895
+Epoch: 30  train accuracy: 0.887
+Epoch: 30  train accuracy: 0.867
+Epoch: 30  train accuracy: 0.707
+Epoch: 30  train accuracy: 0.832
+Epoch: 30  train accuracy: 0.793
+Epoch: 30  train accuracy: 0.863
+Epoch: 30  train accuracy: 0.871
+Epoch: 30  train accuracy: 0.848
+Epoch: 30  train accuracy: 0.910
+Epoch: 30  train accuracy: 0.781
+Epoch: 30  train accuracy: 0.836
+Epoch: 30  train accuracy: 0.879
+Epoch: 30  train accuracy: 0.891
+Epoch: 30  train accuracy: 0.875
+Epoch: 30  train accuracy: 0.922
+Epoch: 30  train accuracy: 0.902
+Epoch: 30  train accuracy: 0.887
+Epoch: 30  train accuracy: 0.926
+Epoch: 30  train accuracy: 0.867
+Epoch: 30  train accuracy: 0.906
+Epoch: 30  train accuracy: 0.914
+Epoch: 30  train accuracy: 0.930
+Epoch: 30  train accuracy: 0.891
+Epoch: 30  train accuracy: 0.859
+Epoch: 30  train accuracy: 0.770
+Epoch: 30  train accuracy: 0.863
+Epoch: 30  train accuracy: 0.801
+Epoch: 30  train accuracy: 0.801
+Epoch: 30  train accuracy: 0.734
+Epoch: 30  train accuracy: 0.793
+Epoch: 30  train accuracy: 0.859
+Epoch: 30  train accuracy: 0.809
+Epoch: 30  train accuracy: 0.914
+Epoch: 30  train accuracy: 0.887
+Epoch: 30  train accuracy: 0.934
+Epoch: 30  train accuracy: 0.910
+Epoch: 30  train accuracy: 0.883
+Epoch: 30  train accuracy: 0.824
+Epoch: 30  train accuracy: 0.844
+Epoch: 30  train accuracy: 0.809
+Epoch: 30  train accuracy: 0.902
+Epoch: 30  train accuracy: 0.801
+Epoch: 30  train accuracy: 0.766
+Epoch: 30  train accuracy: 0.824
+Epoch: 30  train accuracy: 0.949
+Epoch: 30  train accuracy: 0.965
+Epoch: 30  train accuracy: 0.914
+Epoch: 30  train accuracy: 0.875
+Epoch: 30  train accuracy: 0.875
+Epoch: 30  train accuracy: 0.875
+Epoch: 30  train accuracy: 0.902
+Epoch: 30  train accuracy: 0.875
+Epoch: 30  train accuracy: 0.926
+Epoch: 30  train accuracy: 0.973
+Epoch: 30  train accuracy: 0.855
+training finished for epoch  30
+Epoch: 30 batch:  1 cost = 31.53329  test accuracy: 0.921
+[[3724  252]
+ [  73   47]]
+Epoch: 30 batch:  2 cost = 31.53329  test accuracy: 0.903
+[[3645  307]
+ [  91   53]]
+Epoch: 30 batch:  3 cost = 31.53329  test accuracy: 0.917
+[[3708  273]
+ [  65   50]]
+Epoch: 30 batch:  4 cost = 31.53329  test accuracy: 0.920
+[[3714  262]
+ [  66   54]]
+Epoch: 30 batch:  5 cost = 31.53329  test accuracy: 0.903
+[[3652  300]
+ [  96   48]]
+Epoch: 30 batch:  6 cost = 31.53329  test accuracy: 0.919
+[[3713  258]
+ [  74   51]]
+Epoch: 31  train accuracy: 0.945
+Epoch: 31  train accuracy: 0.930
+Epoch: 31  train accuracy: 0.879
+Epoch: 31  train accuracy: 0.863
+Epoch: 31  train accuracy: 0.930
+Epoch: 31  train accuracy: 0.895
+Epoch: 31  train accuracy: 0.875
+Epoch: 31  train accuracy: 0.879
+Epoch: 31  train accuracy: 0.859
+Epoch: 31  train accuracy: 0.805
+Epoch: 31  train accuracy: 0.750
+Epoch: 31  train accuracy: 0.895
+Epoch: 31  train accuracy: 0.789
+Epoch: 31  train accuracy: 0.824
+Epoch: 31  train accuracy: 0.852
+Epoch: 31  train accuracy: 0.871
+Epoch: 31  train accuracy: 0.891
+Epoch: 31  train accuracy: 0.824
+Epoch: 31  train accuracy: 0.797
+Epoch: 31  train accuracy: 0.914
+Epoch: 31  train accuracy: 0.887
+Epoch: 31  train accuracy: 0.824
+Epoch: 31  train accuracy: 0.906
+Epoch: 31  train accuracy: 0.844
+Epoch: 31  train accuracy: 0.805
+Epoch: 31  train accuracy: 0.840
+Epoch: 31  train accuracy: 0.883
+Epoch: 31  train accuracy: 0.707
+Epoch: 31  train accuracy: 0.863
+Epoch: 31  train accuracy: 0.879
+Epoch: 31  train accuracy: 0.855
+Epoch: 31  train accuracy: 0.875
+Epoch: 31  train accuracy: 0.762
+Epoch: 31  train accuracy: 0.879
+Epoch: 31  train accuracy: 0.922
+Epoch: 31  train accuracy: 0.887
+Epoch: 31  train accuracy: 0.918
+Epoch: 31  train accuracy: 0.719
+Epoch: 31  train accuracy: 0.945
+Epoch: 31  train accuracy: 0.809
+Epoch: 31  train accuracy: 0.789
+Epoch: 31  train accuracy: 0.824
+Epoch: 31  train accuracy: 0.918
+Epoch: 31  train accuracy: 0.918
+Epoch: 31  train accuracy: 0.855
+Epoch: 31  train accuracy: 0.891
+Epoch: 31  train accuracy: 0.762
+Epoch: 31  train accuracy: 0.840
+Epoch: 31  train accuracy: 0.777
+Epoch: 31  train accuracy: 0.859
+Epoch: 31  train accuracy: 0.871
+Epoch: 31  train accuracy: 0.836
+Epoch: 31  train accuracy: 0.902
+Epoch: 31  train accuracy: 0.684
+Epoch: 31  train accuracy: 0.824
+Epoch: 31  train accuracy: 0.848
+Epoch: 31  train accuracy: 0.852
+Epoch: 31  train accuracy: 0.906
+Epoch: 31  train accuracy: 0.934
+Epoch: 31  train accuracy: 0.895
+Epoch: 31  train accuracy: 0.867
+Epoch: 31  train accuracy: 0.902
+Epoch: 31  train accuracy: 0.836
+Epoch: 31  train accuracy: 0.906
+Epoch: 31  train accuracy: 0.859
+Epoch: 31  train accuracy: 0.930
+Epoch: 31  train accuracy: 0.871
+Epoch: 31  train accuracy: 0.797
+Epoch: 31  train accuracy: 0.762
+Epoch: 31  train accuracy: 0.836
+Epoch: 31  train accuracy: 0.828
+Epoch: 31  train accuracy: 0.801
+Epoch: 31  train accuracy: 0.805
+Epoch: 31  train accuracy: 0.809
+Epoch: 31  train accuracy: 0.879
+Epoch: 31  train accuracy: 0.738
+Epoch: 31  train accuracy: 0.895
+Epoch: 31  train accuracy: 0.832
+Epoch: 31  train accuracy: 0.910
+Epoch: 31  train accuracy: 0.848
+Epoch: 31  train accuracy: 0.875
+Epoch: 31  train accuracy: 0.855
+Epoch: 31  train accuracy: 0.801
+Epoch: 31  train accuracy: 0.836
+Epoch: 31  train accuracy: 0.887
+Epoch: 31  train accuracy: 0.801
+Epoch: 31  train accuracy: 0.691
+Epoch: 31  train accuracy: 0.824
+Epoch: 31  train accuracy: 0.883
+Epoch: 31  train accuracy: 0.938
+Epoch: 31  train accuracy: 0.902
+Epoch: 31  train accuracy: 0.867
+Epoch: 31  train accuracy: 0.895
+Epoch: 31  train accuracy: 0.902
+Epoch: 31  train accuracy: 0.910
+Epoch: 31  train accuracy: 0.887
+Epoch: 31  train accuracy: 0.938
+Epoch: 31  train accuracy: 0.969
+Epoch: 31  train accuracy: 0.883
+training finished for epoch  31
+Epoch: 31 batch:  1 cost = 31.46571  test accuracy: 0.916
+[[3701  275]
+ [  69   51]]
+Epoch: 31 batch:  2 cost = 31.46571  test accuracy: 0.898
+[[3618  334]
+ [  83   61]]
+Epoch: 31 batch:  3 cost = 31.46571  test accuracy: 0.913
+[[3687  294]
+ [  63   52]]
+Epoch: 31 batch:  4 cost = 31.46571  test accuracy: 0.915
+[[3690  286]
+ [  61   59]]
+Epoch: 31 batch:  5 cost = 31.46571  test accuracy: 0.897
+[[3624  328]
+ [  93   51]]
+Epoch: 31 batch:  6 cost = 31.46571  test accuracy: 0.915
+[[3687  284]
+ [  66   59]]
+Epoch: 32  train accuracy: 0.930
+Epoch: 32  train accuracy: 0.910
+Epoch: 32  train accuracy: 0.910
+Epoch: 32  train accuracy: 0.930
+Epoch: 32  train accuracy: 0.895
+Epoch: 32  train accuracy: 0.840
+Epoch: 32  train accuracy: 0.867
+Epoch: 32  train accuracy: 0.855
+Epoch: 32  train accuracy: 0.883
+Epoch: 32  train accuracy: 0.848
+Epoch: 32  train accuracy: 0.762
+Epoch: 32  train accuracy: 0.895
+Epoch: 32  train accuracy: 0.852
+Epoch: 32  train accuracy: 0.836
+Epoch: 32  train accuracy: 0.879
+Epoch: 32  train accuracy: 0.832
+Epoch: 32  train accuracy: 0.871
+Epoch: 32  train accuracy: 0.840
+Epoch: 32  train accuracy: 0.801
+Epoch: 32  train accuracy: 0.852
+Epoch: 32  train accuracy: 0.902
+Epoch: 32  train accuracy: 0.883
+Epoch: 32  train accuracy: 0.906
+Epoch: 32  train accuracy: 0.879
+Epoch: 32  train accuracy: 0.848
+Epoch: 32  train accuracy: 0.816
+Epoch: 32  train accuracy: 0.883
+Epoch: 32  train accuracy: 0.754
+Epoch: 32  train accuracy: 0.883
+Epoch: 32  train accuracy: 0.844
+Epoch: 32  train accuracy: 0.844
+Epoch: 32  train accuracy: 0.879
+Epoch: 32  train accuracy: 0.766
+Epoch: 32  train accuracy: 0.840
+Epoch: 32  train accuracy: 0.906
+Epoch: 32  train accuracy: 0.906
+Epoch: 32  train accuracy: 0.902
+Epoch: 32  train accuracy: 0.707
+Epoch: 32  train accuracy: 0.859
+Epoch: 32  train accuracy: 0.824
+Epoch: 32  train accuracy: 0.824
+Epoch: 32  train accuracy: 0.812
+Epoch: 32  train accuracy: 0.910
+Epoch: 32  train accuracy: 0.895
+Epoch: 32  train accuracy: 0.855
+Epoch: 32  train accuracy: 0.883
+Epoch: 32  train accuracy: 0.738
+Epoch: 32  train accuracy: 0.875
+Epoch: 32  train accuracy: 0.809
+Epoch: 32  train accuracy: 0.871
+Epoch: 32  train accuracy: 0.887
+Epoch: 32  train accuracy: 0.898
+Epoch: 32  train accuracy: 0.895
+Epoch: 32  train accuracy: 0.742
+Epoch: 32  train accuracy: 0.812
+Epoch: 32  train accuracy: 0.824
+Epoch: 32  train accuracy: 0.891
+Epoch: 32  train accuracy: 0.891
+Epoch: 32  train accuracy: 0.918
+Epoch: 32  train accuracy: 0.910
+Epoch: 32  train accuracy: 0.883
+Epoch: 32  train accuracy: 0.910
+Epoch: 32  train accuracy: 0.848
+Epoch: 32  train accuracy: 0.898
+Epoch: 32  train accuracy: 0.867
+Epoch: 32  train accuracy: 0.902
+Epoch: 32  train accuracy: 0.887
+Epoch: 32  train accuracy: 0.828
+Epoch: 32  train accuracy: 0.730
+Epoch: 32  train accuracy: 0.871
+Epoch: 32  train accuracy: 0.867
+Epoch: 32  train accuracy: 0.840
+Epoch: 32  train accuracy: 0.801
+Epoch: 32  train accuracy: 0.785
+Epoch: 32  train accuracy: 0.859
+Epoch: 32  train accuracy: 0.785
+Epoch: 32  train accuracy: 0.906
+Epoch: 32  train accuracy: 0.832
+Epoch: 32  train accuracy: 0.914
+Epoch: 32  train accuracy: 0.891
+Epoch: 32  train accuracy: 0.895
+Epoch: 32  train accuracy: 0.883
+Epoch: 32  train accuracy: 0.812
+Epoch: 32  train accuracy: 0.809
+Epoch: 32  train accuracy: 0.918
+Epoch: 32  train accuracy: 0.828
+Epoch: 32  train accuracy: 0.754
+Epoch: 32  train accuracy: 0.836
+Epoch: 32  train accuracy: 0.930
+Epoch: 32  train accuracy: 0.910
+Epoch: 32  train accuracy: 0.906
+Epoch: 32  train accuracy: 0.879
+Epoch: 32  train accuracy: 0.891
+Epoch: 32  train accuracy: 0.852
+Epoch: 32  train accuracy: 0.914
+Epoch: 32  train accuracy: 0.871
+Epoch: 32  train accuracy: 0.887
+Epoch: 32  train accuracy: 0.965
+Epoch: 32  train accuracy: 0.867
+training finished for epoch  32
+Epoch: 32 batch:  1 cost = 31.10052  test accuracy: 0.917
+[[3708  268]
+ [  70   50]]
+Epoch: 32 batch:  2 cost = 31.10052  test accuracy: 0.898
+[[3621  331]
+ [  86   58]]
+Epoch: 32 batch:  3 cost = 31.10052  test accuracy: 0.914
+[[3691  290]
+ [  64   51]]
+Epoch: 32 batch:  4 cost = 31.10052  test accuracy: 0.918
+[[3702  274]
+ [  63   57]]
+Epoch: 32 batch:  5 cost = 31.10052  test accuracy: 0.898
+[[3629  323]
+ [  95   49]]
+Epoch: 32 batch:  6 cost = 31.10052  test accuracy: 0.917
+[[3698  273]
+ [  69   56]]
+Epoch: 33  train accuracy: 0.945
+Epoch: 33  train accuracy: 0.934
+Epoch: 33  train accuracy: 0.902
+Epoch: 33  train accuracy: 0.930
+Epoch: 33  train accuracy: 0.949
+Epoch: 33  train accuracy: 0.883
+Epoch: 33  train accuracy: 0.871
+Epoch: 33  train accuracy: 0.828
+Epoch: 33  train accuracy: 0.926
+Epoch: 33  train accuracy: 0.824
+Epoch: 33  train accuracy: 0.789
+Epoch: 33  train accuracy: 0.910
+Epoch: 33  train accuracy: 0.848
+Epoch: 33  train accuracy: 0.844
+Epoch: 33  train accuracy: 0.852
+Epoch: 33  train accuracy: 0.805
+Epoch: 33  train accuracy: 0.902
+Epoch: 33  train accuracy: 0.852
+Epoch: 33  train accuracy: 0.789
+Epoch: 33  train accuracy: 0.910
+Epoch: 33  train accuracy: 0.871
+Epoch: 33  train accuracy: 0.883
+Epoch: 33  train accuracy: 0.906
+Epoch: 33  train accuracy: 0.859
+Epoch: 33  train accuracy: 0.844
+Epoch: 33  train accuracy: 0.785
+Epoch: 33  train accuracy: 0.871
+Epoch: 33  train accuracy: 0.645
+Epoch: 33  train accuracy: 0.891
+Epoch: 33  train accuracy: 0.867
+Epoch: 33  train accuracy: 0.824
+Epoch: 33  train accuracy: 0.848
+Epoch: 33  train accuracy: 0.770
+Epoch: 33  train accuracy: 0.898
+Epoch: 33  train accuracy: 0.941
+Epoch: 33  train accuracy: 0.895
+Epoch: 33  train accuracy: 0.945
+Epoch: 33  train accuracy: 0.656
+Epoch: 33  train accuracy: 0.898
+Epoch: 33  train accuracy: 0.848
+Epoch: 33  train accuracy: 0.781
+Epoch: 33  train accuracy: 0.840
+Epoch: 33  train accuracy: 0.938
+Epoch: 33  train accuracy: 0.906
+Epoch: 33  train accuracy: 0.910
+Epoch: 33  train accuracy: 0.840
+Epoch: 33  train accuracy: 0.781
+Epoch: 33  train accuracy: 0.852
+Epoch: 33  train accuracy: 0.812
+Epoch: 33  train accuracy: 0.871
+Epoch: 33  train accuracy: 0.875
+Epoch: 33  train accuracy: 0.895
+Epoch: 33  train accuracy: 0.898
+Epoch: 33  train accuracy: 0.770
+Epoch: 33  train accuracy: 0.820
+Epoch: 33  train accuracy: 0.859
+Epoch: 33  train accuracy: 0.848
+Epoch: 33  train accuracy: 0.910
+Epoch: 33  train accuracy: 0.922
+Epoch: 33  train accuracy: 0.910
+Epoch: 33  train accuracy: 0.918
+Epoch: 33  train accuracy: 0.926
+Epoch: 33  train accuracy: 0.871
+Epoch: 33  train accuracy: 0.922
+Epoch: 33  train accuracy: 0.871
+Epoch: 33  train accuracy: 0.902
+Epoch: 33  train accuracy: 0.879
+Epoch: 33  train accuracy: 0.867
+Epoch: 33  train accuracy: 0.754
+Epoch: 33  train accuracy: 0.887
+Epoch: 33  train accuracy: 0.805
+Epoch: 33  train accuracy: 0.789
+Epoch: 33  train accuracy: 0.766
+Epoch: 33  train accuracy: 0.805
+Epoch: 33  train accuracy: 0.902
+Epoch: 33  train accuracy: 0.789
+Epoch: 33  train accuracy: 0.840
+Epoch: 33  train accuracy: 0.883
+Epoch: 33  train accuracy: 0.941
+Epoch: 33  train accuracy: 0.895
+Epoch: 33  train accuracy: 0.852
+Epoch: 33  train accuracy: 0.867
+Epoch: 33  train accuracy: 0.816
+Epoch: 33  train accuracy: 0.844
+Epoch: 33  train accuracy: 0.852
+Epoch: 33  train accuracy: 0.820
+Epoch: 33  train accuracy: 0.746
+Epoch: 33  train accuracy: 0.844
+Epoch: 33  train accuracy: 0.906
+Epoch: 33  train accuracy: 0.930
+Epoch: 33  train accuracy: 0.891
+Epoch: 33  train accuracy: 0.832
+Epoch: 33  train accuracy: 0.871
+Epoch: 33  train accuracy: 0.883
+Epoch: 33  train accuracy: 0.914
+Epoch: 33  train accuracy: 0.836
+Epoch: 33  train accuracy: 0.938
+Epoch: 33  train accuracy: 0.961
+Epoch: 33  train accuracy: 0.852
+training finished for epoch  33
+Epoch: 33 batch:  1 cost = 31.03712  test accuracy: 0.917
+[[3708  268]
+ [  70   50]]
+Epoch: 33 batch:  2 cost = 31.03712  test accuracy: 0.898
+[[3623  329]
+ [  87   57]]
+Epoch: 33 batch:  3 cost = 31.03712  test accuracy: 0.913
+[[3690  291]
+ [  64   51]]
+Epoch: 33 batch:  4 cost = 31.03712  test accuracy: 0.918
+[[3702  274]
+ [  62   58]]
+Epoch: 33 batch:  5 cost = 31.03712  test accuracy: 0.898
+[[3631  321]
+ [  95   49]]
+Epoch: 33 batch:  6 cost = 31.03712  test accuracy: 0.916
+[[3698  273]
+ [  70   55]]
+Epoch: 34  train accuracy: 0.957
+Epoch: 34  train accuracy: 0.965
+Epoch: 34  train accuracy: 0.891
+Epoch: 34  train accuracy: 0.930
+Epoch: 34  train accuracy: 0.902
+Epoch: 34  train accuracy: 0.863
+Epoch: 34  train accuracy: 0.855
+Epoch: 34  train accuracy: 0.852
+Epoch: 34  train accuracy: 0.898
+Epoch: 34  train accuracy: 0.832
+Epoch: 34  train accuracy: 0.738
+Epoch: 34  train accuracy: 0.848
+Epoch: 34  train accuracy: 0.863
+Epoch: 34  train accuracy: 0.855
+Epoch: 34  train accuracy: 0.871
+Epoch: 34  train accuracy: 0.805
+Epoch: 34  train accuracy: 0.859
+Epoch: 34  train accuracy: 0.863
+Epoch: 34  train accuracy: 0.754
+Epoch: 34  train accuracy: 0.898
+Epoch: 34  train accuracy: 0.867
+Epoch: 34  train accuracy: 0.859
+Epoch: 34  train accuracy: 0.891
+Epoch: 34  train accuracy: 0.875
+Epoch: 34  train accuracy: 0.844
+Epoch: 34  train accuracy: 0.805
+Epoch: 34  train accuracy: 0.848
+Epoch: 34  train accuracy: 0.715
+Epoch: 34  train accuracy: 0.930
+Epoch: 34  train accuracy: 0.891
+Epoch: 34  train accuracy: 0.887
+Epoch: 34  train accuracy: 0.812
+Epoch: 34  train accuracy: 0.715
+Epoch: 34  train accuracy: 0.836
+Epoch: 34  train accuracy: 0.934
+Epoch: 34  train accuracy: 0.891
+Epoch: 34  train accuracy: 0.945
+Epoch: 34  train accuracy: 0.719
+Epoch: 34  train accuracy: 0.898
+Epoch: 34  train accuracy: 0.867
+Epoch: 34  train accuracy: 0.859
+Epoch: 34  train accuracy: 0.793
+Epoch: 34  train accuracy: 0.879
+Epoch: 34  train accuracy: 0.906
+Epoch: 34  train accuracy: 0.836
+Epoch: 34  train accuracy: 0.898
+Epoch: 34  train accuracy: 0.762
+Epoch: 34  train accuracy: 0.863
+Epoch: 34  train accuracy: 0.844
+Epoch: 34  train accuracy: 0.855
+Epoch: 34  train accuracy: 0.887
+Epoch: 34  train accuracy: 0.891
+Epoch: 34  train accuracy: 0.867
+Epoch: 34  train accuracy: 0.734
+Epoch: 34  train accuracy: 0.855
+Epoch: 34  train accuracy: 0.855
+Epoch: 34  train accuracy: 0.895
+Epoch: 34  train accuracy: 0.891
+Epoch: 34  train accuracy: 0.945
+Epoch: 34  train accuracy: 0.895
+Epoch: 34  train accuracy: 0.863
+Epoch: 34  train accuracy: 0.910
+Epoch: 34  train accuracy: 0.906
+Epoch: 34  train accuracy: 0.922
+Epoch: 34  train accuracy: 0.871
+Epoch: 34  train accuracy: 0.918
+Epoch: 34  train accuracy: 0.848
+Epoch: 34  train accuracy: 0.844
+Epoch: 34  train accuracy: 0.785
+Epoch: 34  train accuracy: 0.848
+Epoch: 34  train accuracy: 0.801
+Epoch: 34  train accuracy: 0.824
+Epoch: 34  train accuracy: 0.766
+Epoch: 34  train accuracy: 0.781
+Epoch: 34  train accuracy: 0.879
+Epoch: 34  train accuracy: 0.785
+Epoch: 34  train accuracy: 0.875
+Epoch: 34  train accuracy: 0.859
+Epoch: 34  train accuracy: 0.930
+Epoch: 34  train accuracy: 0.836
+Epoch: 34  train accuracy: 0.883
+Epoch: 34  train accuracy: 0.832
+Epoch: 34  train accuracy: 0.848
+Epoch: 34  train accuracy: 0.816
+Epoch: 34  train accuracy: 0.883
+Epoch: 34  train accuracy: 0.824
+Epoch: 34  train accuracy: 0.715
+Epoch: 34  train accuracy: 0.828
+Epoch: 34  train accuracy: 0.926
+Epoch: 34  train accuracy: 0.914
+Epoch: 34  train accuracy: 0.895
+Epoch: 34  train accuracy: 0.891
+Epoch: 34  train accuracy: 0.855
+Epoch: 34  train accuracy: 0.898
+Epoch: 34  train accuracy: 0.922
+Epoch: 34  train accuracy: 0.879
+Epoch: 34  train accuracy: 0.941
+Epoch: 34  train accuracy: 0.961
+Epoch: 34  train accuracy: 0.863
+training finished for epoch  34
+Epoch: 34 batch:  1 cost = 30.89677  test accuracy: 0.918
+[[3709  267]
+ [  70   50]]
+Epoch: 34 batch:  2 cost = 30.89677  test accuracy: 0.899
+[[3626  326]
+ [  88   56]]
+Epoch: 34 batch:  3 cost = 30.89677  test accuracy: 0.913
+[[3688  293]
+ [  64   51]]
+Epoch: 34 batch:  4 cost = 30.89677  test accuracy: 0.918
+[[3704  272]
+ [  62   58]]
+Epoch: 34 batch:  5 cost = 30.89677  test accuracy: 0.899
+[[3632  320]
+ [  95   49]]
+Epoch: 34 batch:  6 cost = 30.89677  test accuracy: 0.916
+[[3695  276]
+ [  70   55]]
+Epoch: 35  train accuracy: 0.949
+Epoch: 35  train accuracy: 0.934
+Epoch: 35  train accuracy: 0.906
+Epoch: 35  train accuracy: 0.914
+Epoch: 35  train accuracy: 0.922
+Epoch: 35  train accuracy: 0.879
+Epoch: 35  train accuracy: 0.859
+Epoch: 35  train accuracy: 0.914
+Epoch: 35  train accuracy: 0.863
+Epoch: 35  train accuracy: 0.832
+Epoch: 35  train accuracy: 0.750
+Epoch: 35  train accuracy: 0.848
+Epoch: 35  train accuracy: 0.871
+Epoch: 35  train accuracy: 0.848
+Epoch: 35  train accuracy: 0.898
+Epoch: 35  train accuracy: 0.855
+Epoch: 35  train accuracy: 0.863
+Epoch: 35  train accuracy: 0.848
+Epoch: 35  train accuracy: 0.793
+Epoch: 35  train accuracy: 0.871
+Epoch: 35  train accuracy: 0.871
+Epoch: 35  train accuracy: 0.867
+Epoch: 35  train accuracy: 0.902
+Epoch: 35  train accuracy: 0.852
+Epoch: 35  train accuracy: 0.816
+Epoch: 35  train accuracy: 0.789
+Epoch: 35  train accuracy: 0.887
+Epoch: 35  train accuracy: 0.750
+Epoch: 35  train accuracy: 0.879
+Epoch: 35  train accuracy: 0.859
+Epoch: 35  train accuracy: 0.828
+Epoch: 35  train accuracy: 0.836
+Epoch: 35  train accuracy: 0.777
+Epoch: 35  train accuracy: 0.883
+Epoch: 35  train accuracy: 0.910
+Epoch: 35  train accuracy: 0.855
+Epoch: 35  train accuracy: 0.930
+Epoch: 35  train accuracy: 0.672
+Epoch: 35  train accuracy: 0.895
+Epoch: 35  train accuracy: 0.836
+Epoch: 35  train accuracy: 0.840
+Epoch: 35  train accuracy: 0.809
+Epoch: 35  train accuracy: 0.930
+Epoch: 35  train accuracy: 0.918
+Epoch: 35  train accuracy: 0.910
+Epoch: 35  train accuracy: 0.887
+Epoch: 35  train accuracy: 0.766
+Epoch: 35  train accuracy: 0.902
+Epoch: 35  train accuracy: 0.812
+Epoch: 35  train accuracy: 0.879
+Epoch: 35  train accuracy: 0.906
+Epoch: 35  train accuracy: 0.879
+Epoch: 35  train accuracy: 0.914
+Epoch: 35  train accuracy: 0.746
+Epoch: 35  train accuracy: 0.871
+Epoch: 35  train accuracy: 0.867
+Epoch: 35  train accuracy: 0.867
+Epoch: 35  train accuracy: 0.871
+Epoch: 35  train accuracy: 0.922
+Epoch: 35  train accuracy: 0.875
+Epoch: 35  train accuracy: 0.871
+Epoch: 35  train accuracy: 0.930
+Epoch: 35  train accuracy: 0.914
+Epoch: 35  train accuracy: 0.898
+Epoch: 35  train accuracy: 0.887
+Epoch: 35  train accuracy: 0.914
+Epoch: 35  train accuracy: 0.871
+Epoch: 35  train accuracy: 0.863
+Epoch: 35  train accuracy: 0.801
+Epoch: 35  train accuracy: 0.891
+Epoch: 35  train accuracy: 0.855
+Epoch: 35  train accuracy: 0.797
+Epoch: 35  train accuracy: 0.770
+Epoch: 35  train accuracy: 0.816
+Epoch: 35  train accuracy: 0.832
+Epoch: 35  train accuracy: 0.816
+Epoch: 35  train accuracy: 0.867
+Epoch: 35  train accuracy: 0.855
+Epoch: 35  train accuracy: 0.898
+Epoch: 35  train accuracy: 0.879
+Epoch: 35  train accuracy: 0.906
+Epoch: 35  train accuracy: 0.844
+Epoch: 35  train accuracy: 0.852
+Epoch: 35  train accuracy: 0.844
+Epoch: 35  train accuracy: 0.879
+Epoch: 35  train accuracy: 0.852
+Epoch: 35  train accuracy: 0.715
+Epoch: 35  train accuracy: 0.816
+Epoch: 35  train accuracy: 0.910
+Epoch: 35  train accuracy: 0.930
+Epoch: 35  train accuracy: 0.879
+Epoch: 35  train accuracy: 0.879
+Epoch: 35  train accuracy: 0.914
+Epoch: 35  train accuracy: 0.922
+Epoch: 35  train accuracy: 0.883
+Epoch: 35  train accuracy: 0.879
+Epoch: 35  train accuracy: 0.934
+Epoch: 35  train accuracy: 0.961
+Epoch: 35  train accuracy: 0.891
+training finished for epoch  35
+Epoch: 35 batch:  1 cost = 30.75158  test accuracy: 0.918
+[[3712  264]
+ [  71   49]]
+Epoch: 35 batch:  2 cost = 30.75158  test accuracy: 0.900
+[[3631  321]
+ [  89   55]]
+Epoch: 35 batch:  3 cost = 30.75158  test accuracy: 0.913
+[[3690  291]
+ [  64   51]]
+Epoch: 35 batch:  4 cost = 30.75158  test accuracy: 0.919
+[[3707  269]
+ [  62   58]]
+Epoch: 35 batch:  5 cost = 30.75158  test accuracy: 0.900
+[[3639  313]
+ [  95   49]]
+Epoch: 35 batch:  6 cost = 30.75158  test accuracy: 0.917
+[[3700  271]
+ [  71   54]]
+Epoch: 36  train accuracy: 0.953
+Epoch: 36  train accuracy: 0.930
+Epoch: 36  train accuracy: 0.918
+Epoch: 36  train accuracy: 0.906
+Epoch: 36  train accuracy: 0.918
+Epoch: 36  train accuracy: 0.887
+Epoch: 36  train accuracy: 0.895
+Epoch: 36  train accuracy: 0.871
+Epoch: 36  train accuracy: 0.867
+Epoch: 36  train accuracy: 0.797
+Epoch: 36  train accuracy: 0.754
+Epoch: 36  train accuracy: 0.852
+Epoch: 36  train accuracy: 0.840
+Epoch: 36  train accuracy: 0.852
+Epoch: 36  train accuracy: 0.906
+Epoch: 36  train accuracy: 0.805
+Epoch: 36  train accuracy: 0.828
+Epoch: 36  train accuracy: 0.816
+Epoch: 36  train accuracy: 0.773
+Epoch: 36  train accuracy: 0.910
+Epoch: 36  train accuracy: 0.883
+Epoch: 36  train accuracy: 0.867
+Epoch: 36  train accuracy: 0.938
+Epoch: 36  train accuracy: 0.887
+Epoch: 36  train accuracy: 0.844
+Epoch: 36  train accuracy: 0.754
+Epoch: 36  train accuracy: 0.910
+Epoch: 36  train accuracy: 0.699
+Epoch: 36  train accuracy: 0.898
+Epoch: 36  train accuracy: 0.855
+Epoch: 36  train accuracy: 0.820
+Epoch: 36  train accuracy: 0.879
+Epoch: 36  train accuracy: 0.797
+Epoch: 36  train accuracy: 0.836
+Epoch: 36  train accuracy: 0.934
+Epoch: 36  train accuracy: 0.883
+Epoch: 36  train accuracy: 0.906
+Epoch: 36  train accuracy: 0.660
+Epoch: 36  train accuracy: 0.883
+Epoch: 36  train accuracy: 0.816
+Epoch: 36  train accuracy: 0.805
+Epoch: 36  train accuracy: 0.801
+Epoch: 36  train accuracy: 0.930
+Epoch: 36  train accuracy: 0.895
+Epoch: 36  train accuracy: 0.828
+Epoch: 36  train accuracy: 0.883
+Epoch: 36  train accuracy: 0.785
+Epoch: 36  train accuracy: 0.891
+Epoch: 36  train accuracy: 0.867
+Epoch: 36  train accuracy: 0.891
+Epoch: 36  train accuracy: 0.883
+Epoch: 36  train accuracy: 0.852
+Epoch: 36  train accuracy: 0.914
+Epoch: 36  train accuracy: 0.746
+Epoch: 36  train accuracy: 0.785
+Epoch: 36  train accuracy: 0.871
+Epoch: 36  train accuracy: 0.840
+Epoch: 36  train accuracy: 0.844
+Epoch: 36  train accuracy: 0.910
+Epoch: 36  train accuracy: 0.891
+Epoch: 36  train accuracy: 0.828
+Epoch: 36  train accuracy: 0.945
+Epoch: 36  train accuracy: 0.895
+Epoch: 36  train accuracy: 0.902
+Epoch: 36  train accuracy: 0.879
+Epoch: 36  train accuracy: 0.887
+Epoch: 36  train accuracy: 0.840
+Epoch: 36  train accuracy: 0.809
+Epoch: 36  train accuracy: 0.801
+Epoch: 36  train accuracy: 0.871
+Epoch: 36  train accuracy: 0.855
+Epoch: 36  train accuracy: 0.832
+Epoch: 36  train accuracy: 0.844
+Epoch: 36  train accuracy: 0.805
+Epoch: 36  train accuracy: 0.871
+Epoch: 36  train accuracy: 0.793
+Epoch: 36  train accuracy: 0.855
+Epoch: 36  train accuracy: 0.812
+Epoch: 36  train accuracy: 0.914
+Epoch: 36  train accuracy: 0.863
+Epoch: 36  train accuracy: 0.871
+Epoch: 36  train accuracy: 0.816
+Epoch: 36  train accuracy: 0.816
+Epoch: 36  train accuracy: 0.855
+Epoch: 36  train accuracy: 0.859
+Epoch: 36  train accuracy: 0.785
+Epoch: 36  train accuracy: 0.781
+Epoch: 36  train accuracy: 0.828
+Epoch: 36  train accuracy: 0.883
+Epoch: 36  train accuracy: 0.879
+Epoch: 36  train accuracy: 0.879
+Epoch: 36  train accuracy: 0.848
+Epoch: 36  train accuracy: 0.848
+Epoch: 36  train accuracy: 0.867
+Epoch: 36  train accuracy: 0.918
+Epoch: 36  train accuracy: 0.832
+Epoch: 36  train accuracy: 0.906
+Epoch: 36  train accuracy: 0.941
+Epoch: 36  train accuracy: 0.855
+training finished for epoch  36
+Epoch: 36 batch:  1 cost = 30.87099  test accuracy: 0.911
+[[3674  302]
+ [  64   56]]
+Epoch: 36 batch:  2 cost = 30.87099  test accuracy: 0.892
+[[3586  366]
+ [  78   66]]
+Epoch: 36 batch:  3 cost = 30.87099  test accuracy: 0.907
+[[3662  319]
+ [  60   55]]
+Epoch: 36 batch:  4 cost = 30.87099  test accuracy: 0.908
+[[3659  317]
+ [  59   61]]
+Epoch: 36 batch:  5 cost = 30.87099  test accuracy: 0.891
+[[3596  356]
+ [  90   54]]
+Epoch: 36 batch:  6 cost = 30.87099  test accuracy: 0.906
+[[3652  319]
+ [  68   57]]
+Epoch: 37  train accuracy: 0.922
+Epoch: 37  train accuracy: 0.938
+Epoch: 37  train accuracy: 0.949
+Epoch: 37  train accuracy: 0.930
+Epoch: 37  train accuracy: 0.934
+Epoch: 37  train accuracy: 0.867
+Epoch: 37  train accuracy: 0.922
+Epoch: 37  train accuracy: 0.895
+Epoch: 37  train accuracy: 0.891
+Epoch: 37  train accuracy: 0.836
+Epoch: 37  train accuracy: 0.723
+Epoch: 37  train accuracy: 0.859
+Epoch: 37  train accuracy: 0.863
+Epoch: 37  train accuracy: 0.910
+Epoch: 37  train accuracy: 0.848
+Epoch: 37  train accuracy: 0.793
+Epoch: 37  train accuracy: 0.875
+Epoch: 37  train accuracy: 0.836
+Epoch: 37  train accuracy: 0.793
+Epoch: 37  train accuracy: 0.879
+Epoch: 37  train accuracy: 0.844
+Epoch: 37  train accuracy: 0.863
+Epoch: 37  train accuracy: 0.934
+Epoch: 37  train accuracy: 0.871
+Epoch: 37  train accuracy: 0.883
+Epoch: 37  train accuracy: 0.812
+Epoch: 37  train accuracy: 0.898
+Epoch: 37  train accuracy: 0.766
+Epoch: 37  train accuracy: 0.887
+Epoch: 37  train accuracy: 0.820
+Epoch: 37  train accuracy: 0.828
+Epoch: 37  train accuracy: 0.840
+Epoch: 37  train accuracy: 0.738
+Epoch: 37  train accuracy: 0.859
+Epoch: 37  train accuracy: 0.914
+Epoch: 37  train accuracy: 0.875
+Epoch: 37  train accuracy: 0.906
+Epoch: 37  train accuracy: 0.703
+Epoch: 37  train accuracy: 0.918
+Epoch: 37  train accuracy: 0.867
+Epoch: 37  train accuracy: 0.855
+Epoch: 37  train accuracy: 0.879
+Epoch: 37  train accuracy: 0.910
+Epoch: 37  train accuracy: 0.910
+Epoch: 37  train accuracy: 0.879
+Epoch: 37  train accuracy: 0.926
+Epoch: 37  train accuracy: 0.781
+Epoch: 37  train accuracy: 0.863
+Epoch: 37  train accuracy: 0.887
+Epoch: 37  train accuracy: 0.891
+Epoch: 37  train accuracy: 0.844
+Epoch: 37  train accuracy: 0.867
+Epoch: 37  train accuracy: 0.918
+Epoch: 37  train accuracy: 0.766
+Epoch: 37  train accuracy: 0.816
+Epoch: 37  train accuracy: 0.836
+Epoch: 37  train accuracy: 0.828
+Epoch: 37  train accuracy: 0.879
+Epoch: 37  train accuracy: 0.910
+Epoch: 37  train accuracy: 0.906
+Epoch: 37  train accuracy: 0.836
+Epoch: 37  train accuracy: 0.906
+Epoch: 37  train accuracy: 0.871
+Epoch: 37  train accuracy: 0.926
+Epoch: 37  train accuracy: 0.852
+Epoch: 37  train accuracy: 0.934
+Epoch: 37  train accuracy: 0.875
+Epoch: 37  train accuracy: 0.805
+Epoch: 37  train accuracy: 0.816
+Epoch: 37  train accuracy: 0.859
+Epoch: 37  train accuracy: 0.801
+Epoch: 37  train accuracy: 0.820
+Epoch: 37  train accuracy: 0.793
+Epoch: 37  train accuracy: 0.789
+Epoch: 37  train accuracy: 0.852
+Epoch: 37  train accuracy: 0.766
+Epoch: 37  train accuracy: 0.898
+Epoch: 37  train accuracy: 0.875
+Epoch: 37  train accuracy: 0.930
+Epoch: 37  train accuracy: 0.859
+Epoch: 37  train accuracy: 0.840
+Epoch: 37  train accuracy: 0.848
+Epoch: 37  train accuracy: 0.793
+Epoch: 37  train accuracy: 0.812
+Epoch: 37  train accuracy: 0.883
+Epoch: 37  train accuracy: 0.809
+Epoch: 37  train accuracy: 0.758
+Epoch: 37  train accuracy: 0.828
+Epoch: 37  train accuracy: 0.922
+Epoch: 37  train accuracy: 0.922
+Epoch: 37  train accuracy: 0.848
+Epoch: 37  train accuracy: 0.852
+Epoch: 37  train accuracy: 0.852
+Epoch: 37  train accuracy: 0.844
+Epoch: 37  train accuracy: 0.930
+Epoch: 37  train accuracy: 0.859
+Epoch: 37  train accuracy: 0.879
+Epoch: 37  train accuracy: 0.938
+Epoch: 37  train accuracy: 0.871
+training finished for epoch  37
+Epoch: 37 batch:  1 cost = 30.57615  test accuracy: 0.910
+[[3673  303]
+ [  65   55]]
+Epoch: 37 batch:  2 cost = 30.57615  test accuracy: 0.892
+[[3590  362]
+ [  82   62]]
+Epoch: 37 batch:  3 cost = 30.57615  test accuracy: 0.907
+[[3661  320]
+ [  61   54]]
+Epoch: 37 batch:  4 cost = 30.57615  test accuracy: 0.909
+[[3664  312]
+ [  59   61]]
+Epoch: 37 batch:  5 cost = 30.57615  test accuracy: 0.893
+[[3603  349]
+ [  90   54]]
+Epoch: 37 batch:  6 cost = 30.57615  test accuracy: 0.907
+[[3659  312]
+ [  68   57]]
+Epoch: 38  train accuracy: 0.930
+Epoch: 38  train accuracy: 0.910
+Epoch: 38  train accuracy: 0.926
+Epoch: 38  train accuracy: 0.930
+Epoch: 38  train accuracy: 0.941
+Epoch: 38  train accuracy: 0.836
+Epoch: 38  train accuracy: 0.914
+Epoch: 38  train accuracy: 0.887
+Epoch: 38  train accuracy: 0.855
+Epoch: 38  train accuracy: 0.875
+Epoch: 38  train accuracy: 0.781
+Epoch: 38  train accuracy: 0.863
+Epoch: 38  train accuracy: 0.848
+Epoch: 38  train accuracy: 0.883
+Epoch: 38  train accuracy: 0.863
+Epoch: 38  train accuracy: 0.832
+Epoch: 38  train accuracy: 0.820
+Epoch: 38  train accuracy: 0.836
+Epoch: 38  train accuracy: 0.805
+Epoch: 38  train accuracy: 0.887
+Epoch: 38  train accuracy: 0.836
+Epoch: 38  train accuracy: 0.875
+Epoch: 38  train accuracy: 0.918
+Epoch: 38  train accuracy: 0.906
+Epoch: 38  train accuracy: 0.883
+Epoch: 38  train accuracy: 0.832
+Epoch: 38  train accuracy: 0.887
+Epoch: 38  train accuracy: 0.711
+Epoch: 38  train accuracy: 0.891
+Epoch: 38  train accuracy: 0.859
+Epoch: 38  train accuracy: 0.844
+Epoch: 38  train accuracy: 0.828
+Epoch: 38  train accuracy: 0.770
+Epoch: 38  train accuracy: 0.891
+Epoch: 38  train accuracy: 0.922
+Epoch: 38  train accuracy: 0.883
+Epoch: 38  train accuracy: 0.938
+Epoch: 38  train accuracy: 0.734
+Epoch: 38  train accuracy: 0.910
+Epoch: 38  train accuracy: 0.867
+Epoch: 38  train accuracy: 0.809
+Epoch: 38  train accuracy: 0.820
+Epoch: 38  train accuracy: 0.910
+Epoch: 38  train accuracy: 0.902
+Epoch: 38  train accuracy: 0.875
+Epoch: 38  train accuracy: 0.887
+Epoch: 38  train accuracy: 0.789
+Epoch: 38  train accuracy: 0.863
+Epoch: 38  train accuracy: 0.812
+Epoch: 38  train accuracy: 0.887
+Epoch: 38  train accuracy: 0.863
+Epoch: 38  train accuracy: 0.883
+Epoch: 38  train accuracy: 0.898
+Epoch: 38  train accuracy: 0.781
+Epoch: 38  train accuracy: 0.793
+Epoch: 38  train accuracy: 0.852
+Epoch: 38  train accuracy: 0.867
+Epoch: 38  train accuracy: 0.879
+Epoch: 38  train accuracy: 0.934
+Epoch: 38  train accuracy: 0.867
+Epoch: 38  train accuracy: 0.844
+Epoch: 38  train accuracy: 0.895
+Epoch: 38  train accuracy: 0.855
+Epoch: 38  train accuracy: 0.922
+Epoch: 38  train accuracy: 0.875
+Epoch: 38  train accuracy: 0.918
+Epoch: 38  train accuracy: 0.836
+Epoch: 38  train accuracy: 0.871
+Epoch: 38  train accuracy: 0.836
+Epoch: 38  train accuracy: 0.887
+Epoch: 38  train accuracy: 0.875
+Epoch: 38  train accuracy: 0.812
+Epoch: 38  train accuracy: 0.809
+Epoch: 38  train accuracy: 0.801
+Epoch: 38  train accuracy: 0.855
+Epoch: 38  train accuracy: 0.777
+Epoch: 38  train accuracy: 0.855
+Epoch: 38  train accuracy: 0.848
+Epoch: 38  train accuracy: 0.891
+Epoch: 38  train accuracy: 0.848
+Epoch: 38  train accuracy: 0.883
+Epoch: 38  train accuracy: 0.844
+Epoch: 38  train accuracy: 0.832
+Epoch: 38  train accuracy: 0.859
+Epoch: 38  train accuracy: 0.891
+Epoch: 38  train accuracy: 0.789
+Epoch: 38  train accuracy: 0.738
+Epoch: 38  train accuracy: 0.832
+Epoch: 38  train accuracy: 0.934
+Epoch: 38  train accuracy: 0.926
+Epoch: 38  train accuracy: 0.875
+Epoch: 38  train accuracy: 0.852
+Epoch: 38  train accuracy: 0.859
+Epoch: 38  train accuracy: 0.832
+Epoch: 38  train accuracy: 0.879
+Epoch: 38  train accuracy: 0.902
+Epoch: 38  train accuracy: 0.906
+Epoch: 38  train accuracy: 0.961
+Epoch: 38  train accuracy: 0.875
+training finished for epoch  38
+Epoch: 38 batch:  1 cost = 30.43220  test accuracy: 0.911
+[[3675  301]
+ [  65   55]]
+Epoch: 38 batch:  2 cost = 30.43220  test accuracy: 0.892
+[[3591  361]
+ [  83   61]]
+Epoch: 38 batch:  3 cost = 30.43220  test accuracy: 0.908
+[[3665  316]
+ [  61   54]]
+Epoch: 38 batch:  4 cost = 30.43220  test accuracy: 0.910
+[[3668  308]
+ [  60   60]]
+Epoch: 38 batch:  5 cost = 30.43220  test accuracy: 0.893
+[[3604  348]
+ [  90   54]]
+Epoch: 38 batch:  6 cost = 30.43220  test accuracy: 0.907
+[[3660  311]
+ [  68   57]]
+Epoch: 39  train accuracy: 0.934
+Epoch: 39  train accuracy: 0.918
+Epoch: 39  train accuracy: 0.930
+Epoch: 39  train accuracy: 0.945
+Epoch: 39  train accuracy: 0.930
+Epoch: 39  train accuracy: 0.848
+Epoch: 39  train accuracy: 0.902
+Epoch: 39  train accuracy: 0.922
+Epoch: 39  train accuracy: 0.891
+Epoch: 39  train accuracy: 0.863
+Epoch: 39  train accuracy: 0.777
+Epoch: 39  train accuracy: 0.875
+Epoch: 39  train accuracy: 0.859
+Epoch: 39  train accuracy: 0.879
+Epoch: 39  train accuracy: 0.883
+Epoch: 39  train accuracy: 0.805
+Epoch: 39  train accuracy: 0.895
+Epoch: 39  train accuracy: 0.867
+Epoch: 39  train accuracy: 0.809
+Epoch: 39  train accuracy: 0.910
+Epoch: 39  train accuracy: 0.867
+Epoch: 39  train accuracy: 0.848
+Epoch: 39  train accuracy: 0.910
+Epoch: 39  train accuracy: 0.887
+Epoch: 39  train accuracy: 0.805
+Epoch: 39  train accuracy: 0.836
+Epoch: 39  train accuracy: 0.852
+Epoch: 39  train accuracy: 0.719
+Epoch: 39  train accuracy: 0.902
+Epoch: 39  train accuracy: 0.855
+Epoch: 39  train accuracy: 0.793
+Epoch: 39  train accuracy: 0.863
+Epoch: 39  train accuracy: 0.758
+Epoch: 39  train accuracy: 0.859
+Epoch: 39  train accuracy: 0.914
+Epoch: 39  train accuracy: 0.891
+Epoch: 39  train accuracy: 0.941
+Epoch: 39  train accuracy: 0.691
+Epoch: 39  train accuracy: 0.926
+Epoch: 39  train accuracy: 0.844
+Epoch: 39  train accuracy: 0.832
+Epoch: 39  train accuracy: 0.805
+Epoch: 39  train accuracy: 0.914
+Epoch: 39  train accuracy: 0.914
+Epoch: 39  train accuracy: 0.871
+Epoch: 39  train accuracy: 0.879
+Epoch: 39  train accuracy: 0.770
+Epoch: 39  train accuracy: 0.887
+Epoch: 39  train accuracy: 0.852
+Epoch: 39  train accuracy: 0.922
+Epoch: 39  train accuracy: 0.914
+Epoch: 39  train accuracy: 0.895
+Epoch: 39  train accuracy: 0.926
+Epoch: 39  train accuracy: 0.750
+Epoch: 39  train accuracy: 0.844
+Epoch: 39  train accuracy: 0.863
+Epoch: 39  train accuracy: 0.906
+Epoch: 39  train accuracy: 0.891
+Epoch: 39  train accuracy: 0.941
+Epoch: 39  train accuracy: 0.848
+Epoch: 39  train accuracy: 0.844
+Epoch: 39  train accuracy: 0.895
+Epoch: 39  train accuracy: 0.875
+Epoch: 39  train accuracy: 0.918
+Epoch: 39  train accuracy: 0.855
+Epoch: 39  train accuracy: 0.910
+Epoch: 39  train accuracy: 0.867
+Epoch: 39  train accuracy: 0.836
+Epoch: 39  train accuracy: 0.852
+Epoch: 39  train accuracy: 0.891
+Epoch: 39  train accuracy: 0.883
+Epoch: 39  train accuracy: 0.848
+Epoch: 39  train accuracy: 0.770
+Epoch: 39  train accuracy: 0.777
+Epoch: 39  train accuracy: 0.859
+Epoch: 39  train accuracy: 0.852
+Epoch: 39  train accuracy: 0.895
+Epoch: 39  train accuracy: 0.809
+Epoch: 39  train accuracy: 0.895
+Epoch: 39  train accuracy: 0.867
+Epoch: 39  train accuracy: 0.828
+Epoch: 39  train accuracy: 0.801
+Epoch: 39  train accuracy: 0.863
+Epoch: 39  train accuracy: 0.820
+Epoch: 39  train accuracy: 0.871
+Epoch: 39  train accuracy: 0.820
+Epoch: 39  train accuracy: 0.730
+Epoch: 39  train accuracy: 0.852
+Epoch: 39  train accuracy: 0.926
+Epoch: 39  train accuracy: 0.914
+Epoch: 39  train accuracy: 0.848
+Epoch: 39  train accuracy: 0.895
+Epoch: 39  train accuracy: 0.852
+Epoch: 39  train accuracy: 0.871
+Epoch: 39  train accuracy: 0.898
+Epoch: 39  train accuracy: 0.879
+Epoch: 39  train accuracy: 0.910
+Epoch: 39  train accuracy: 0.957
+Epoch: 39  train accuracy: 0.898
+training finished for epoch  39
+Epoch: 39 batch:  1 cost = 30.44517  test accuracy: 0.911
+[[3678  298]
+ [  65   55]]
+Epoch: 39 batch:  2 cost = 30.44517  test accuracy: 0.892
+[[3594  358]
+ [  83   61]]
+Epoch: 39 batch:  3 cost = 30.44517  test accuracy: 0.908
+[[3666  315]
+ [  61   54]]
+Epoch: 39 batch:  4 cost = 30.44517  test accuracy: 0.910
+[[3669  307]
+ [  60   60]]
+Epoch: 39 batch:  5 cost = 30.44517  test accuracy: 0.894
+[[3608  344]
+ [  90   54]]
+Epoch: 39 batch:  6 cost = 30.44517  test accuracy: 0.908
+[[3661  310]
+ [  68   57]]
+Epoch: 40  train accuracy: 0.945
+Epoch: 40  train accuracy: 0.922
+Epoch: 40  train accuracy: 0.930
+Epoch: 40  train accuracy: 0.941
+Epoch: 40  train accuracy: 0.941
+Epoch: 40  train accuracy: 0.848
+Epoch: 40  train accuracy: 0.883
+Epoch: 40  train accuracy: 0.914
+Epoch: 40  train accuracy: 0.918
+Epoch: 40  train accuracy: 0.809
+Epoch: 40  train accuracy: 0.801
+Epoch: 40  train accuracy: 0.852
+Epoch: 40  train accuracy: 0.855
+Epoch: 40  train accuracy: 0.879
+Epoch: 40  train accuracy: 0.863
+Epoch: 40  train accuracy: 0.859
+Epoch: 40  train accuracy: 0.875
+Epoch: 40  train accuracy: 0.836
+Epoch: 40  train accuracy: 0.793
+Epoch: 40  train accuracy: 0.867
+Epoch: 40  train accuracy: 0.867
+Epoch: 40  train accuracy: 0.895
+Epoch: 40  train accuracy: 0.902
+Epoch: 40  train accuracy: 0.871
+Epoch: 40  train accuracy: 0.902
+Epoch: 40  train accuracy: 0.855
+Epoch: 40  train accuracy: 0.836
+Epoch: 40  train accuracy: 0.758
+Epoch: 40  train accuracy: 0.910
+Epoch: 40  train accuracy: 0.844
+Epoch: 40  train accuracy: 0.852
+Epoch: 40  train accuracy: 0.891
+Epoch: 40  train accuracy: 0.742
+Epoch: 40  train accuracy: 0.848
+Epoch: 40  train accuracy: 0.895
+Epoch: 40  train accuracy: 0.906
+Epoch: 40  train accuracy: 0.957
+Epoch: 40  train accuracy: 0.719
+Epoch: 40  train accuracy: 0.848
+Epoch: 40  train accuracy: 0.879
+Epoch: 40  train accuracy: 0.812
+Epoch: 40  train accuracy: 0.867
+Epoch: 40  train accuracy: 0.852
+Epoch: 40  train accuracy: 0.914
+Epoch: 40  train accuracy: 0.859
+Epoch: 40  train accuracy: 0.902
+Epoch: 40  train accuracy: 0.773
+Epoch: 40  train accuracy: 0.891
+Epoch: 40  train accuracy: 0.867
+Epoch: 40  train accuracy: 0.895
+Epoch: 40  train accuracy: 0.883
+Epoch: 40  train accuracy: 0.926
+Epoch: 40  train accuracy: 0.875
+Epoch: 40  train accuracy: 0.789
+Epoch: 40  train accuracy: 0.887
+Epoch: 40  train accuracy: 0.895
+Epoch: 40  train accuracy: 0.887
+Epoch: 40  train accuracy: 0.895
+Epoch: 40  train accuracy: 0.898
+Epoch: 40  train accuracy: 0.887
+Epoch: 40  train accuracy: 0.859
+Epoch: 40  train accuracy: 0.898
+Epoch: 40  train accuracy: 0.871
+Epoch: 40  train accuracy: 0.914
+Epoch: 40  train accuracy: 0.867
+Epoch: 40  train accuracy: 0.934
+Epoch: 40  train accuracy: 0.805
+Epoch: 40  train accuracy: 0.785
+Epoch: 40  train accuracy: 0.805
+Epoch: 40  train accuracy: 0.906
+Epoch: 40  train accuracy: 0.844
+Epoch: 40  train accuracy: 0.824
+Epoch: 40  train accuracy: 0.809
+Epoch: 40  train accuracy: 0.766
+Epoch: 40  train accuracy: 0.883
+Epoch: 40  train accuracy: 0.816
+Epoch: 40  train accuracy: 0.891
+Epoch: 40  train accuracy: 0.848
+Epoch: 40  train accuracy: 0.859
+Epoch: 40  train accuracy: 0.859
+Epoch: 40  train accuracy: 0.863
+Epoch: 40  train accuracy: 0.867
+Epoch: 40  train accuracy: 0.812
+Epoch: 40  train accuracy: 0.844
+Epoch: 40  train accuracy: 0.895
+Epoch: 40  train accuracy: 0.785
+Epoch: 40  train accuracy: 0.797
+Epoch: 40  train accuracy: 0.801
+Epoch: 40  train accuracy: 0.898
+Epoch: 40  train accuracy: 0.957
+Epoch: 40  train accuracy: 0.848
+Epoch: 40  train accuracy: 0.902
+Epoch: 40  train accuracy: 0.875
+Epoch: 40  train accuracy: 0.855
+Epoch: 40  train accuracy: 0.906
+Epoch: 40  train accuracy: 0.887
+Epoch: 40  train accuracy: 0.902
+Epoch: 40  train accuracy: 0.953
+Epoch: 40  train accuracy: 0.852
+training finished for epoch  40
+Epoch: 40 batch:  1 cost = 30.40846  test accuracy: 0.911
+[[3677  299]
+ [  65   55]]
+Epoch: 40 batch:  2 cost = 30.40846  test accuracy: 0.892
+[[3592  360]
+ [  82   62]]
+Epoch: 40 batch:  3 cost = 30.40846  test accuracy: 0.908
+[[3666  315]
+ [  61   54]]
+Epoch: 40 batch:  4 cost = 30.40846  test accuracy: 0.911
+[[3670  306]
+ [  60   60]]
+Epoch: 40 batch:  5 cost = 30.40846  test accuracy: 0.894
+[[3607  345]
+ [  90   54]]
+Epoch: 40 batch:  6 cost = 30.40846  test accuracy: 0.907
+[[3660  311]
+ [  68   57]]
+Epoch: 41  train accuracy: 0.945
+Epoch: 41  train accuracy: 0.953
+Epoch: 41  train accuracy: 0.918
+Epoch: 41  train accuracy: 0.926
+Epoch: 41  train accuracy: 0.945
+Epoch: 41  train accuracy: 0.906
+Epoch: 41  train accuracy: 0.926
+Epoch: 41  train accuracy: 0.898
+Epoch: 41  train accuracy: 0.855
+Epoch: 41  train accuracy: 0.812
+Epoch: 41  train accuracy: 0.805
+Epoch: 41  train accuracy: 0.875
+Epoch: 41  train accuracy: 0.859
+Epoch: 41  train accuracy: 0.895
+Epoch: 41  train accuracy: 0.898
+Epoch: 41  train accuracy: 0.863
+Epoch: 41  train accuracy: 0.840
+Epoch: 41  train accuracy: 0.832
+Epoch: 41  train accuracy: 0.828
+Epoch: 41  train accuracy: 0.883
+Epoch: 41  train accuracy: 0.875
+Epoch: 41  train accuracy: 0.891
+Epoch: 41  train accuracy: 0.934
+Epoch: 41  train accuracy: 0.855
+Epoch: 41  train accuracy: 0.887
+Epoch: 41  train accuracy: 0.816
+Epoch: 41  train accuracy: 0.898
+Epoch: 41  train accuracy: 0.762
+Epoch: 41  train accuracy: 0.891
+Epoch: 41  train accuracy: 0.855
+Epoch: 41  train accuracy: 0.836
+Epoch: 41  train accuracy: 0.852
+Epoch: 41  train accuracy: 0.727
+Epoch: 41  train accuracy: 0.883
+Epoch: 41  train accuracy: 0.934
+Epoch: 41  train accuracy: 0.859
+Epoch: 41  train accuracy: 0.906
+Epoch: 41  train accuracy: 0.723
+Epoch: 41  train accuracy: 0.867
+Epoch: 41  train accuracy: 0.848
+Epoch: 41  train accuracy: 0.879
+Epoch: 41  train accuracy: 0.844
+Epoch: 41  train accuracy: 0.902
+Epoch: 41  train accuracy: 0.922
+Epoch: 41  train accuracy: 0.879
+Epoch: 41  train accuracy: 0.895
+Epoch: 41  train accuracy: 0.758
+Epoch: 41  train accuracy: 0.902
+Epoch: 41  train accuracy: 0.891
+Epoch: 41  train accuracy: 0.891
+Epoch: 41  train accuracy: 0.914
+Epoch: 41  train accuracy: 0.895
+Epoch: 41  train accuracy: 0.902
+Epoch: 41  train accuracy: 0.809
+Epoch: 41  train accuracy: 0.836
+Epoch: 41  train accuracy: 0.875
+Epoch: 41  train accuracy: 0.863
+Epoch: 41  train accuracy: 0.832
+Epoch: 41  train accuracy: 0.906
+Epoch: 41  train accuracy: 0.859
+Epoch: 41  train accuracy: 0.832
+Epoch: 41  train accuracy: 0.930
+Epoch: 41  train accuracy: 0.859
+Epoch: 41  train accuracy: 0.906
+Epoch: 41  train accuracy: 0.867
+Epoch: 41  train accuracy: 0.945
+Epoch: 41  train accuracy: 0.867
+Epoch: 41  train accuracy: 0.820
+Epoch: 41  train accuracy: 0.797
+Epoch: 41  train accuracy: 0.891
+Epoch: 41  train accuracy: 0.828
+Epoch: 41  train accuracy: 0.828
+Epoch: 41  train accuracy: 0.793
+Epoch: 41  train accuracy: 0.797
+Epoch: 41  train accuracy: 0.902
+Epoch: 41  train accuracy: 0.816
+Epoch: 41  train accuracy: 0.875
+Epoch: 41  train accuracy: 0.863
+Epoch: 41  train accuracy: 0.926
+Epoch: 41  train accuracy: 0.840
+Epoch: 41  train accuracy: 0.832
+Epoch: 41  train accuracy: 0.781
+Epoch: 41  train accuracy: 0.805
+Epoch: 41  train accuracy: 0.875
+Epoch: 41  train accuracy: 0.902
+Epoch: 41  train accuracy: 0.797
+Epoch: 41  train accuracy: 0.723
+Epoch: 41  train accuracy: 0.848
+Epoch: 41  train accuracy: 0.891
+Epoch: 41  train accuracy: 0.898
+Epoch: 41  train accuracy: 0.844
+Epoch: 41  train accuracy: 0.836
+Epoch: 41  train accuracy: 0.848
+Epoch: 41  train accuracy: 0.863
+Epoch: 41  train accuracy: 0.867
+Epoch: 41  train accuracy: 0.848
+Epoch: 41  train accuracy: 0.879
+Epoch: 41  train accuracy: 0.953
+Epoch: 41  train accuracy: 0.863
+training finished for epoch  41
+Epoch: 41 batch:  1 cost = 30.49978  test accuracy: 0.896
+[[3606  370]
+ [  56   64]]
+Epoch: 41 batch:  2 cost = 30.49978  test accuracy: 0.876
+[[3511  441]
+ [  67   77]]
+Epoch: 41 batch:  3 cost = 30.49978  test accuracy: 0.895
+[[3595  386]
+ [  45   70]]
+Epoch: 41 batch:  4 cost = 30.49978  test accuracy: 0.891
+[[3584  392]
+ [  54   66]]
+Epoch: 41 batch:  5 cost = 30.49978  test accuracy: 0.874
+[[3518  434]
+ [  82   62]]
+Epoch: 41 batch:  6 cost = 30.49978  test accuracy: 0.889
+[[3577  394]
+ [  61   64]]
+Epoch: 42  train accuracy: 0.934
+Epoch: 42  train accuracy: 0.941
+Epoch: 42  train accuracy: 0.934
+Epoch: 42  train accuracy: 0.906
+Epoch: 42  train accuracy: 0.938
+Epoch: 42  train accuracy: 0.879
+Epoch: 42  train accuracy: 0.891
+Epoch: 42  train accuracy: 0.934
+Epoch: 42  train accuracy: 0.922
+Epoch: 42  train accuracy: 0.898
+Epoch: 42  train accuracy: 0.805
+Epoch: 42  train accuracy: 0.891
+Epoch: 42  train accuracy: 0.859
+Epoch: 42  train accuracy: 0.926
+Epoch: 42  train accuracy: 0.887
+Epoch: 42  train accuracy: 0.824
+Epoch: 42  train accuracy: 0.871
+Epoch: 42  train accuracy: 0.859
+Epoch: 42  train accuracy: 0.801
+Epoch: 42  train accuracy: 0.926
+Epoch: 42  train accuracy: 0.875
+Epoch: 42  train accuracy: 0.875
+Epoch: 42  train accuracy: 0.934
+Epoch: 42  train accuracy: 0.863
+Epoch: 42  train accuracy: 0.852
+Epoch: 42  train accuracy: 0.828
+Epoch: 42  train accuracy: 0.832
+Epoch: 42  train accuracy: 0.805
+Epoch: 42  train accuracy: 0.918
+Epoch: 42  train accuracy: 0.863
+Epoch: 42  train accuracy: 0.793
+Epoch: 42  train accuracy: 0.879
+Epoch: 42  train accuracy: 0.777
+Epoch: 42  train accuracy: 0.887
+Epoch: 42  train accuracy: 0.922
+Epoch: 42  train accuracy: 0.836
+Epoch: 42  train accuracy: 0.902
+Epoch: 42  train accuracy: 0.730
+Epoch: 42  train accuracy: 0.895
+Epoch: 42  train accuracy: 0.848
+Epoch: 42  train accuracy: 0.785
+Epoch: 42  train accuracy: 0.820
+Epoch: 42  train accuracy: 0.906
+Epoch: 42  train accuracy: 0.922
+Epoch: 42  train accuracy: 0.871
+Epoch: 42  train accuracy: 0.926
+Epoch: 42  train accuracy: 0.801
+Epoch: 42  train accuracy: 0.891
+Epoch: 42  train accuracy: 0.863
+Epoch: 42  train accuracy: 0.898
+Epoch: 42  train accuracy: 0.922
+Epoch: 42  train accuracy: 0.898
+Epoch: 42  train accuracy: 0.891
+Epoch: 42  train accuracy: 0.812
+Epoch: 42  train accuracy: 0.816
+Epoch: 42  train accuracy: 0.855
+Epoch: 42  train accuracy: 0.871
+Epoch: 42  train accuracy: 0.871
+Epoch: 42  train accuracy: 0.926
+Epoch: 42  train accuracy: 0.840
+Epoch: 42  train accuracy: 0.879
+Epoch: 42  train accuracy: 0.934
+Epoch: 42  train accuracy: 0.863
+Epoch: 42  train accuracy: 0.918
+Epoch: 42  train accuracy: 0.891
+Epoch: 42  train accuracy: 0.895
+Epoch: 42  train accuracy: 0.848
+Epoch: 42  train accuracy: 0.832
+Epoch: 42  train accuracy: 0.848
+Epoch: 42  train accuracy: 0.871
+Epoch: 42  train accuracy: 0.852
+Epoch: 42  train accuracy: 0.855
+Epoch: 42  train accuracy: 0.801
+Epoch: 42  train accuracy: 0.816
+Epoch: 42  train accuracy: 0.914
+Epoch: 42  train accuracy: 0.824
+Epoch: 42  train accuracy: 0.902
+Epoch: 42  train accuracy: 0.824
+Epoch: 42  train accuracy: 0.926
+Epoch: 42  train accuracy: 0.852
+Epoch: 42  train accuracy: 0.879
+Epoch: 42  train accuracy: 0.863
+Epoch: 42  train accuracy: 0.773
+Epoch: 42  train accuracy: 0.828
+Epoch: 42  train accuracy: 0.859
+Epoch: 42  train accuracy: 0.820
+Epoch: 42  train accuracy: 0.719
+Epoch: 42  train accuracy: 0.824
+Epoch: 42  train accuracy: 0.855
+Epoch: 42  train accuracy: 0.926
+Epoch: 42  train accuracy: 0.816
+Epoch: 42  train accuracy: 0.848
+Epoch: 42  train accuracy: 0.863
+Epoch: 42  train accuracy: 0.867
+Epoch: 42  train accuracy: 0.848
+Epoch: 42  train accuracy: 0.750
+Epoch: 42  train accuracy: 0.875
+Epoch: 42  train accuracy: 0.949
+Epoch: 42  train accuracy: 0.844
+training finished for epoch  42
+Epoch: 42 batch:  1 cost = 30.36615  test accuracy: 0.898
+[[3614  362]
+ [  57   63]]
+Epoch: 42 batch:  2 cost = 30.36615  test accuracy: 0.877
+[[3517  435]
+ [  70   74]]
+Epoch: 42 batch:  3 cost = 30.36615  test accuracy: 0.897
+[[3606  375]
+ [  46   69]]
+Epoch: 42 batch:  4 cost = 30.36615  test accuracy: 0.893
+[[3593  383]
+ [  54   66]]
+Epoch: 42 batch:  5 cost = 30.36615  test accuracy: 0.875
+[[3524  428]
+ [  82   62]]
+Epoch: 42 batch:  6 cost = 30.36615  test accuracy: 0.891
+[[3585  386]
+ [  62   63]]
+Epoch: 43  train accuracy: 0.930
+Epoch: 43  train accuracy: 0.949
+Epoch: 43  train accuracy: 0.910
+Epoch: 43  train accuracy: 0.953
+Epoch: 43  train accuracy: 0.922
+Epoch: 43  train accuracy: 0.883
+Epoch: 43  train accuracy: 0.910
+Epoch: 43  train accuracy: 0.918
+Epoch: 43  train accuracy: 0.871
+Epoch: 43  train accuracy: 0.887
+Epoch: 43  train accuracy: 0.805
+Epoch: 43  train accuracy: 0.871
+Epoch: 43  train accuracy: 0.863
+Epoch: 43  train accuracy: 0.887
+Epoch: 43  train accuracy: 0.906
+Epoch: 43  train accuracy: 0.824
+Epoch: 43  train accuracy: 0.801
+Epoch: 43  train accuracy: 0.883
+Epoch: 43  train accuracy: 0.773
+Epoch: 43  train accuracy: 0.887
+Epoch: 43  train accuracy: 0.859
+Epoch: 43  train accuracy: 0.875
+Epoch: 43  train accuracy: 0.887
+Epoch: 43  train accuracy: 0.836
+Epoch: 43  train accuracy: 0.867
+Epoch: 43  train accuracy: 0.816
+Epoch: 43  train accuracy: 0.891
+Epoch: 43  train accuracy: 0.766
+Epoch: 43  train accuracy: 0.918
+Epoch: 43  train accuracy: 0.863
+Epoch: 43  train accuracy: 0.824
+Epoch: 43  train accuracy: 0.844
+Epoch: 43  train accuracy: 0.801
+Epoch: 43  train accuracy: 0.867
+Epoch: 43  train accuracy: 0.910
+Epoch: 43  train accuracy: 0.898
+Epoch: 43  train accuracy: 0.887
+Epoch: 43  train accuracy: 0.664
+Epoch: 43  train accuracy: 0.891
+Epoch: 43  train accuracy: 0.809
+Epoch: 43  train accuracy: 0.832
+Epoch: 43  train accuracy: 0.820
+Epoch: 43  train accuracy: 0.910
+Epoch: 43  train accuracy: 0.930
+Epoch: 43  train accuracy: 0.863
+Epoch: 43  train accuracy: 0.891
+Epoch: 43  train accuracy: 0.742
+Epoch: 43  train accuracy: 0.898
+Epoch: 43  train accuracy: 0.875
+Epoch: 43  train accuracy: 0.895
+Epoch: 43  train accuracy: 0.910
+Epoch: 43  train accuracy: 0.914
+Epoch: 43  train accuracy: 0.930
+Epoch: 43  train accuracy: 0.770
+Epoch: 43  train accuracy: 0.879
+Epoch: 43  train accuracy: 0.867
+Epoch: 43  train accuracy: 0.867
+Epoch: 43  train accuracy: 0.867
+Epoch: 43  train accuracy: 0.938
+Epoch: 43  train accuracy: 0.871
+Epoch: 43  train accuracy: 0.871
+Epoch: 43  train accuracy: 0.902
+Epoch: 43  train accuracy: 0.879
+Epoch: 43  train accuracy: 0.918
+Epoch: 43  train accuracy: 0.852
+Epoch: 43  train accuracy: 0.906
+Epoch: 43  train accuracy: 0.848
+Epoch: 43  train accuracy: 0.855
+Epoch: 43  train accuracy: 0.836
+Epoch: 43  train accuracy: 0.867
+Epoch: 43  train accuracy: 0.840
+Epoch: 43  train accuracy: 0.879
+Epoch: 43  train accuracy: 0.770
+Epoch: 43  train accuracy: 0.863
+Epoch: 43  train accuracy: 0.867
+Epoch: 43  train accuracy: 0.824
+Epoch: 43  train accuracy: 0.918
+Epoch: 43  train accuracy: 0.848
+Epoch: 43  train accuracy: 0.922
+Epoch: 43  train accuracy: 0.840
+Epoch: 43  train accuracy: 0.867
+Epoch: 43  train accuracy: 0.836
+Epoch: 43  train accuracy: 0.793
+Epoch: 43  train accuracy: 0.840
+Epoch: 43  train accuracy: 0.855
+Epoch: 43  train accuracy: 0.770
+Epoch: 43  train accuracy: 0.770
+Epoch: 43  train accuracy: 0.773
+Epoch: 43  train accuracy: 0.898
+Epoch: 43  train accuracy: 0.887
+Epoch: 43  train accuracy: 0.820
+Epoch: 43  train accuracy: 0.836
+Epoch: 43  train accuracy: 0.852
+Epoch: 43  train accuracy: 0.863
+Epoch: 43  train accuracy: 0.867
+Epoch: 43  train accuracy: 0.828
+Epoch: 43  train accuracy: 0.879
+Epoch: 43  train accuracy: 0.953
+Epoch: 43  train accuracy: 0.801
+training finished for epoch  43
+Epoch: 43 batch:  1 cost = 30.30870  test accuracy: 0.897
+[[3613  363]
+ [  57   63]]
+Epoch: 43 batch:  2 cost = 30.30870  test accuracy: 0.877
+[[3517  435]
+ [  70   74]]
+Epoch: 43 batch:  3 cost = 30.30870  test accuracy: 0.897
+[[3606  375]
+ [  46   69]]
+Epoch: 43 batch:  4 cost = 30.30870  test accuracy: 0.893
+[[3593  383]
+ [  54   66]]
+Epoch: 43 batch:  5 cost = 30.30870  test accuracy: 0.876
+[[3525  427]
+ [  82   62]]
+Epoch: 43 batch:  6 cost = 30.30870  test accuracy: 0.891
+[[3585  386]
+ [  62   63]]
+Epoch: 44  train accuracy: 0.910
+Epoch: 44  train accuracy: 0.914
+Epoch: 44  train accuracy: 0.934
+Epoch: 44  train accuracy: 0.941
+Epoch: 44  train accuracy: 0.930
+Epoch: 44  train accuracy: 0.871
+Epoch: 44  train accuracy: 0.914
+Epoch: 44  train accuracy: 0.875
+Epoch: 44  train accuracy: 0.875
+Epoch: 44  train accuracy: 0.879
+Epoch: 44  train accuracy: 0.840
+Epoch: 44  train accuracy: 0.871
+Epoch: 44  train accuracy: 0.805
+Epoch: 44  train accuracy: 0.895
+Epoch: 44  train accuracy: 0.895
+Epoch: 44  train accuracy: 0.855
+Epoch: 44  train accuracy: 0.832
+Epoch: 44  train accuracy: 0.805
+Epoch: 44  train accuracy: 0.812
+Epoch: 44  train accuracy: 0.883
+Epoch: 44  train accuracy: 0.840
+Epoch: 44  train accuracy: 0.859
+Epoch: 44  train accuracy: 0.883
+Epoch: 44  train accuracy: 0.844
+Epoch: 44  train accuracy: 0.879
+Epoch: 44  train accuracy: 0.844
+Epoch: 44  train accuracy: 0.906
+Epoch: 44  train accuracy: 0.785
+Epoch: 44  train accuracy: 0.910
+Epoch: 44  train accuracy: 0.832
+Epoch: 44  train accuracy: 0.801
+Epoch: 44  train accuracy: 0.848
+Epoch: 44  train accuracy: 0.770
+Epoch: 44  train accuracy: 0.895
+Epoch: 44  train accuracy: 0.898
+Epoch: 44  train accuracy: 0.879
+Epoch: 44  train accuracy: 0.883
+Epoch: 44  train accuracy: 0.711
+Epoch: 44  train accuracy: 0.922
+Epoch: 44  train accuracy: 0.816
+Epoch: 44  train accuracy: 0.820
+Epoch: 44  train accuracy: 0.816
+Epoch: 44  train accuracy: 0.902
+Epoch: 44  train accuracy: 0.906
+Epoch: 44  train accuracy: 0.930
+Epoch: 44  train accuracy: 0.879
+Epoch: 44  train accuracy: 0.742
+Epoch: 44  train accuracy: 0.887
+Epoch: 44  train accuracy: 0.879
+Epoch: 44  train accuracy: 0.926
+Epoch: 44  train accuracy: 0.891
+Epoch: 44  train accuracy: 0.922
+Epoch: 44  train accuracy: 0.914
+Epoch: 44  train accuracy: 0.801
+Epoch: 44  train accuracy: 0.855
+Epoch: 44  train accuracy: 0.859
+Epoch: 44  train accuracy: 0.871
+Epoch: 44  train accuracy: 0.871
+Epoch: 44  train accuracy: 0.934
+Epoch: 44  train accuracy: 0.898
+Epoch: 44  train accuracy: 0.840
+Epoch: 44  train accuracy: 0.918
+Epoch: 44  train accuracy: 0.875
+Epoch: 44  train accuracy: 0.867
+Epoch: 44  train accuracy: 0.863
+Epoch: 44  train accuracy: 0.953
+Epoch: 44  train accuracy: 0.852
+Epoch: 44  train accuracy: 0.824
+Epoch: 44  train accuracy: 0.793
+Epoch: 44  train accuracy: 0.883
+Epoch: 44  train accuracy: 0.816
+Epoch: 44  train accuracy: 0.887
+Epoch: 44  train accuracy: 0.812
+Epoch: 44  train accuracy: 0.797
+Epoch: 44  train accuracy: 0.859
+Epoch: 44  train accuracy: 0.848
+Epoch: 44  train accuracy: 0.891
+Epoch: 44  train accuracy: 0.848
+Epoch: 44  train accuracy: 0.938
+Epoch: 44  train accuracy: 0.809
+Epoch: 44  train accuracy: 0.863
+Epoch: 44  train accuracy: 0.875
+Epoch: 44  train accuracy: 0.789
+Epoch: 44  train accuracy: 0.887
+Epoch: 44  train accuracy: 0.891
+Epoch: 44  train accuracy: 0.809
+Epoch: 44  train accuracy: 0.730
+Epoch: 44  train accuracy: 0.781
+Epoch: 44  train accuracy: 0.887
+Epoch: 44  train accuracy: 0.941
+Epoch: 44  train accuracy: 0.859
+Epoch: 44  train accuracy: 0.859
+Epoch: 44  train accuracy: 0.820
+Epoch: 44  train accuracy: 0.836
+Epoch: 44  train accuracy: 0.887
+Epoch: 44  train accuracy: 0.844
+Epoch: 44  train accuracy: 0.902
+Epoch: 44  train accuracy: 0.934
+Epoch: 44  train accuracy: 0.840
+training finished for epoch  44
+Epoch: 44 batch:  1 cost = 30.15457  test accuracy: 0.897
+[[3613  363]
+ [  57   63]]
+Epoch: 44 batch:  2 cost = 30.15457  test accuracy: 0.878
+[[3521  431]
+ [  70   74]]
+Epoch: 44 batch:  3 cost = 30.15457  test accuracy: 0.897
+[[3607  374]
+ [  46   69]]
+Epoch: 44 batch:  4 cost = 30.15457  test accuracy: 0.893
+[[3593  383]
+ [  54   66]]
+Epoch: 44 batch:  5 cost = 30.15457  test accuracy: 0.876
+[[3527  425]
+ [  82   62]]
+Epoch: 44 batch:  6 cost = 30.15457  test accuracy: 0.891
+[[3587  384]
+ [  62   63]]
+Epoch: 45  train accuracy: 0.957
+Epoch: 45  train accuracy: 0.938
+Epoch: 45  train accuracy: 0.918
+Epoch: 45  train accuracy: 0.914
+Epoch: 45  train accuracy: 0.898
+Epoch: 45  train accuracy: 0.855
+Epoch: 45  train accuracy: 0.871
+Epoch: 45  train accuracy: 0.871
+Epoch: 45  train accuracy: 0.887
+Epoch: 45  train accuracy: 0.832
+Epoch: 45  train accuracy: 0.828
+Epoch: 45  train accuracy: 0.895
+Epoch: 45  train accuracy: 0.859
+Epoch: 45  train accuracy: 0.914
+Epoch: 45  train accuracy: 0.895
+Epoch: 45  train accuracy: 0.867
+Epoch: 45  train accuracy: 0.832
+Epoch: 45  train accuracy: 0.812
+Epoch: 45  train accuracy: 0.793
+Epoch: 45  train accuracy: 0.895
+Epoch: 45  train accuracy: 0.883
+Epoch: 45  train accuracy: 0.848
+Epoch: 45  train accuracy: 0.891
+Epoch: 45  train accuracy: 0.836
+Epoch: 45  train accuracy: 0.871
+Epoch: 45  train accuracy: 0.852
+Epoch: 45  train accuracy: 0.863
+Epoch: 45  train accuracy: 0.711
+Epoch: 45  train accuracy: 0.867
+Epoch: 45  train accuracy: 0.859
+Epoch: 45  train accuracy: 0.801
+Epoch: 45  train accuracy: 0.883
+Epoch: 45  train accuracy: 0.777
+Epoch: 45  train accuracy: 0.871
+Epoch: 45  train accuracy: 0.910
+Epoch: 45  train accuracy: 0.891
+Epoch: 45  train accuracy: 0.922
+Epoch: 45  train accuracy: 0.676
+Epoch: 45  train accuracy: 0.906
+Epoch: 45  train accuracy: 0.812
+Epoch: 45  train accuracy: 0.812
+Epoch: 45  train accuracy: 0.762
+Epoch: 45  train accuracy: 0.934
+Epoch: 45  train accuracy: 0.914
+Epoch: 45  train accuracy: 0.875
+Epoch: 45  train accuracy: 0.859
+Epoch: 45  train accuracy: 0.766
+Epoch: 45  train accuracy: 0.914
+Epoch: 45  train accuracy: 0.859
+Epoch: 45  train accuracy: 0.918
+Epoch: 45  train accuracy: 0.844
+Epoch: 45  train accuracy: 0.895
+Epoch: 45  train accuracy: 0.883
+Epoch: 45  train accuracy: 0.785
+Epoch: 45  train accuracy: 0.859
+Epoch: 45  train accuracy: 0.902
+Epoch: 45  train accuracy: 0.844
+Epoch: 45  train accuracy: 0.883
+Epoch: 45  train accuracy: 0.910
+Epoch: 45  train accuracy: 0.859
+Epoch: 45  train accuracy: 0.805
+Epoch: 45  train accuracy: 0.898
+Epoch: 45  train accuracy: 0.883
+Epoch: 45  train accuracy: 0.906
+Epoch: 45  train accuracy: 0.855
+Epoch: 45  train accuracy: 0.906
+Epoch: 45  train accuracy: 0.910
+Epoch: 45  train accuracy: 0.832
+Epoch: 45  train accuracy: 0.820
+Epoch: 45  train accuracy: 0.918
+Epoch: 45  train accuracy: 0.859
+Epoch: 45  train accuracy: 0.875
+Epoch: 45  train accuracy: 0.840
+Epoch: 45  train accuracy: 0.844
+Epoch: 45  train accuracy: 0.879
+Epoch: 45  train accuracy: 0.844
+Epoch: 45  train accuracy: 0.883
+Epoch: 45  train accuracy: 0.828
+Epoch: 45  train accuracy: 0.953
+Epoch: 45  train accuracy: 0.852
+Epoch: 45  train accuracy: 0.852
+Epoch: 45  train accuracy: 0.852
+Epoch: 45  train accuracy: 0.816
+Epoch: 45  train accuracy: 0.840
+Epoch: 45  train accuracy: 0.887
+Epoch: 45  train accuracy: 0.785
+Epoch: 45  train accuracy: 0.762
+Epoch: 45  train accuracy: 0.816
+Epoch: 45  train accuracy: 0.918
+Epoch: 45  train accuracy: 0.898
+Epoch: 45  train accuracy: 0.832
+Epoch: 45  train accuracy: 0.855
+Epoch: 45  train accuracy: 0.848
+Epoch: 45  train accuracy: 0.871
+Epoch: 45  train accuracy: 0.883
+Epoch: 45  train accuracy: 0.848
+Epoch: 45  train accuracy: 0.867
+Epoch: 45  train accuracy: 0.953
+Epoch: 45  train accuracy: 0.855
+training finished for epoch  45
+Epoch: 45 batch:  1 cost = 30.23906  test accuracy: 0.898
+[[3617  359]
+ [  57   63]]
+Epoch: 45 batch:  2 cost = 30.23906  test accuracy: 0.878
+[[3521  431]
+ [  70   74]]
+Epoch: 45 batch:  3 cost = 30.23906  test accuracy: 0.898
+[[3609  372]
+ [  46   69]]
+Epoch: 45 batch:  4 cost = 30.23906  test accuracy: 0.893
+[[3593  383]
+ [  54   66]]
+Epoch: 45 batch:  5 cost = 30.23906  test accuracy: 0.877
+[[3529  423]
+ [  82   62]]
+Epoch: 45 batch:  6 cost = 30.23906  test accuracy: 0.891
+[[3587  384]
+ [  62   63]]
+Epoch: 46  train accuracy: 0.910
+Epoch: 46  train accuracy: 0.938
+Epoch: 46  train accuracy: 0.945
+Epoch: 46  train accuracy: 0.965
+Epoch: 46  train accuracy: 0.945
+Epoch: 46  train accuracy: 0.879
+Epoch: 46  train accuracy: 0.938
+Epoch: 46  train accuracy: 0.902
+Epoch: 46  train accuracy: 0.875
+Epoch: 46  train accuracy: 0.848
+Epoch: 46  train accuracy: 0.840
+Epoch: 46  train accuracy: 0.859
+Epoch: 46  train accuracy: 0.832
+Epoch: 46  train accuracy: 0.891
+Epoch: 46  train accuracy: 0.914
+Epoch: 46  train accuracy: 0.820
+Epoch: 46  train accuracy: 0.879
+Epoch: 46  train accuracy: 0.871
+Epoch: 46  train accuracy: 0.809
+Epoch: 46  train accuracy: 0.867
+Epoch: 46  train accuracy: 0.863
+Epoch: 46  train accuracy: 0.887
+Epoch: 46  train accuracy: 0.910
+Epoch: 46  train accuracy: 0.875
+Epoch: 46  train accuracy: 0.879
+Epoch: 46  train accuracy: 0.867
+Epoch: 46  train accuracy: 0.902
+Epoch: 46  train accuracy: 0.773
+Epoch: 46  train accuracy: 0.895
+Epoch: 46  train accuracy: 0.863
+Epoch: 46  train accuracy: 0.852
+Epoch: 46  train accuracy: 0.859
+Epoch: 46  train accuracy: 0.730
+Epoch: 46  train accuracy: 0.844
+Epoch: 46  train accuracy: 0.902
+Epoch: 46  train accuracy: 0.887
+Epoch: 46  train accuracy: 0.914
+Epoch: 46  train accuracy: 0.715
+Epoch: 46  train accuracy: 0.844
+Epoch: 46  train accuracy: 0.812
+Epoch: 46  train accuracy: 0.832
+Epoch: 46  train accuracy: 0.770
+Epoch: 46  train accuracy: 0.918
+Epoch: 46  train accuracy: 0.926
+Epoch: 46  train accuracy: 0.879
+Epoch: 46  train accuracy: 0.906
+Epoch: 46  train accuracy: 0.809
+Epoch: 46  train accuracy: 0.918
+Epoch: 46  train accuracy: 0.891
+Epoch: 46  train accuracy: 0.914
+Epoch: 46  train accuracy: 0.926
+Epoch: 46  train accuracy: 0.910
+Epoch: 46  train accuracy: 0.926
+Epoch: 46  train accuracy: 0.773
+Epoch: 46  train accuracy: 0.852
+Epoch: 46  train accuracy: 0.871
+Epoch: 46  train accuracy: 0.871
+Epoch: 46  train accuracy: 0.867
+Epoch: 46  train accuracy: 0.922
+Epoch: 46  train accuracy: 0.883
+Epoch: 46  train accuracy: 0.852
+Epoch: 46  train accuracy: 0.926
+Epoch: 46  train accuracy: 0.914
+Epoch: 46  train accuracy: 0.906
+Epoch: 46  train accuracy: 0.887
+Epoch: 46  train accuracy: 0.922
+Epoch: 46  train accuracy: 0.887
+Epoch: 46  train accuracy: 0.848
+Epoch: 46  train accuracy: 0.801
+Epoch: 46  train accuracy: 0.930
+Epoch: 46  train accuracy: 0.840
+Epoch: 46  train accuracy: 0.844
+Epoch: 46  train accuracy: 0.852
+Epoch: 46  train accuracy: 0.852
+Epoch: 46  train accuracy: 0.891
+Epoch: 46  train accuracy: 0.840
+Epoch: 46  train accuracy: 0.895
+Epoch: 46  train accuracy: 0.863
+Epoch: 46  train accuracy: 0.934
+Epoch: 46  train accuracy: 0.871
+Epoch: 46  train accuracy: 0.844
+Epoch: 46  train accuracy: 0.816
+Epoch: 46  train accuracy: 0.824
+Epoch: 46  train accuracy: 0.828
+Epoch: 46  train accuracy: 0.875
+Epoch: 46  train accuracy: 0.812
+Epoch: 46  train accuracy: 0.699
+Epoch: 46  train accuracy: 0.844
+Epoch: 46  train accuracy: 0.871
+Epoch: 46  train accuracy: 0.902
+Epoch: 46  train accuracy: 0.809
+Epoch: 46  train accuracy: 0.832
+Epoch: 46  train accuracy: 0.832
+Epoch: 46  train accuracy: 0.816
+Epoch: 46  train accuracy: 0.883
+Epoch: 46  train accuracy: 0.836
+Epoch: 46  train accuracy: 0.898
+Epoch: 46  train accuracy: 0.898
+Epoch: 46  train accuracy: 0.820
+training finished for epoch  46
+Epoch: 46 batch:  1 cost = 30.29982  test accuracy: 0.882
+[[3537  439]
+ [  45   75]]
+Epoch: 46 batch:  2 cost = 30.29982  test accuracy: 0.865
+[[3458  494]
+ [  59   85]]
+Epoch: 46 batch:  3 cost = 30.29982  test accuracy: 0.880
+[[3527  454]
+ [  38   77]]
+Epoch: 46 batch:  4 cost = 30.29982  test accuracy: 0.877
+[[3518  458]
+ [  46   74]]
+Epoch: 46 batch:  5 cost = 30.29982  test accuracy: 0.860
+[[3449  503]
+ [  69   75]]
+Epoch: 46 batch:  6 cost = 30.29982  test accuracy: 0.875
+[[3513  458]
+ [  53   72]]
+Epoch: 47  train accuracy: 0.875
+Epoch: 47  train accuracy: 0.883
+Epoch: 47  train accuracy: 0.910
+Epoch: 47  train accuracy: 0.906
+Epoch: 47  train accuracy: 0.938
+Epoch: 47  train accuracy: 0.836
+Epoch: 47  train accuracy: 0.902
+Epoch: 47  train accuracy: 0.906
+Epoch: 47  train accuracy: 0.855
+Epoch: 47  train accuracy: 0.875
+Epoch: 47  train accuracy: 0.812
+Epoch: 47  train accuracy: 0.887
+Epoch: 47  train accuracy: 0.871
+Epoch: 47  train accuracy: 0.895
+Epoch: 47  train accuracy: 0.898
+Epoch: 47  train accuracy: 0.859
+Epoch: 47  train accuracy: 0.824
+Epoch: 47  train accuracy: 0.816
+Epoch: 47  train accuracy: 0.844
+Epoch: 47  train accuracy: 0.902
+Epoch: 47  train accuracy: 0.902
+Epoch: 47  train accuracy: 0.879
+Epoch: 47  train accuracy: 0.906
+Epoch: 47  train accuracy: 0.875
+Epoch: 47  train accuracy: 0.859
+Epoch: 47  train accuracy: 0.840
+Epoch: 47  train accuracy: 0.891
+Epoch: 47  train accuracy: 0.797
+Epoch: 47  train accuracy: 0.914
+Epoch: 47  train accuracy: 0.840
+Epoch: 47  train accuracy: 0.816
+Epoch: 47  train accuracy: 0.875
+Epoch: 47  train accuracy: 0.816
+Epoch: 47  train accuracy: 0.859
+Epoch: 47  train accuracy: 0.930
+Epoch: 47  train accuracy: 0.871
+Epoch: 47  train accuracy: 0.918
+Epoch: 47  train accuracy: 0.711
+Epoch: 47  train accuracy: 0.867
+Epoch: 47  train accuracy: 0.785
+Epoch: 47  train accuracy: 0.852
+Epoch: 47  train accuracy: 0.797
+Epoch: 47  train accuracy: 0.906
+Epoch: 47  train accuracy: 0.906
+Epoch: 47  train accuracy: 0.832
+Epoch: 47  train accuracy: 0.863
+Epoch: 47  train accuracy: 0.793
+Epoch: 47  train accuracy: 0.879
+Epoch: 47  train accuracy: 0.855
+Epoch: 47  train accuracy: 0.906
+Epoch: 47  train accuracy: 0.883
+Epoch: 47  train accuracy: 0.902
+Epoch: 47  train accuracy: 0.941
+Epoch: 47  train accuracy: 0.789
+Epoch: 47  train accuracy: 0.832
+Epoch: 47  train accuracy: 0.906
+Epoch: 47  train accuracy: 0.871
+Epoch: 47  train accuracy: 0.879
+Epoch: 47  train accuracy: 0.922
+Epoch: 47  train accuracy: 0.855
+Epoch: 47  train accuracy: 0.805
+Epoch: 47  train accuracy: 0.934
+Epoch: 47  train accuracy: 0.852
+Epoch: 47  train accuracy: 0.910
+Epoch: 47  train accuracy: 0.859
+Epoch: 47  train accuracy: 0.906
+Epoch: 47  train accuracy: 0.836
+Epoch: 47  train accuracy: 0.781
+Epoch: 47  train accuracy: 0.773
+Epoch: 47  train accuracy: 0.887
+Epoch: 47  train accuracy: 0.828
+Epoch: 47  train accuracy: 0.887
+Epoch: 47  train accuracy: 0.855
+Epoch: 47  train accuracy: 0.867
+Epoch: 47  train accuracy: 0.898
+Epoch: 47  train accuracy: 0.820
+Epoch: 47  train accuracy: 0.887
+Epoch: 47  train accuracy: 0.875
+Epoch: 47  train accuracy: 0.930
+Epoch: 47  train accuracy: 0.863
+Epoch: 47  train accuracy: 0.895
+Epoch: 47  train accuracy: 0.832
+Epoch: 47  train accuracy: 0.793
+Epoch: 47  train accuracy: 0.867
+Epoch: 47  train accuracy: 0.898
+Epoch: 47  train accuracy: 0.824
+Epoch: 47  train accuracy: 0.762
+Epoch: 47  train accuracy: 0.789
+Epoch: 47  train accuracy: 0.891
+Epoch: 47  train accuracy: 0.887
+Epoch: 47  train accuracy: 0.812
+Epoch: 47  train accuracy: 0.867
+Epoch: 47  train accuracy: 0.812
+Epoch: 47  train accuracy: 0.816
+Epoch: 47  train accuracy: 0.883
+Epoch: 47  train accuracy: 0.824
+Epoch: 47  train accuracy: 0.852
+Epoch: 47  train accuracy: 0.938
+Epoch: 47  train accuracy: 0.777
+training finished for epoch  47
+Epoch: 47 batch:  1 cost = 30.25539  test accuracy: 0.883
+[[3541  435]
+ [  45   75]]
+Epoch: 47 batch:  2 cost = 30.25539  test accuracy: 0.865
+[[3458  494]
+ [  59   85]]
+Epoch: 47 batch:  3 cost = 30.25539  test accuracy: 0.881
+[[3532  449]
+ [  38   77]]
+Epoch: 47 batch:  4 cost = 30.25539  test accuracy: 0.877
+[[3520  456]
+ [  46   74]]
+Epoch: 47 batch:  5 cost = 30.25539  test accuracy: 0.861
+[[3452  500]
+ [  69   75]]
+Epoch: 47 batch:  6 cost = 30.25539  test accuracy: 0.875
+[[3513  458]
+ [  53   72]]
+Epoch: 48  train accuracy: 0.902
+Epoch: 48  train accuracy: 0.906
+Epoch: 48  train accuracy: 0.906
+Epoch: 48  train accuracy: 0.926
+Epoch: 48  train accuracy: 0.902
+Epoch: 48  train accuracy: 0.895
+Epoch: 48  train accuracy: 0.941
+Epoch: 48  train accuracy: 0.914
+Epoch: 48  train accuracy: 0.879
+Epoch: 48  train accuracy: 0.840
+Epoch: 48  train accuracy: 0.824
+Epoch: 48  train accuracy: 0.867
+Epoch: 48  train accuracy: 0.852
+Epoch: 48  train accuracy: 0.902
+Epoch: 48  train accuracy: 0.906
+Epoch: 48  train accuracy: 0.836
+Epoch: 48  train accuracy: 0.883
+Epoch: 48  train accuracy: 0.832
+Epoch: 48  train accuracy: 0.812
+Epoch: 48  train accuracy: 0.898
+Epoch: 48  train accuracy: 0.859
+Epoch: 48  train accuracy: 0.883
+Epoch: 48  train accuracy: 0.906
+Epoch: 48  train accuracy: 0.836
+Epoch: 48  train accuracy: 0.883
+Epoch: 48  train accuracy: 0.895
+Epoch: 48  train accuracy: 0.895
+Epoch: 48  train accuracy: 0.859
+Epoch: 48  train accuracy: 0.918
+Epoch: 48  train accuracy: 0.852
+Epoch: 48  train accuracy: 0.820
+Epoch: 48  train accuracy: 0.832
+Epoch: 48  train accuracy: 0.727
+Epoch: 48  train accuracy: 0.895
+Epoch: 48  train accuracy: 0.918
+Epoch: 48  train accuracy: 0.863
+Epoch: 48  train accuracy: 0.906
+Epoch: 48  train accuracy: 0.711
+Epoch: 48  train accuracy: 0.898
+Epoch: 48  train accuracy: 0.797
+Epoch: 48  train accuracy: 0.805
+Epoch: 48  train accuracy: 0.797
+Epoch: 48  train accuracy: 0.914
+Epoch: 48  train accuracy: 0.926
+Epoch: 48  train accuracy: 0.859
+Epoch: 48  train accuracy: 0.906
+Epoch: 48  train accuracy: 0.727
+Epoch: 48  train accuracy: 0.891
+Epoch: 48  train accuracy: 0.863
+Epoch: 48  train accuracy: 0.926
+Epoch: 48  train accuracy: 0.895
+Epoch: 48  train accuracy: 0.891
+Epoch: 48  train accuracy: 0.910
+Epoch: 48  train accuracy: 0.793
+Epoch: 48  train accuracy: 0.867
+Epoch: 48  train accuracy: 0.887
+Epoch: 48  train accuracy: 0.887
+Epoch: 48  train accuracy: 0.840
+Epoch: 48  train accuracy: 0.914
+Epoch: 48  train accuracy: 0.863
+Epoch: 48  train accuracy: 0.832
+Epoch: 48  train accuracy: 0.902
+Epoch: 48  train accuracy: 0.836
+Epoch: 48  train accuracy: 0.891
+Epoch: 48  train accuracy: 0.852
+Epoch: 48  train accuracy: 0.945
+Epoch: 48  train accuracy: 0.895
+Epoch: 48  train accuracy: 0.844
+Epoch: 48  train accuracy: 0.793
+Epoch: 48  train accuracy: 0.898
+Epoch: 48  train accuracy: 0.867
+Epoch: 48  train accuracy: 0.832
+Epoch: 48  train accuracy: 0.805
+Epoch: 48  train accuracy: 0.820
+Epoch: 48  train accuracy: 0.898
+Epoch: 48  train accuracy: 0.852
+Epoch: 48  train accuracy: 0.910
+Epoch: 48  train accuracy: 0.863
+Epoch: 48  train accuracy: 0.910
+Epoch: 48  train accuracy: 0.887
+Epoch: 48  train accuracy: 0.836
+Epoch: 48  train accuracy: 0.848
+Epoch: 48  train accuracy: 0.766
+Epoch: 48  train accuracy: 0.832
+Epoch: 48  train accuracy: 0.879
+Epoch: 48  train accuracy: 0.852
+Epoch: 48  train accuracy: 0.719
+Epoch: 48  train accuracy: 0.832
+Epoch: 48  train accuracy: 0.930
+Epoch: 48  train accuracy: 0.898
+Epoch: 48  train accuracy: 0.801
+Epoch: 48  train accuracy: 0.852
+Epoch: 48  train accuracy: 0.836
+Epoch: 48  train accuracy: 0.871
+Epoch: 48  train accuracy: 0.836
+Epoch: 48  train accuracy: 0.816
+Epoch: 48  train accuracy: 0.891
+Epoch: 48  train accuracy: 0.941
+Epoch: 48  train accuracy: 0.789
+training finished for epoch  48
+Epoch: 48 batch:  1 cost = 30.22671  test accuracy: 0.883
+[[3541  435]
+ [  45   75]]
+Epoch: 48 batch:  2 cost = 30.22671  test accuracy: 0.865
+[[3459  493]
+ [  59   85]]
+Epoch: 48 batch:  3 cost = 30.22671  test accuracy: 0.882
+[[3534  447]
+ [  38   77]]
+Epoch: 48 batch:  4 cost = 30.22671  test accuracy: 0.878
+[[3521  455]
+ [  46   74]]
+Epoch: 48 batch:  5 cost = 30.22671  test accuracy: 0.861
+[[3452  500]
+ [  69   75]]
+Epoch: 48 batch:  6 cost = 30.22671  test accuracy: 0.875
+[[3514  457]
+ [  53   72]]
+Epoch: 49  train accuracy: 0.926
+Epoch: 49  train accuracy: 0.934
+Epoch: 49  train accuracy: 0.930
+Epoch: 49  train accuracy: 0.957
+Epoch: 49  train accuracy: 0.918
+Epoch: 49  train accuracy: 0.871
+Epoch: 49  train accuracy: 0.910
+Epoch: 49  train accuracy: 0.895
+Epoch: 49  train accuracy: 0.887
+Epoch: 49  train accuracy: 0.859
+Epoch: 49  train accuracy: 0.832
+Epoch: 49  train accuracy: 0.867
+Epoch: 49  train accuracy: 0.883
+Epoch: 49  train accuracy: 0.902
+Epoch: 49  train accuracy: 0.930
+Epoch: 49  train accuracy: 0.898
+Epoch: 49  train accuracy: 0.875
+Epoch: 49  train accuracy: 0.859
+Epoch: 49  train accuracy: 0.816
+Epoch: 49  train accuracy: 0.922
+Epoch: 49  train accuracy: 0.883
+Epoch: 49  train accuracy: 0.840
+Epoch: 49  train accuracy: 0.902
+Epoch: 49  train accuracy: 0.848
+Epoch: 49  train accuracy: 0.902
+Epoch: 49  train accuracy: 0.887
+Epoch: 49  train accuracy: 0.910
+Epoch: 49  train accuracy: 0.812
+Epoch: 49  train accuracy: 0.902
+Epoch: 49  train accuracy: 0.824
+Epoch: 49  train accuracy: 0.836
+Epoch: 49  train accuracy: 0.895
+Epoch: 49  train accuracy: 0.766
+Epoch: 49  train accuracy: 0.902
+Epoch: 49  train accuracy: 0.863
+Epoch: 49  train accuracy: 0.887
+Epoch: 49  train accuracy: 0.906
+Epoch: 49  train accuracy: 0.754
+Epoch: 49  train accuracy: 0.867
+Epoch: 49  train accuracy: 0.812
+Epoch: 49  train accuracy: 0.793
+Epoch: 49  train accuracy: 0.770
+Epoch: 49  train accuracy: 0.926
+Epoch: 49  train accuracy: 0.895
+Epoch: 49  train accuracy: 0.863
+Epoch: 49  train accuracy: 0.879
+Epoch: 49  train accuracy: 0.754
+Epoch: 49  train accuracy: 0.898
+Epoch: 49  train accuracy: 0.906
+Epoch: 49  train accuracy: 0.898
+Epoch: 49  train accuracy: 0.875
+Epoch: 49  train accuracy: 0.934
+Epoch: 49  train accuracy: 0.930
+Epoch: 49  train accuracy: 0.781
+Epoch: 49  train accuracy: 0.891
+Epoch: 49  train accuracy: 0.875
+Epoch: 49  train accuracy: 0.887
+Epoch: 49  train accuracy: 0.844
+Epoch: 49  train accuracy: 0.941
+Epoch: 49  train accuracy: 0.844
+Epoch: 49  train accuracy: 0.828
+Epoch: 49  train accuracy: 0.906
+Epoch: 49  train accuracy: 0.875
+Epoch: 49  train accuracy: 0.879
+Epoch: 49  train accuracy: 0.859
+Epoch: 49  train accuracy: 0.918
+Epoch: 49  train accuracy: 0.816
+Epoch: 49  train accuracy: 0.828
+Epoch: 49  train accuracy: 0.730
+Epoch: 49  train accuracy: 0.875
+Epoch: 49  train accuracy: 0.848
+Epoch: 49  train accuracy: 0.863
+Epoch: 49  train accuracy: 0.824
+Epoch: 49  train accuracy: 0.840
+Epoch: 49  train accuracy: 0.891
+Epoch: 49  train accuracy: 0.852
+Epoch: 49  train accuracy: 0.883
+Epoch: 49  train accuracy: 0.836
+Epoch: 49  train accuracy: 0.906
+Epoch: 49  train accuracy: 0.867
+Epoch: 49  train accuracy: 0.902
+Epoch: 49  train accuracy: 0.809
+Epoch: 49  train accuracy: 0.816
+Epoch: 49  train accuracy: 0.883
+Epoch: 49  train accuracy: 0.879
+Epoch: 49  train accuracy: 0.824
+Epoch: 49  train accuracy: 0.781
+Epoch: 49  train accuracy: 0.855
+Epoch: 49  train accuracy: 0.895
+Epoch: 49  train accuracy: 0.906
+Epoch: 49  train accuracy: 0.848
+Epoch: 49  train accuracy: 0.879
+Epoch: 49  train accuracy: 0.848
+Epoch: 49  train accuracy: 0.871
+Epoch: 49  train accuracy: 0.898
+Epoch: 49  train accuracy: 0.809
+Epoch: 49  train accuracy: 0.859
+Epoch: 49  train accuracy: 0.910
+Epoch: 49  train accuracy: 0.805
+training finished for epoch  49
+Epoch: 49 batch:  1 cost = 30.15445  test accuracy: 0.883
+[[3543  433]
+ [  45   75]]
+Epoch: 49 batch:  2 cost = 30.15445  test accuracy: 0.866
+[[3462  490]
+ [  59   85]]
+Epoch: 49 batch:  3 cost = 30.15445  test accuracy: 0.882
+[[3537  444]
+ [  38   77]]
+Epoch: 49 batch:  4 cost = 30.15445  test accuracy: 0.878
+[[3522  454]
+ [  46   74]]
+Epoch: 49 batch:  5 cost = 30.15445  test accuracy: 0.861
+[[3453  499]
+ [  69   75]]
+Epoch: 49 batch:  6 cost = 30.15445  test accuracy: 0.877
+[[3519  452]
+ [  53   72]]
+Epoch: 50  train accuracy: 0.926
+Epoch: 50  train accuracy: 0.922
+Epoch: 50  train accuracy: 0.930
+Epoch: 50  train accuracy: 0.930
+Epoch: 50  train accuracy: 0.957
+Epoch: 50  train accuracy: 0.906
+Epoch: 50  train accuracy: 0.898
+Epoch: 50  train accuracy: 0.891
+Epoch: 50  train accuracy: 0.891
+Epoch: 50  train accuracy: 0.855
+Epoch: 50  train accuracy: 0.832
+Epoch: 50  train accuracy: 0.863
+Epoch: 50  train accuracy: 0.836
+Epoch: 50  train accuracy: 0.910
+Epoch: 50  train accuracy: 0.949
+Epoch: 50  train accuracy: 0.844
+Epoch: 50  train accuracy: 0.855
+Epoch: 50  train accuracy: 0.828
+Epoch: 50  train accuracy: 0.820
+Epoch: 50  train accuracy: 0.887
+Epoch: 50  train accuracy: 0.852
+Epoch: 50  train accuracy: 0.895
+Epoch: 50  train accuracy: 0.898
+Epoch: 50  train accuracy: 0.871
+Epoch: 50  train accuracy: 0.895
+Epoch: 50  train accuracy: 0.898
+Epoch: 50  train accuracy: 0.895
+Epoch: 50  train accuracy: 0.840
+Epoch: 50  train accuracy: 0.930
+Epoch: 50  train accuracy: 0.883
+Epoch: 50  train accuracy: 0.809
+Epoch: 50  train accuracy: 0.855
+Epoch: 50  train accuracy: 0.809
+Epoch: 50  train accuracy: 0.898
+Epoch: 50  train accuracy: 0.887
+Epoch: 50  train accuracy: 0.902
+Epoch: 50  train accuracy: 0.922
+Epoch: 50  train accuracy: 0.730
+Epoch: 50  train accuracy: 0.852
+Epoch: 50  train accuracy: 0.809
+Epoch: 50  train accuracy: 0.816
+Epoch: 50  train accuracy: 0.805
+Epoch: 50  train accuracy: 0.887
+Epoch: 50  train accuracy: 0.910
+Epoch: 50  train accuracy: 0.887
+Epoch: 50  train accuracy: 0.879
+Epoch: 50  train accuracy: 0.711
+Epoch: 50  train accuracy: 0.902
+Epoch: 50  train accuracy: 0.883
+Epoch: 50  train accuracy: 0.902
+Epoch: 50  train accuracy: 0.906
+Epoch: 50  train accuracy: 0.934
+Epoch: 50  train accuracy: 0.875
+Epoch: 50  train accuracy: 0.797
+Epoch: 50  train accuracy: 0.828
+Epoch: 50  train accuracy: 0.895
+Epoch: 50  train accuracy: 0.875
+Epoch: 50  train accuracy: 0.875
+Epoch: 50  train accuracy: 0.918
+Epoch: 50  train accuracy: 0.875
+Epoch: 50  train accuracy: 0.875
+Epoch: 50  train accuracy: 0.879
+Epoch: 50  train accuracy: 0.906
+Epoch: 50  train accuracy: 0.926
+Epoch: 50  train accuracy: 0.879
+Epoch: 50  train accuracy: 0.922
+Epoch: 50  train accuracy: 0.867
+Epoch: 50  train accuracy: 0.844
+Epoch: 50  train accuracy: 0.777
+Epoch: 50  train accuracy: 0.898
+Epoch: 50  train accuracy: 0.840
+Epoch: 50  train accuracy: 0.867
+Epoch: 50  train accuracy: 0.797
+Epoch: 50  train accuracy: 0.859
+Epoch: 50  train accuracy: 0.934
+Epoch: 50  train accuracy: 0.867
+Epoch: 50  train accuracy: 0.875
+Epoch: 50  train accuracy: 0.840
+Epoch: 50  train accuracy: 0.902
+Epoch: 50  train accuracy: 0.852
+Epoch: 50  train accuracy: 0.867
+Epoch: 50  train accuracy: 0.816
+Epoch: 50  train accuracy: 0.828
+Epoch: 50  train accuracy: 0.898
+Epoch: 50  train accuracy: 0.875
+Epoch: 50  train accuracy: 0.832
+Epoch: 50  train accuracy: 0.754
+Epoch: 50  train accuracy: 0.816
+Epoch: 50  train accuracy: 0.922
+Epoch: 50  train accuracy: 0.891
+Epoch: 50  train accuracy: 0.793
+Epoch: 50  train accuracy: 0.844
+Epoch: 50  train accuracy: 0.859
+Epoch: 50  train accuracy: 0.855
+Epoch: 50  train accuracy: 0.852
+Epoch: 50  train accuracy: 0.805
+Epoch: 50  train accuracy: 0.867
+Epoch: 50  train accuracy: 0.914
+Epoch: 50  train accuracy: 0.824
+training finished for epoch  50
+Epoch: 50 batch:  1 cost = 30.12141  test accuracy: 0.884
+[[3545  431]
+ [  45   75]]
+Epoch: 50 batch:  2 cost = 30.12141  test accuracy: 0.866
+[[3464  488]
+ [  59   85]]
+Epoch: 50 batch:  3 cost = 30.12141  test accuracy: 0.883
+[[3540  441]
+ [  38   77]]
+Epoch: 50 batch:  4 cost = 30.12141  test accuracy: 0.878
+[[3523  453]
+ [  47   73]]
+Epoch: 50 batch:  5 cost = 30.12141  test accuracy: 0.861
+[[3453  499]
+ [  70   74]]
+Epoch: 50 batch:  6 cost = 30.12141  test accuracy: 0.878
+[[3523  448]
+ [  53   72]]
+
+Training complete for model  1 !

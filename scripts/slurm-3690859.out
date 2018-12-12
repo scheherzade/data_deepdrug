@@ -1,0 +1,270 @@
+]0;IPython: deepdrug/scriptsset 0
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.20      0.52      0.29       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.59      0.73      0.62     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24014  1704]
+ [  403   431]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 1
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.94      0.96     25718
+      active       0.21      0.54      0.31       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.74      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24054  1664]
+ [  384   450]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 2
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.21      0.54      0.31       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.74      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24035  1683]
+ [  380   454]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 3
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.21      0.54      0.30       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.74      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24013  1705]
+ [  381   453]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 4
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.21      0.55      0.30       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.74      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[23981  1737]
+ [  378   456]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 5
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.21      0.56      0.31       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.75      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[23992  1726]
+ [  368   466]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 6
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.94      0.96     25718
+      active       0.21      0.54      0.31       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.74      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24060  1658]
+ [  384   450]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 7
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.94      0.96     25718
+      active       0.22      0.55      0.31       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.74      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24059  1659]
+ [  377   457]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 8
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.21      0.54      0.30       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.74      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24004  1714]
+ [  381   453]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 9
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.21      0.55      0.30       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.74      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24017  1701]
+ [  379   455]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 10
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.22      0.56      0.31       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.75      0.64     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24030  1688]
+ [  367   467]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 11
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.99      0.93      0.96     25718
+      active       0.22      0.57      0.32       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.75      0.64     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24018  1700]
+ [  360   474]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 12
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.21      0.55      0.31       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.74      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24015  1703]
+ [  373   461]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 13
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.21      0.55      0.30       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.74      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[23990  1728]
+ [  375   459]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 14
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.21      0.55      0.31       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.74      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24023  1695]
+ [  378   456]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 15
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.21      0.54      0.30       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.59      0.74      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[23978  1740]
+ [  384   450]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
+set 16
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.93      0.96     25718
+      active       0.21      0.56      0.31       834
+
+   micro avg       0.92      0.92      0.92     26552
+   macro avg       0.60      0.75      0.63     26552
+weighted avg       0.96      0.92      0.94     26552
+
+confusion matrix:
+[[24007  1711]
+ [  369   465]]slurmstepd: error: *** JOB 3690859 ON marvin10 CANCELLED AT 2018-12-10T16:22:24 ***
