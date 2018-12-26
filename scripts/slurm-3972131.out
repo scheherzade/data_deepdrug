@@ -1,0 +1,2 @@
+tee: /home/sshirzad/workspace/deepdrug/results/2018-11-13-1221/2018-12-20-1903: Is a directory
+slurmstepd: error: *** JOB 3972131 ON marvin02 CANCELLED AT 2018-12-20T19:03:32 ***

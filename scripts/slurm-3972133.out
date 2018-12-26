@@ -1,0 +1,24 @@
+tee: /home/sshirzad/workspace/deepdrug/results/2018-11-13-1221/2018-12-20-1904: Is a directory
+2018-12-20 19:05:13.085670: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX
+2018-12-20 19:05:17.058599: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 0 with properties: 
+name: Tesla K40m major: 3 minor: 5 memoryClockRate(GHz): 0.745
+pciBusID: 0000:05:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-12-20 19:05:17.058653: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1490] Adding visible gpu devices: 0
+2018-12-20 19:05:22.279453: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-12-20 19:05:22.279678: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977]      0 
+2018-12-20 19:05:22.279694: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0:   N 
+2018-12-20 19:05:22.280004: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 10751 MB memory) -> physical GPU (device: 0, name: Tesla K40m, pci bus id: 0000:05:00.0, compute capability: 3.5)
+]0;IPython: 2018-11-13-1221/2018-12-20-1904Command Line:  2 /home/sshirzad/workspace/deepdrug/results/2018-11-13-1221/2018-12-20-1904/npy
+test_set: 2
+training finished for epoch  1
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mNameError[0m                                 Traceback (most recent call last)
+[0;32m~/workspace/deepdrug/python_scripts/CNN_12_14.py[0m in [0;36m<module>[0;34m[0m
+[1;32m    327[0m [0;34m[0m[0m
+[1;32m    328[0m                 [0mtest_acc[0m [0;34m=[0m [0msess[0m[0;34m.[0m[0mrun[0m[0;34m([0m[0maccuracy[0m[0;34m,[0m [0mfeed_dict[0m[0;34m=[0m[0;34m{[0m[0mx[0m[0;34m:[0m [0mbatch_x_test[0m[0;34m,[0m [0my[0m[0;34m:[0m [0mbatch_y_test[0m[0;34m,[0m [0mz[0m[0;34m:[0m [0mbatch_z_test[0m[0;34m}[0m[0;34m)[0m[0;34m[0m[0m
+[0;32m--> 329[0;31m                 [0mnp[0m[0;34m.[0m[0msave[0m[0;34m([0m[0mnp_save_path[0m[0;34m+[0m[0;34m'/batch_'[0m[0;34m+[0m[0mstr[0m[0;34m([0m[0mtrian_id[0m[0;34m)[0m[0;34m+[0m[0;34m'_'[0m[0;34m+[0m[0mstr[0m[0;34m([0m[0mj[0m[0;34m)[0m[0;34m+[0m[0;34m'_true.npy'[0m[0;34m,[0m[0mbatch_y_test[0m[0;34m)[0m[0;34m[0m[0m
+[0m[1;32m    330[0m                 [0mpr[0m[0;34m=[0m[0msess[0m[0;34m.[0m[0mrun[0m[0;34m([0m[0my_[0m[0;34m,[0m [0mfeed_dict[0m[0;34m=[0m[0;34m{[0m[0mx[0m[0;34m:[0m [0mbatch_x_test[0m[0;34m,[0m [0my[0m[0;34m:[0m [0mbatch_y_test[0m[0;34m,[0m [0mz[0m[0;34m:[0m [0mbatch_z_test[0m[0;34m}[0m[0;34m)[0m[0;34m[0m[0m
+[1;32m    331[0m                 [0mnp[0m[0;34m.[0m[0msave[0m[0;34m([0m[0mnp_save_path[0m[0;34m+[0m[0;34m'/batch_'[0m[0;34m+[0m[0mstr[0m[0;34m([0m[0mtrian_id[0m[0;34m)[0m[0;34m+[0m[0;34m'_'[0m[0;34m+[0m[0mstr[0m[0;34m([0m[0mj[0m[0;34m)[0m[0;34m+[0m[0;34m'_pred.npy'[0m[0;34m,[0m [0mpr[0m[0;34m)[0m[0;34m[0m[0m
+
+[0;31mNameError[0m: name 'trian_id' is not defined

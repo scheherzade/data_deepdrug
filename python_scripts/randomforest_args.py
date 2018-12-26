@@ -10,7 +10,7 @@ import glob
 import cv2
 import pickle
 import numpy as np
-from rdkit.Chem import PandasTools
+#from rdkit.Chem import PandasTools
 import random
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import confusion_matrix

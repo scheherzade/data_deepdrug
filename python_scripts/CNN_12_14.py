@@ -13,7 +13,27 @@ import numpy as np
 import tensorflow as tf
 from rdkit.Chem import PandasTools
 import random
+import sys
 
+#########################################################################
+#arguments
+########################################################################
+import argparse
+if not len(sys.argv) == 3 :
+    print("This program requires the following 1 argument: test_id ")
+    exit(-57)
+
+parser = argparse.ArgumentParser(description='Parameters')
+parser.add_argument('integers', type=int, nargs=1,
+                    help='test_set')
+parser.add_argument('strings', type=str, nargs=1,
+                    help='save_path')
+args = parser.parse_args()
+print("Command Line: " ,args.integers[0], args.strings[0])
+
+test_id = args.integers[0]
+print("test_set: "+str(test_id))
+np_save_path = args.strings[0]
 ##########################################################################
 #parameters
 ##########################################################################   
@@ -214,6 +234,8 @@ for i in range(len(receptor_list)):
     receptor_sizes[i]=np.shape(ligand_dict[l+'_0'][0])[0]+np.shape(ligand_dict[l+'_1'][0])[0]   
     data_size=data_size+receptor_sizes[i]
 
+#num_data_sets=10
+num_data_sets=len(receptor_list)
 def data_gen(set_i, epochs):
     l=receptor_list[set_i]  
     test_size=receptor_sizes[set_i]
@@ -237,7 +259,7 @@ def data_gen(set_i, epochs):
     test_labels=test_labels[per]
     
     for epoch in range(epochs):
-        for set_j in range(0, len(receptor_list)):        
+        for set_j in range(0, num_data_sets):        
             if set_j != set_i:
                 training_size=receptor_sizes[set_j]
                 training_set=np.zeros((training_size, size*size*3+300))
@@ -278,7 +300,7 @@ for test_id in range(len(receptor_list)):
  
         for epoch in range(epochs):
             avg_cost = 0
-            for train_id in range(100-1):   
+            for train_id in range(num_data_sets-1):   
                 step=step+1
                 if step%500==0:
                     applied_rate *= 0.5
@@ -304,10 +326,14 @@ for test_id in range(len(receptor_list)):
                 batch_z_test =test_set[j*batch_size_test:(j+1)*batch_size_test,0:300]
 
                 test_acc = sess.run(accuracy, feed_dict={x: batch_x_test, y: batch_y_test, z: batch_z_test})
-                print("Epoch:", (epoch + 1), "batch: ",(j+1),"cost =", "{:.5f}".format(avg_cost), " test accuracy: {:.3f}".format(test_acc))
-                print(sess.run(confusion, feed_dict={x: batch_x_test, y: batch_y_test, z: batch_z_test}))
-                print(sess.run(auc, feed_dict={x: batch_x_test, y: batch_y_test, z: batch_z_test}))
+                np.save(np_save_path+'/batch_'+str(train_id)+'_'+str(j)+'_true.npy',batch_y_test)
+                pr=sess.run(y_, feed_dict={x: batch_x_test, y: batch_y_test, z: batch_z_test})
+                np.save(np_save_path+'/batch_'+str(train_id)+'_'+str(j)+'_pred.npy', pr)
 
+                print("Epoch:", (epoch + 1), "batch: ",(j+1),"cost =", "{:.5f}".format(avg_cost), " test accuracy: {:.3f}".format(test_acc))
+#                print(sess.run(confusion, feed_dict={x: batch_x_test, y: batch_y_test, z: batch_z_test}))
+#                print(sess.run(auc, feed_dict={x: batch_x_test, y: batch_y_test, z: batch_z_test}))
+                
             #print("Epoch:", (epoch + 1), "confusion matrix: ",sess.run(confusion, feed_dict={x: test_set[:,300:], y: test_labels,  z: test_set[:,0:300]}))
     
         

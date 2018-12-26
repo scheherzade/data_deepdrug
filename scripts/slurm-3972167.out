@@ -1,0 +1,677 @@
+tee: /home/sshirzad/workspace/deepdrug/results/2018-11-13-1221/2018-12-21-1609: Is a directory
+2018-12-21 16:09:31.869779: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-12-21 16:09:40.539786: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 0 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:05:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-12-21 16:09:40.654788: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 1 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:06:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-12-21 16:09:40.773755: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 2 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:84:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-12-21 16:09:40.910374: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 3 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:85:00.0
+totalMemory: 11.17GiB freeMemory: 11.10GiB
+2018-12-21 16:09:40.911330: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1490] Adding visible gpu devices: 0, 1, 2, 3
+2018-12-21 16:09:42.074223: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-12-21 16:09:42.074272: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977]      0 1 2 3 
+2018-12-21 16:09:42.074281: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0:   N Y N N 
+2018-12-21 16:09:42.074286: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 1:   Y N N N 
+2018-12-21 16:09:42.074290: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 2:   N N N Y 
+2018-12-21 16:09:42.074295: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 3:   N N Y N 
+2018-12-21 16:09:42.075378: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 10759 MB memory) -> physical GPU (device: 0, name: Tesla K80, pci bus id: 0000:05:00.0, compute capability: 3.7)
+2018-12-21 16:09:42.252333: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 10759 MB memory) -> physical GPU (device: 1, name: Tesla K80, pci bus id: 0000:06:00.0, compute capability: 3.7)
+2018-12-21 16:09:42.429203: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 10759 MB memory) -> physical GPU (device: 2, name: Tesla K80, pci bus id: 0000:84:00.0, compute capability: 3.7)
+2018-12-21 16:09:42.625374: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 10759 MB memory) -> physical GPU (device: 3, name: Tesla K80, pci bus id: 0000:85:00.0, compute capability: 3.7)
+]0;IPython: 2018-11-13-1221/2018-12-21-1609Command Line:  1 /home/sshirzad/workspace/deepdrug/results/2018-11-13-1221/2018-12-21-1609/npy
+test_set: 1
+training finished for epoch  1
+Epoch: 1 batch:  1 cost = 58.14857  test accuracy: 0.808
+Epoch: 1 batch:  2 cost = 58.14857  test accuracy: 0.807
+Epoch: 1 batch:  3 cost = 58.14857  test accuracy: 0.800
+Epoch: 1 batch:  4 cost = 58.14857  test accuracy: 0.799
+Epoch: 1 batch:  5 cost = 58.14857  test accuracy: 0.803
+Epoch: 1 batch:  6 cost = 58.14857  test accuracy: 0.813
+training finished for epoch  2
+Epoch: 2 batch:  1 cost = 55.70082  test accuracy: 0.939
+Epoch: 2 batch:  2 cost = 55.70082  test accuracy: 0.945
+Epoch: 2 batch:  3 cost = 55.70082  test accuracy: 0.938
+Epoch: 2 batch:  4 cost = 55.70082  test accuracy: 0.943
+Epoch: 2 batch:  5 cost = 55.70082  test accuracy: 0.942
+Epoch: 2 batch:  6 cost = 55.70082  test accuracy: 0.940
+training finished for epoch  3
+Epoch: 3 batch:  1 cost = 49.19986  test accuracy: 0.854
+Epoch: 3 batch:  2 cost = 49.19986  test accuracy: 0.854
+Epoch: 3 batch:  3 cost = 49.19986  test accuracy: 0.845
+Epoch: 3 batch:  4 cost = 49.19986  test accuracy: 0.847
+Epoch: 3 batch:  5 cost = 49.19986  test accuracy: 0.852
+Epoch: 3 batch:  6 cost = 49.19986  test accuracy: 0.847
+training finished for epoch  4
+Epoch: 4 batch:  1 cost = 48.29630  test accuracy: 0.780
+Epoch: 4 batch:  2 cost = 48.29630  test accuracy: 0.783
+Epoch: 4 batch:  3 cost = 48.29630  test accuracy: 0.774
+Epoch: 4 batch:  4 cost = 48.29630  test accuracy: 0.771
+Epoch: 4 batch:  5 cost = 48.29630  test accuracy: 0.782
+Epoch: 4 batch:  6 cost = 48.29630  test accuracy: 0.783
+training finished for epoch  5
+Epoch: 5 batch:  1 cost = 46.99503  test accuracy: 0.905
+Epoch: 5 batch:  2 cost = 46.99503  test accuracy: 0.910
+Epoch: 5 batch:  3 cost = 46.99503  test accuracy: 0.899
+Epoch: 5 batch:  4 cost = 46.99503  test accuracy: 0.910
+Epoch: 5 batch:  5 cost = 46.99503  test accuracy: 0.907
+Epoch: 5 batch:  6 cost = 46.99503  test accuracy: 0.906
+training finished for epoch  6
+Epoch: 6 batch:  1 cost = 41.65211  test accuracy: 0.870
+Epoch: 6 batch:  2 cost = 41.65211  test accuracy: 0.869
+Epoch: 6 batch:  3 cost = 41.65211  test accuracy: 0.857
+Epoch: 6 batch:  4 cost = 41.65211  test accuracy: 0.870
+Epoch: 6 batch:  5 cost = 41.65211  test accuracy: 0.864
+Epoch: 6 batch:  6 cost = 41.65211  test accuracy: 0.867
+training finished for epoch  7
+Epoch: 7 batch:  1 cost = 41.60811  test accuracy: 0.933
+Epoch: 7 batch:  2 cost = 41.60811  test accuracy: 0.943
+Epoch: 7 batch:  3 cost = 41.60811  test accuracy: 0.933
+Epoch: 7 batch:  4 cost = 41.60811  test accuracy: 0.939
+Epoch: 7 batch:  5 cost = 41.60811  test accuracy: 0.936
+Epoch: 7 batch:  6 cost = 41.60811  test accuracy: 0.936
+training finished for epoch  8
+Epoch: 8 batch:  1 cost = 41.57532  test accuracy: 0.889
+Epoch: 8 batch:  2 cost = 41.57532  test accuracy: 0.895
+Epoch: 8 batch:  3 cost = 41.57532  test accuracy: 0.880
+Epoch: 8 batch:  4 cost = 41.57532  test accuracy: 0.891
+Epoch: 8 batch:  5 cost = 41.57532  test accuracy: 0.888
+Epoch: 8 batch:  6 cost = 41.57532  test accuracy: 0.888
+training finished for epoch  9
+Epoch: 9 batch:  1 cost = 40.35031  test accuracy: 0.909
+Epoch: 9 batch:  2 cost = 40.35031  test accuracy: 0.918
+Epoch: 9 batch:  3 cost = 40.35031  test accuracy: 0.908
+Epoch: 9 batch:  4 cost = 40.35031  test accuracy: 0.920
+Epoch: 9 batch:  5 cost = 40.35031  test accuracy: 0.914
+Epoch: 9 batch:  6 cost = 40.35031  test accuracy: 0.912
+training finished for epoch  10
+Epoch: 10 batch:  1 cost = 39.07191  test accuracy: 0.919
+Epoch: 10 batch:  2 cost = 39.07191  test accuracy: 0.928
+Epoch: 10 batch:  3 cost = 39.07191  test accuracy: 0.917
+Epoch: 10 batch:  4 cost = 39.07191  test accuracy: 0.927
+Epoch: 10 batch:  5 cost = 39.07191  test accuracy: 0.921
+Epoch: 10 batch:  6 cost = 39.07191  test accuracy: 0.918
+training finished for epoch  11
+Epoch: 11 batch:  1 cost = 38.38464  test accuracy: 0.921
+Epoch: 11 batch:  2 cost = 38.38464  test accuracy: 0.929
+Epoch: 11 batch:  3 cost = 38.38464  test accuracy: 0.918
+Epoch: 11 batch:  4 cost = 38.38464  test accuracy: 0.927
+Epoch: 11 batch:  5 cost = 38.38464  test accuracy: 0.922
+Epoch: 11 batch:  6 cost = 38.38464  test accuracy: 0.918
+training finished for epoch  12
+Epoch: 12 batch:  1 cost = 38.29526  test accuracy: 0.921
+Epoch: 12 batch:  2 cost = 38.29526  test accuracy: 0.929
+Epoch: 12 batch:  3 cost = 38.29526  test accuracy: 0.916
+Epoch: 12 batch:  4 cost = 38.29526  test accuracy: 0.927
+Epoch: 12 batch:  5 cost = 38.29526  test accuracy: 0.922
+Epoch: 12 batch:  6 cost = 38.29526  test accuracy: 0.918
+training finished for epoch  13
+Epoch: 13 batch:  1 cost = 37.57653  test accuracy: 0.914
+Epoch: 13 batch:  2 cost = 37.57653  test accuracy: 0.921
+Epoch: 13 batch:  3 cost = 37.57653  test accuracy: 0.905
+Epoch: 13 batch:  4 cost = 37.57653  test accuracy: 0.920
+Epoch: 13 batch:  5 cost = 37.57653  test accuracy: 0.915
+Epoch: 13 batch:  6 cost = 37.57653  test accuracy: 0.910
+training finished for epoch  14
+Epoch: 14 batch:  1 cost = 37.38373  test accuracy: 0.877
+Epoch: 14 batch:  2 cost = 37.38373  test accuracy: 0.883
+Epoch: 14 batch:  3 cost = 37.38373  test accuracy: 0.863
+Epoch: 14 batch:  4 cost = 37.38373  test accuracy: 0.879
+Epoch: 14 batch:  5 cost = 37.38373  test accuracy: 0.874
+Epoch: 14 batch:  6 cost = 37.38373  test accuracy: 0.873
+training finished for epoch  15
+Epoch: 15 batch:  1 cost = 37.21935  test accuracy: 0.917
+Epoch: 15 batch:  2 cost = 37.21935  test accuracy: 0.927
+Epoch: 15 batch:  3 cost = 37.21935  test accuracy: 0.915
+Epoch: 15 batch:  4 cost = 37.21935  test accuracy: 0.924
+Epoch: 15 batch:  5 cost = 37.21935  test accuracy: 0.919
+Epoch: 15 batch:  6 cost = 37.21935  test accuracy: 0.917
+training finished for epoch  16
+Epoch: 16 batch:  1 cost = 36.57494  test accuracy: 0.885
+Epoch: 16 batch:  2 cost = 36.57494  test accuracy: 0.889
+Epoch: 16 batch:  3 cost = 36.57494  test accuracy: 0.875
+Epoch: 16 batch:  4 cost = 36.57494  test accuracy: 0.889
+Epoch: 16 batch:  5 cost = 36.57494  test accuracy: 0.883
+Epoch: 16 batch:  6 cost = 36.57494  test accuracy: 0.884
+training finished for epoch  17
+Epoch: 17 batch:  1 cost = 35.84248  test accuracy: 0.888
+Epoch: 17 batch:  2 cost = 35.84248  test accuracy: 0.893
+Epoch: 17 batch:  3 cost = 35.84248  test accuracy: 0.879
+Epoch: 17 batch:  4 cost = 35.84248  test accuracy: 0.894
+Epoch: 17 batch:  5 cost = 35.84248  test accuracy: 0.887
+Epoch: 17 batch:  6 cost = 35.84248  test accuracy: 0.887
+training finished for epoch  18
+Epoch: 18 batch:  1 cost = 35.67494  test accuracy: 0.886
+Epoch: 18 batch:  2 cost = 35.67494  test accuracy: 0.891
+Epoch: 18 batch:  3 cost = 35.67494  test accuracy: 0.878
+Epoch: 18 batch:  4 cost = 35.67494  test accuracy: 0.892
+Epoch: 18 batch:  5 cost = 35.67494  test accuracy: 0.883
+Epoch: 18 batch:  6 cost = 35.67494  test accuracy: 0.887
+training finished for epoch  19
+Epoch: 19 batch:  1 cost = 35.26617  test accuracy: 0.885
+Epoch: 19 batch:  2 cost = 35.26617  test accuracy: 0.892
+Epoch: 19 batch:  3 cost = 35.26617  test accuracy: 0.878
+Epoch: 19 batch:  4 cost = 35.26617  test accuracy: 0.892
+Epoch: 19 batch:  5 cost = 35.26617  test accuracy: 0.882
+Epoch: 19 batch:  6 cost = 35.26617  test accuracy: 0.887
+training finished for epoch  20
+Epoch: 20 batch:  1 cost = 35.10446  test accuracy: 0.890
+Epoch: 20 batch:  2 cost = 35.10446  test accuracy: 0.897
+Epoch: 20 batch:  3 cost = 35.10446  test accuracy: 0.885
+Epoch: 20 batch:  4 cost = 35.10446  test accuracy: 0.898
+Epoch: 20 batch:  5 cost = 35.10446  test accuracy: 0.892
+Epoch: 20 batch:  6 cost = 35.10446  test accuracy: 0.891
+training finished for epoch  21
+Epoch: 21 batch:  1 cost = 34.68086  test accuracy: 0.902
+Epoch: 21 batch:  2 cost = 34.68086  test accuracy: 0.908
+Epoch: 21 batch:  3 cost = 34.68086  test accuracy: 0.896
+Epoch: 21 batch:  4 cost = 34.68086  test accuracy: 0.909
+Epoch: 21 batch:  5 cost = 34.68086  test accuracy: 0.903
+Epoch: 21 batch:  6 cost = 34.68086  test accuracy: 0.901
+training finished for epoch  22
+Epoch: 22 batch:  1 cost = 33.73424  test accuracy: 0.905
+Epoch: 22 batch:  2 cost = 33.73424  test accuracy: 0.909
+Epoch: 22 batch:  3 cost = 33.73424  test accuracy: 0.900
+Epoch: 22 batch:  4 cost = 33.73424  test accuracy: 0.911
+Epoch: 22 batch:  5 cost = 33.73424  test accuracy: 0.907
+Epoch: 22 batch:  6 cost = 33.73424  test accuracy: 0.902
+training finished for epoch  23
+Epoch: 23 batch:  1 cost = 33.53416  test accuracy: 0.903
+Epoch: 23 batch:  2 cost = 33.53416  test accuracy: 0.908
+Epoch: 23 batch:  3 cost = 33.53416  test accuracy: 0.898
+Epoch: 23 batch:  4 cost = 33.53416  test accuracy: 0.909
+Epoch: 23 batch:  5 cost = 33.53416  test accuracy: 0.904
+Epoch: 23 batch:  6 cost = 33.53416  test accuracy: 0.902
+training finished for epoch  24
+Epoch: 24 batch:  1 cost = 33.31885  test accuracy: 0.902
+Epoch: 24 batch:  2 cost = 33.31885  test accuracy: 0.907
+Epoch: 24 batch:  3 cost = 33.31885  test accuracy: 0.898
+Epoch: 24 batch:  4 cost = 33.31885  test accuracy: 0.909
+Epoch: 24 batch:  5 cost = 33.31885  test accuracy: 0.902
+Epoch: 24 batch:  6 cost = 33.31885  test accuracy: 0.902
+training finished for epoch  25
+Epoch: 25 batch:  1 cost = 33.15305  test accuracy: 0.902
+Epoch: 25 batch:  2 cost = 33.15305  test accuracy: 0.908
+Epoch: 25 batch:  3 cost = 33.15305  test accuracy: 0.898
+Epoch: 25 batch:  4 cost = 33.15305  test accuracy: 0.910
+Epoch: 25 batch:  5 cost = 33.15305  test accuracy: 0.903
+Epoch: 25 batch:  6 cost = 33.15305  test accuracy: 0.902
+training finished for epoch  26
+Epoch: 26 batch:  1 cost = 32.95744  test accuracy: 0.905
+Epoch: 26 batch:  2 cost = 32.95744  test accuracy: 0.908
+Epoch: 26 batch:  3 cost = 32.95744  test accuracy: 0.899
+Epoch: 26 batch:  4 cost = 32.95744  test accuracy: 0.913
+Epoch: 26 batch:  5 cost = 32.95744  test accuracy: 0.906
+Epoch: 26 batch:  6 cost = 32.95744  test accuracy: 0.906
+training finished for epoch  27
+Epoch: 27 batch:  1 cost = 32.35979  test accuracy: 0.906
+Epoch: 27 batch:  2 cost = 32.35979  test accuracy: 0.908
+Epoch: 27 batch:  3 cost = 32.35979  test accuracy: 0.898
+Epoch: 27 batch:  4 cost = 32.35979  test accuracy: 0.913
+Epoch: 27 batch:  5 cost = 32.35979  test accuracy: 0.909
+Epoch: 27 batch:  6 cost = 32.35979  test accuracy: 0.906
+training finished for epoch  28
+Epoch: 28 batch:  1 cost = 32.29336  test accuracy: 0.905
+Epoch: 28 batch:  2 cost = 32.29336  test accuracy: 0.908
+Epoch: 28 batch:  3 cost = 32.29336  test accuracy: 0.899
+Epoch: 28 batch:  4 cost = 32.29336  test accuracy: 0.914
+Epoch: 28 batch:  5 cost = 32.29336  test accuracy: 0.907
+Epoch: 28 batch:  6 cost = 32.29336  test accuracy: 0.907
+training finished for epoch  29
+Epoch: 29 batch:  1 cost = 32.17369  test accuracy: 0.906
+Epoch: 29 batch:  2 cost = 32.17369  test accuracy: 0.910
+Epoch: 29 batch:  3 cost = 32.17369  test accuracy: 0.901
+Epoch: 29 batch:  4 cost = 32.17369  test accuracy: 0.915
+Epoch: 29 batch:  5 cost = 32.17369  test accuracy: 0.908
+Epoch: 29 batch:  6 cost = 32.17369  test accuracy: 0.907
+training finished for epoch  30
+Epoch: 30 batch:  1 cost = 31.92534  test accuracy: 0.907
+Epoch: 30 batch:  2 cost = 31.92534  test accuracy: 0.910
+Epoch: 30 batch:  3 cost = 31.92534  test accuracy: 0.902
+Epoch: 30 batch:  4 cost = 31.92534  test accuracy: 0.915
+Epoch: 30 batch:  5 cost = 31.92534  test accuracy: 0.908
+Epoch: 30 batch:  6 cost = 31.92534  test accuracy: 0.907
+training finished for epoch  31
+Epoch: 31 batch:  1 cost = 32.02574  test accuracy: 0.902
+Epoch: 31 batch:  2 cost = 32.02574  test accuracy: 0.904
+Epoch: 31 batch:  3 cost = 32.02574  test accuracy: 0.895
+Epoch: 31 batch:  4 cost = 32.02574  test accuracy: 0.909
+Epoch: 31 batch:  5 cost = 32.02574  test accuracy: 0.901
+Epoch: 31 batch:  6 cost = 32.02574  test accuracy: 0.902
+training finished for epoch  32
+Epoch: 32 batch:  1 cost = 31.68143  test accuracy: 0.902
+Epoch: 32 batch:  2 cost = 31.68143  test accuracy: 0.903
+Epoch: 32 batch:  3 cost = 31.68143  test accuracy: 0.895
+Epoch: 32 batch:  4 cost = 31.68143  test accuracy: 0.910
+Epoch: 32 batch:  5 cost = 31.68143  test accuracy: 0.902
+Epoch: 32 batch:  6 cost = 31.68143  test accuracy: 0.903
+training finished for epoch  33
+Epoch: 33 batch:  1 cost = 31.56459  test accuracy: 0.903
+Epoch: 33 batch:  2 cost = 31.56459  test accuracy: 0.904
+Epoch: 33 batch:  3 cost = 31.56459  test accuracy: 0.897
+Epoch: 33 batch:  4 cost = 31.56459  test accuracy: 0.911
+Epoch: 33 batch:  5 cost = 31.56459  test accuracy: 0.903
+Epoch: 33 batch:  6 cost = 31.56459  test accuracy: 0.904
+training finished for epoch  34
+Epoch: 34 batch:  1 cost = 31.48809  test accuracy: 0.903
+Epoch: 34 batch:  2 cost = 31.48809  test accuracy: 0.906
+Epoch: 34 batch:  3 cost = 31.48809  test accuracy: 0.897
+Epoch: 34 batch:  4 cost = 31.48809  test accuracy: 0.912
+Epoch: 34 batch:  5 cost = 31.48809  test accuracy: 0.904
+Epoch: 34 batch:  6 cost = 31.48809  test accuracy: 0.905
+training finished for epoch  35
+Epoch: 35 batch:  1 cost = 31.44082  test accuracy: 0.903
+Epoch: 35 batch:  2 cost = 31.44082  test accuracy: 0.905
+Epoch: 35 batch:  3 cost = 31.44082  test accuracy: 0.897
+Epoch: 35 batch:  4 cost = 31.44082  test accuracy: 0.911
+Epoch: 35 batch:  5 cost = 31.44082  test accuracy: 0.904
+Epoch: 35 batch:  6 cost = 31.44082  test accuracy: 0.905
+training finished for epoch  36
+Epoch: 36 batch:  1 cost = 31.35256  test accuracy: 0.894
+Epoch: 36 batch:  2 cost = 31.35256  test accuracy: 0.896
+Epoch: 36 batch:  3 cost = 31.35256  test accuracy: 0.890
+Epoch: 36 batch:  4 cost = 31.35256  test accuracy: 0.900
+Epoch: 36 batch:  5 cost = 31.35256  test accuracy: 0.894
+Epoch: 36 batch:  6 cost = 31.35256  test accuracy: 0.897
+training finished for epoch  37
+Epoch: 37 batch:  1 cost = 31.19164  test accuracy: 0.895
+Epoch: 37 batch:  2 cost = 31.19164  test accuracy: 0.897
+Epoch: 37 batch:  3 cost = 31.19164  test accuracy: 0.890
+Epoch: 37 batch:  4 cost = 31.19164  test accuracy: 0.902
+Epoch: 37 batch:  5 cost = 31.19164  test accuracy: 0.895
+Epoch: 37 batch:  6 cost = 31.19164  test accuracy: 0.897
+training finished for epoch  38
+Epoch: 38 batch:  1 cost = 31.12610  test accuracy: 0.896
+Epoch: 38 batch:  2 cost = 31.12610  test accuracy: 0.898
+Epoch: 38 batch:  3 cost = 31.12610  test accuracy: 0.890
+Epoch: 38 batch:  4 cost = 31.12610  test accuracy: 0.902
+Epoch: 38 batch:  5 cost = 31.12610  test accuracy: 0.895
+Epoch: 38 batch:  6 cost = 31.12610  test accuracy: 0.896
+training finished for epoch  39
+Epoch: 39 batch:  1 cost = 31.00384  test accuracy: 0.896
+Epoch: 39 batch:  2 cost = 31.00384  test accuracy: 0.898
+Epoch: 39 batch:  3 cost = 31.00384  test accuracy: 0.890
+Epoch: 39 batch:  4 cost = 31.00384  test accuracy: 0.902
+Epoch: 39 batch:  5 cost = 31.00384  test accuracy: 0.896
+Epoch: 39 batch:  6 cost = 31.00384  test accuracy: 0.896
+training finished for epoch  40
+Epoch: 40 batch:  1 cost = 31.04543  test accuracy: 0.896
+Epoch: 40 batch:  2 cost = 31.04543  test accuracy: 0.899
+Epoch: 40 batch:  3 cost = 31.04543  test accuracy: 0.890
+Epoch: 40 batch:  4 cost = 31.04543  test accuracy: 0.903
+Epoch: 40 batch:  5 cost = 31.04543  test accuracy: 0.896
+Epoch: 40 batch:  6 cost = 31.04543  test accuracy: 0.895
+training finished for epoch  41
+Epoch: 41 batch:  1 cost = 30.99805  test accuracy: 0.885
+Epoch: 41 batch:  2 cost = 30.99805  test accuracy: 0.885
+Epoch: 41 batch:  3 cost = 30.99805  test accuracy: 0.877
+Epoch: 41 batch:  4 cost = 30.99805  test accuracy: 0.886
+Epoch: 41 batch:  5 cost = 30.99805  test accuracy: 0.883
+Epoch: 41 batch:  6 cost = 30.99805  test accuracy: 0.885
+training finished for epoch  42
+Epoch: 42 batch:  1 cost = 30.95612  test accuracy: 0.885
+Epoch: 42 batch:  2 cost = 30.95612  test accuracy: 0.885
+Epoch: 42 batch:  3 cost = 30.95612  test accuracy: 0.876
+Epoch: 42 batch:  4 cost = 30.95612  test accuracy: 0.886
+Epoch: 42 batch:  5 cost = 30.95612  test accuracy: 0.883
+Epoch: 42 batch:  6 cost = 30.95612  test accuracy: 0.885
+training finished for epoch  43
+Epoch: 43 batch:  1 cost = 30.87895  test accuracy: 0.885
+Epoch: 43 batch:  2 cost = 30.87895  test accuracy: 0.886
+Epoch: 43 batch:  3 cost = 30.87895  test accuracy: 0.877
+Epoch: 43 batch:  4 cost = 30.87895  test accuracy: 0.887
+Epoch: 43 batch:  5 cost = 30.87895  test accuracy: 0.883
+Epoch: 43 batch: 2018-12-22 20:48:06.838822: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1490] Adding visible gpu devices: 0, 1, 2, 3
+2018-12-22 20:48:06.839382: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-12-22 20:48:06.839413: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977]      0 1 2 3 
+2018-12-22 20:48:06.839428: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0:   N Y N N 
+2018-12-22 20:48:06.839440: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 1:   Y N N N 
+2018-12-22 20:48:06.839451: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 2:   N N N Y 
+2018-12-22 20:48:06.839463: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 3:   N N Y N 
+2018-12-22 20:48:06.841007: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 10759 MB memory) -> physical GPU (device: 0, name: Tesla K80, pci bus id: 0000:05:00.0, compute capability: 3.7)
+2018-12-22 20:48:06.841314: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 10759 MB memory) -> physical GPU (device: 1, name: Tesla K80, pci bus id: 0000:06:00.0, compute capability: 3.7)
+2018-12-22 20:48:06.841563: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 10759 MB memory) -> physical GPU (device: 2, name: Tesla K80, pci bus id: 0000:84:00.0, compute capability: 3.7)
+2018-12-22 20:48:06.841832: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 10759 MB memory) -> physical GPU (device: 3, name: Tesla K80, pci bus id: 0000:85:00.0, compute capability: 3.7)
+ 6 cost = 30.87895  test accuracy: 0.885
+training finished for epoch  44
+Epoch: 44 batch:  1 cost = 30.87664  test accuracy: 0.885
+Epoch: 44 batch:  2 cost = 30.87664  test accuracy: 0.886
+Epoch: 44 batch:  3 cost = 30.87664  test accuracy: 0.877
+Epoch: 44 batch:  4 cost = 30.87664  test accuracy: 0.887
+Epoch: 44 batch:  5 cost = 30.87664  test accuracy: 0.884
+Epoch: 44 batch:  6 cost = 30.87664  test accuracy: 0.885
+training finished for epoch  45
+Epoch: 45 batch:  1 cost = 30.86926  test accuracy: 0.886
+Epoch: 45 batch:  2 cost = 30.86926  test accuracy: 0.886
+Epoch: 45 batch:  3 cost = 30.86926  test accuracy: 0.878
+Epoch: 45 batch:  4 cost = 30.86926  test accuracy: 0.887
+Epoch: 45 batch:  5 cost = 30.86926  test accuracy: 0.884
+Epoch: 45 batch:  6 cost = 30.86926  test accuracy: 0.885
+training finished for epoch  46
+Epoch: 46 batch:  1 cost = 30.84160  test accuracy: 0.873
+Epoch: 46 batch:  2 cost = 30.84160  test accuracy: 0.874
+Epoch: 46 batch:  3 cost = 30.84160  test accuracy: 0.868
+Epoch: 46 batch:  4 cost = 30.84160  test accuracy: 0.874
+Epoch: 46 batch:  5 cost = 30.84160  test accuracy: 0.871
+Epoch: 46 batch:  6 cost = 30.84160  test accuracy: 0.873
+training finished for epoch  47
+Epoch: 47 batch:  1 cost = 30.82619  test accuracy: 0.873
+Epoch: 47 batch:  2 cost = 30.82619  test accuracy: 0.874
+Epoch: 47 batch:  3 cost = 30.82619  test accuracy: 0.868
+Epoch: 47 batch:  4 cost = 30.82619  test accuracy: 0.873
+Epoch: 47 batch:  5 cost = 30.82619  test accuracy: 0.871
+Epoch: 47 batch:  6 cost = 30.82619  test accuracy: 0.873
+training finished for epoch  48
+Epoch: 48 batch:  1 cost = 30.81112  test accuracy: 0.873
+Epoch: 48 batch:  2 cost = 30.81112  test accuracy: 0.874
+Epoch: 48 batch:  3 cost = 30.81112  test accuracy: 0.868
+Epoch: 48 batch:  4 cost = 30.81112  test accuracy: 0.874
+Epoch: 48 batch:  5 cost = 30.81112  test accuracy: 0.871
+Epoch: 48 batch:  6 cost = 30.81112  test accuracy: 0.873
+training finished for epoch  49
+Epoch: 49 batch:  1 cost = 30.80331  test accuracy: 0.872
+Epoch: 49 batch:  2 cost = 30.80331  test accuracy: 0.874
+Epoch: 49 batch:  3 cost = 30.80331  test accuracy: 0.868
+Epoch: 49 batch:  4 cost = 30.80331  test accuracy: 0.874
+Epoch: 49 batch:  5 cost = 30.80331  test accuracy: 0.870
+Epoch: 49 batch:  6 cost = 30.80331  test accuracy: 0.873
+training finished for epoch  50
+Epoch: 50 batch:  1 cost = 30.82057  test accuracy: 0.872
+Epoch: 50 batch:  2 cost = 30.82057  test accuracy: 0.874
+Epoch: 50 batch:  3 cost = 30.82057  test accuracy: 0.868
+Epoch: 50 batch:  4 cost = 30.82057  test accuracy: 0.875
+Epoch: 50 batch:  5 cost = 30.82057  test accuracy: 0.871
+Epoch: 50 batch:  6 cost = 30.82057  test accuracy: 0.873
+
+Training complete for model  1 !
+training finished for epoch  1
+Epoch: 1 batch:  1 cost = 59.39016  test accuracy: 0.627
+Epoch: 1 batch:  2 cost = 59.39016  test accuracy: 0.626
+training finished for epoch  2
+Epoch: 2 batch:  1 cost = 49.58685  test accuracy: 0.726
+Epoch: 2 batch:  2 cost = 49.58685  test accuracy: 0.737
+training finished for epoch  3
+Epoch: 3 batch:  1 cost = 47.31264  test accuracy: 0.801
+Epoch: 3 batch:  2 cost = 47.31264  test accuracy: 0.819
+training finished for epoch  4
+Epoch: 4 batch:  1 cost = 44.37352  test accuracy: 0.866
+Epoch: 4 batch:  2 cost = 44.37352  test accuracy: 0.876
+training finished for epoch  5
+Epoch: 5 batch:  1 cost = 45.21181  test accuracy: 0.976
+Epoch: 5 batch:  2 cost = 45.21181  test accuracy: 0.977
+training finished for epoch  6
+Epoch: 6 batch:  1 cost = 42.20508  test accuracy: 0.926
+Epoch: 6 batch:  2 cost = 42.20508  test accuracy: 0.919
+training finished for epoch  7
+Epoch: 7 batch:  1 cost = 40.56327  test accuracy: 0.938
+Epoch: 7 batch:  2 cost = 40.56327  test accuracy: 0.935
+training finished for epoch  8
+Epoch: 8 batch:  1 cost = 40.63076  test accuracy: 0.961
+Epoch: 8 batch:  2 cost = 40.63076  test accuracy: 0.961
+training finished for epoch  9
+Epoch: 9 batch:  1 cost = 40.37293  test accuracy: 0.939
+Epoch: 9 batch:  2 cost = 40.37293  test accuracy: 0.936
+training finished for epoch  10
+Epoch: 10 batch:  1 cost = 40.04261  test accuracy: 0.912
+Epoch: 10 batch:  2 cost = 40.04261  test accuracy: 0.910
+training finished for epoch  11
+Epoch: 11 batch:  1 cost = 39.37257  test accuracy: 0.954
+Epoch: 11 batch:  2 cost = 39.37257  test accuracy: 0.953
+training finished for epoch  12
+Epoch: 12 batch:  1 cost = 38.69638  test accuracy: 0.944
+Epoch: 12 batch:  2 cost = 38.69638  test accuracy: 0.944
+training finished for epoch  13
+Epoch: 13 batch:  1 cost = 38.22446  test accuracy: 0.937
+Epoch: 13 batch:  2 cost = 38.22446  test accuracy: 0.935
+training finished for epoch  14
+Epoch: 14 batch:  1 cost = 38.19552  test accuracy: 0.954
+Epoch: 14 batch:  2 cost = 38.19552  test accuracy: 0.952
+training finished for epoch  15
+Epoch: 15 batch:  1 cost = 37.98031  test accuracy: 0.947
+Epoch: 15 batch:  2 cost = 37.98031  test accuracy: 0.945
+training finished for epoch  16
+Epoch: 16 batch:  1 cost = 37.28118  test accuracy: 0.893
+Epoch: 16 batch:  2 cost = 37.28118  test accuracy: 0.891
+training finished for epoch  17
+Epoch: 17 batch:  1 cost = 36.65112  test accuracy: 0.905
+Epoch: 17 batch:  2 cost = 36.65112  test accuracy: 0.904
+training finished for epoch  18
+Epoch: 18 batch:  1 cost = 36.19480  test accuracy: 0.903
+Epoch: 18 batch:  2 cost = 36.19480  test accuracy: 0.901
+training finished for epoch  19
+Epoch: 19 batch:  1 cost = 36.09170  test accuracy: 0.906
+Epoch: 19 batch:  2 cost = 36.09170  test accuracy: 0.905
+training finished for epoch  20
+Epoch: 20 batch:  1 cost = 35.75744  test accuracy: 0.898
+Epoch: 20 batch:  2 cost = 35.75744  test accuracy: 0.899
+training finished for epoch  21
+Epoch: 21 batch:  1 cost = 35.11285  test accuracy: 0.919
+Epoch: 21 batch:  2 cost = 35.11285  test accuracy: 0.922
+training finished for epoch  22
+Epoch: 22 batch:  1 cost = 34.39175  test accuracy: 0.914
+Epoch: 22 batch:  2 cost = 34.39175  test accuracy: 0.914
+training finished for epoch  23
+Epoch: 23 batch:  1 cost = 34.12603  test accuracy: 0.911
+Epoch: 23 batch:  2 cost = 34.12603  test accuracy: 0.912
+training finished for epoch  24
+Epoch: 24 batch:  1 cost = 33.80108  test accuracy: 0.910
+Epoch: 24 batch:  2 cost = 33.80108  test accuracy: 0.912
+training finished for epoch  25
+Epoch: 25 batch:  1 cost = 33.66440  test accuracy: 0.908
+Epoch: 25 batch:  2 cost = 33.66440  test accuracy: 0.910
+training finished for epoch  26
+Epoch: 26 batch:  1 cost = 33.24848  test accuracy: 0.927
+Epoch: 26 batch:  2 cost = 33.24848  test accuracy: 0.927
+training finished for epoch  27
+Epoch: 27 batch:  1 cost = 32.52745  test accuracy: 0.926
+Epoch: 27 batch:  2 cost = 32.52745  test accuracy: 0.925
+training finished for epoch  28
+Epoch: 28 batch:  1 cost = 32.28076  test accuracy: 0.927
+Epoch: 28 batch:  2 cost = 32.28076  test accuracy: 0.926
+training finished for epoch  29
+Epoch: 29 batch:  1 cost = 32.09484  test accuracy: 0.927
+Epoch: 29 batch:  2 cost = 32.09484  test accuracy: 0.926
+training finished for epoch  30
+Epoch: 30 batch:  1 cost = 31.95444  test accuracy: 0.927
+Epoch: 30 batch:  2 cost = 31.95444  test accuracy: 0.927
+training finished for epoch  31
+Epoch: 31 batch:  1 cost = 31.99955  test accuracy: 0.931
+Epoch: 31 batch:  2 cost = 31.99955  test accuracy: 0.930
+training finished for epoch  32
+Epoch: 32 batch:  1 cost = 31.43066  test accuracy: 0.930
+Epoch: 32 batch:  2 cost = 31.43066  test accuracy: 0.929
+training finished for epoch  33
+Epoch: 33 batch:  1 cost = 31.28953  test accuracy: 0.931
+Epoch: 33 batch:  2 cost = 31.28953  test accuracy: 0.929
+training finished for epoch  34
+Epoch: 34 batch:  1 cost = 31.14191  test accuracy: 0.932
+Epoch: 34 batch:  2 cost = 31.14191  test accuracy: 0.931
+training finished for epoch  35
+Epoch: 35 batch:  1 cost = 31.05383  test accuracy: 0.932
+Epoch: 35 batch:  2 cost = 31.05383  test accuracy: 0.931
+training finished for epoch  36
+Epoch: 36 batch:  1 cost = 31.03103  test accuracy: 0.927
+Epoch: 36 batch:  2 cost = 31.03103  test accuracy: 0.924
+training finished for epoch  37
+Epoch: 37 batch:  1 cost = 30.73716  test accuracy: 0.928
+Epoch: 37 batch:  2 cost = 30.73716  test accuracy: 0.925
+training finished for epoch 2018-12-24 00:44:29.717457: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1490] Adding visible gpu devices: 0, 1, 2, 3
+2018-12-24 00:44:29.717837: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-12-24 00:44:29.717853: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977]      0 1 2 3 
+2018-12-24 00:44:29.717860: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0:   N Y N N 
+2018-12-24 00:44:29.717866: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 1:   Y N N N 
+2018-12-24 00:44:29.717870: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 2:   N N N Y 
+2018-12-24 00:44:29.717875: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 3:   N N Y N 
+2018-12-24 00:44:29.718458: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 10759 MB memory) -> physical GPU (device: 0, name: Tesla K80, pci bus id: 0000:05:00.0, compute capability: 3.7)
+2018-12-24 00:44:29.718657: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 10759 MB memory) -> physical GPU (device: 1, name: Tesla K80, pci bus id: 0000:06:00.0, compute capability: 3.7)
+2018-12-24 00:44:29.718776: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 10759 MB memory) -> physical GPU (device: 2, name: Tesla K80, pci bus id: 0000:84:00.0, compute capability: 3.7)
+2018-12-24 00:44:29.718902: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 10759 MB memory) -> physical GPU (device: 3, name: Tesla K80, pci bus id: 0000:85:00.0, compute capability: 3.7)
+ 38
+Epoch: 38 batch:  1 cost = 30.61815  test accuracy: 0.929
+Epoch: 38 batch:  2 cost = 30.61815  test accuracy: 0.926
+training finished for epoch  39
+Epoch: 39 batch:  1 cost = 30.45899  test accuracy: 0.928
+Epoch: 39 batch:  2 cost = 30.45899  test accuracy: 0.925
+training finished for epoch  40
+Epoch: 40 batch:  1 cost = 30.43960  test accuracy: 0.929
+Epoch: 40 batch:  2 cost = 30.43960  test accuracy: 0.927
+training finished for epoch  41
+Epoch: 41 batch:  1 cost = 30.52554  test accuracy: 0.914
+Epoch: 41 batch:  2 cost = 30.52554  test accuracy: 0.913
+training finished for epoch  42
+Epoch: 42 batch:  1 cost = 30.33881  test accuracy: 0.916
+Epoch: 42 batch:  2 cost = 30.33881  test accuracy: 0.914
+training finished for epoch  43
+Epoch: 43 batch:  1 cost = 30.25318  test accuracy: 0.916
+Epoch: 43 batch:  2 cost = 30.25318  test accuracy: 0.914
+training finished for epoch  44
+Epoch: 44 batch:  1 cost = 30.22170  test accuracy: 0.917
+Epoch: 44 batch:  2 cost = 30.22170  test accuracy: 0.914
+training finished for epoch  45
+Epoch: 45 batch:  1 cost = 30.17098  test accuracy: 0.917
+Epoch: 45 batch:  2 cost = 30.17098  test accuracy: 0.914
+training finished for epoch  46
+Epoch: 46 batch:  1 cost = 30.19666  test accuracy: 0.900
+Epoch: 46 batch:  2 cost = 30.19666  test accuracy: 0.896
+training finished for epoch  47
+Epoch: 47 batch:  1 cost = 30.12774  test accuracy: 0.900
+Epoch: 47 batch:  2 cost = 30.12774  test accuracy: 0.898
+training finished for epoch  48
+Epoch: 48 batch:  1 cost = 30.07209  test accuracy: 0.901
+Epoch: 48 batch:  2 cost = 30.07209  test accuracy: 0.898
+training finished for epoch  49
+Epoch: 49 batch:  1 cost = 30.05185  test accuracy: 0.901
+Epoch: 49 batch:  2 cost = 30.05185  test accuracy: 0.898
+training finished for epoch  50
+Epoch: 50 batch:  1 cost = 30.02478  test accuracy: 0.901
+Epoch: 50 batch:  2 cost = 30.02478  test accuracy: 0.898
+
+Training complete for model  2 !
+training finished for epoch  1
+Epoch: 1 batch:  1 cost = 59.25601  test accuracy: 0.925
+Epoch: 1 batch:  2 cost = 59.25601  test accuracy: 0.922
+Epoch: 1 batch:  3 cost = 59.25601  test accuracy: 0.929
+Epoch: 1 batch:  4 cost = 59.25601  test accuracy: 0.927
+training finished for epoch  2
+Epoch: 2 batch:  1 cost = 49.14668  test accuracy: 0.789
+Epoch: 2 batch:  2 cost = 49.14668  test accuracy: 0.783
+Epoch: 2 batch:  3 cost = 49.14668  test accuracy: 0.800
+Epoch: 2 batch:  4 cost = 49.14668  test accuracy: 0.796
+training finished for epoch  3
+Epoch: 3 batch:  1 cost = 45.69679  test accuracy: 0.772
+Epoch: 3 batch:  2 cost = 45.69679  test accuracy: 0.766
+Epoch: 3 batch:  3 cost = 45.69679  test accuracy: 0.779
+Epoch: 3 batch:  4 cost = 45.69679  test accuracy: 0.776
+training finished for epoch  4
+Epoch: 4 batch:  1 cost = 45.35248  test accuracy: 0.896
+Epoch: 4 batch:  2 cost = 45.35248  test accuracy: 0.894
+Epoch: 4 batch:  3 cost = 45.35248  test accuracy: 0.904
+Epoch: 4 batch:  4 cost = 45.35248  test accuracy: 0.906
+training finished for epoch  5
+Epoch: 5 batch:  1 cost = 44.45191  test accuracy: 0.722
+Epoch: 5 batch:  2 cost = 44.45191  test accuracy: 0.710
+Epoch: 5 batch:  3 cost = 44.45191  test accuracy: 0.719
+Epoch: 5 batch:  4 cost = 44.45191  test accuracy: 0.717
+training finished for epoch  6
+Epoch: 6 batch:  1 cost = 42.19674  test accuracy: 0.893
+Epoch: 6 batch:  2 cost = 42.19674  test accuracy: 0.892
+Epoch: 6 batch:  3 cost = 42.19674  test accuracy: 0.899
+Epoch: 6 batch:  4 cost = 42.19674  test accuracy: 0.901
+training finished for epoch  7
+Epoch: 7 batch:  1 cost = 40.64337  test accuracy: 0.898
+Epoch: 7 batch:  2 cost = 40.64337  test accuracy: 0.895
+Epoch: 7 batch:  3 cost = 40.64337  test accuracy: 0.906
+Epoch: 7 batch:  4 cost = 40.64337  test accuracy: 0.908
+training finished for epoch  8
+Epoch: 8 batch:  1 cost = 40.26218  test accuracy: 0.882
+Epoch: 8 batch:  2 cost = 40.26218  test accuracy: 0.880
+Epoch: 8 batch:  3 cost = 40.26218  test accuracy: 0.891
+Epoch: 8 batch:  4 cost = 40.26218  test accuracy: 0.892
+training finished for epoch  9
+Epoch: 9 batch:  1 cost = 40.26781  test accuracy: 0.875
+Epoch: 9 batch:  2 cost = 40.26781  test accuracy: 0.869
+Epoch: 9 batch:  3 cost = 40.26781  test accuracy: 0.880
+Epoch: 9 batch:  4 cost = 40.26781  test accuracy: 0.878
+training finished for epoch  10
+Epoch: 10 batch:  1 cost = 40.49561  test accuracy: 0.884
+Epoch: 10 batch:  2 cost = 40.49561  test accuracy: 0.884
+Epoch: 10 batch:  3 cost = 40.49561  test accuracy: 0.894
+Epoch: 10 batch:  4 cost = 40.49561  test accuracy: 0.893
+training finished for epoch  11
+Epoch: 11 batch:  1 cost = 39.62963  test accuracy: 0.940
+Epoch: 11 batch:  2 cost = 39.62963  test accuracy: 0.933
+Epoch: 11 batch:  3 cost = 39.62963  test accuracy: 0.941
+Epoch: 11 batch:  4 cost = 39.62963  test accuracy: 0.943
+training finished for epoch  12
+Epoch: 12 batch:  1 cost = 38.88968  test accuracy: 0.935
+Epoch: 12 batch:  2 cost = 38.88968  test accuracy: 0.932
+Epoch: 12 batch:  3 cost = 38.88968  test accuracy: 0.939
+Epoch: 12 batch:  4 cost = 38.88968  test accuracy: 0.941
+training finished for epoch  13
+Epoch: 13 batch:  1 cost = 38.54475  test accuracy: 0.927
+Epoch: 13 batch:  2 cost = 38.54475  test accuracy: 0.920
+Epoch: 13 batch:  3 cost = 38.54475  test accuracy: 0.929
+Epoch: 13 batch:  4 cost = 38.54475  test accuracy: 0.928
+training finished for epoch  14
+Epoch: 14 batch:  1 cost = 38.33672  test accuracy: 0.930
+Epoch: 14 batch:  2 cost = 38.33672  test accuracy: 0.926
+Epoch: 14 batch:  3 cost = 38.33672  test accuracy: 0.933
+Epoch: 14 batch:  4 cost = 38.33672  test accuracy: 0.934
+training finished for epoch  15
+Epoch: 15 batch:  1 cost = 37.69804  test accuracy: 0.932
+Epoch: 15 batch:  2 cost = 37.69804  test accuracy: 0.928
+Epoch: 15 batch:  3 cost = 37.69804  test accuracy: 0.936
+Epoch: 15 batch:  4 cost = 37.69804  test accuracy: 0.936
+training finished for epoch  16
+Epoch: 16 batch:  1 cost = 36.59369  test accuracy: 0.884
+Epoch: 16 batch:  2 cost = 36.59369  test accuracy: 0.878
+Epoch: 16 batch:  3 cost = 36.59369  test accuracy: 0.890
+Epoch: 16 batch:  4 cost = 36.59369  test accuracy: 0.890
+training finished for epoch  17
+Epoch: 17 batch:  1 cost = 36.09230  test accuracy: 0.890
+Epoch: 17 batch:  2 cost = 36.09230  test accuracy: 0.882
+Epoch: 17 batch:  3 cost = 36.09230  test accuracy: 0.895
+Epoch: 17 batch:  4 cost = 36.09230  test accuracy: 0.896
+training finished for epoch  18
+Epoch: 18 batch:  1 cost = 35.96302  test accuracy: 0.894
+Epoch: 18 batch:  2 cost = 35.96302  test accuracy: 0.888
+Epoch: 18 batch:  3 cost = 35.96302  test accuracy: 0.898
+Epoch: 18 batch:  4 cost = 35.96302  test accuracy: 0.900
+training finished for epoch  19
+Epoch: 19 batch:  1 cost = 34.86026  test accuracy: 0.873
+Epoch: 19 batch:  2 cost = 34.86026  test accuracy: 0.867
+Epoch: 19 batch:  3 cost = 34.86026  test accuracy: 0.875
+Epoch: 19 batch:  4 cost = 34.86026  test accuracy: 0.880
+training finished for epoch  20
+Epoch: 20 batch:  1 cost = 33.42893  test accuracy: 0.870
+Epoch: 20 batch:  2 cost = 33.42893  test accuracy: 0.867
+Epoch: 20 batch:  3 cost = 33.42893  test accuracy: 0.871
+Epoch: 20 batch:  4 cost = 33.42893  test accuracy: 0.882
+training finished for epoch  21
+Epoch: 21 batch:  1 cost = 32.87328  test accuracy: 0.922
+Epoch: 21 batch:  2 cost = 32.87328  test accuracy: 0.918
+Epoch: 21 batch:  3 cost = 32.87328  test accuracy: 0.927
+Epoch: 21 batch:  4 cost = 32.87328  test accuracy: 0.929
+training finished for epoch  22
+Epoch: 22 batch:  1 cost = 31.76890  test accuracy: 0.956
+Epoch: 22 batch:  2 cost = 31.76890  test accuracy: 0.953
+Epoch: 22 batch:  3 cost = 31.76890  test accuracy: 0.957
+Epoch: 22 batch:  4 cost = 31.76890  test accuracy: 0.958
+training finished for epoch  23
+Epoch: 23 batch:  1 cost = 30.01811  test accuracy: 0.951
+Epoch: 23 batch:  2 cost = 30.01811  test accuracy: 0.951
+Epoch: 23 batch:  3 cost = 30.01811  test accuracy: 0.957
+Epoch: 23 batch:  4 cost = 30.01811  test accuracy: 0.958
+training finished for epoch  24
+Epoch: 24 batch:  1 cost = 28.44408  test accuracy: 0.953
+Epoch: 24 batch:  2 cost = 28.44408  test accuracy: 0.952
+Epoch: 24 batch:  3 cost = 28.44408  test accuracy: 0.958
+Epoch: 24 batch:  4 cost = 28.44408slurmstepd: error: *** JOB 3972167 ON bahram CANCELLED AT 2018-12-24T16:09:49 DUE TO TIME LIMIT ***

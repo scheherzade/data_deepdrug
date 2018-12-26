@@ -1,0 +1,18 @@
+]0;IPython: deepdrug/scriptsCommand Line:  20
+test_set: 20
+set 20
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.99      0.92      0.96      7326
+      active       0.18      0.68      0.28       176
+
+   micro avg       0.92      0.92      0.92      7502
+   macro avg       0.59      0.80      0.62      7502
+weighted avg       0.97      0.92      0.94      7502
+
+confusion matrix:
+[[6773  553]
+ [  56  120]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
