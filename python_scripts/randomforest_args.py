@@ -7,7 +7,7 @@ Created on Wed Nov 14 15:31:01 2018
 """
 
 import glob
-import cv2
+#import cv2
 import pickle
 import numpy as np
 #from rdkit.Chem import PandasTools
@@ -25,19 +25,22 @@ import statistics
 #arguments
 ########################################################################
 import argparse
-if not len(sys.argv) == 2 :
+if not len(sys.argv) == 3 :
     print("This program requires the following 1 argument: test_id ")
     exit(-57)
 
 parser = argparse.ArgumentParser(description='Parameters')
 parser.add_argument('integers', type=int, nargs=1,
                     help='test_set')
-
+parser.add_argument('strings', type=str, nargs=1,
+                    help='save_path')
 args = parser.parse_args()
-print("Command Line: " ,args.integers[0])
+print("Command Line: " ,args.integers[0], args.strings[0])
 
 test_id = args.integers[0]
 print("test_set: "+str(test_id))
+np_save_path = args.strings[0]
+
 ##########################################################################
 #parameters
 ##########################################################################   
@@ -216,6 +219,8 @@ try:
     print(roc_auc_score(test_set, p))
 except ValueError:
         print('Only one class present in y_true. ROC AUC score is not defined in that case.')
+np.save(np_save_path+'/test_id_'+str(test_id)+'_true.npy', test_labels)
+np.save(np_save_path+'/test_id_'+str(test_id)+'_pred.npy', p)
        
         
 #        if roc_plot:  
@@ -228,3 +233,4 @@ except ValueError:
 #            for i in range(2):
 #                fpr[i], tpr[i], _ = roc_curve(p[:], t[:])
 #                roc_auc[i] = sklearn.metrics.auc(fpr[i], tpr[i])
+
