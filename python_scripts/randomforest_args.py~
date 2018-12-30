@@ -212,7 +212,7 @@ clf.fit(training_set, training_labels)
 
 p=clf.predict(test_set)
 run_model=time.time()-run_model
-print("time: "+str(run_model))
+print("time: "+str(rune_model))
 print("shape of p: ", np.shape(p))
 print("#of 1s: ", np.sum(p))
 print("set "+ str(test_id))

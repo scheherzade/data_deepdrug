@@ -285,52 +285,51 @@ def data_gen(set_i, epochs):
                 yield (training_set, training_labels, test_set, test_labels, receptor_list[set_i] , receptor_list[set_j])
 
 
-for test_id in range(len(receptor_list)):
-    applied_rate=0.001
+applied_rate=0.001
 
-    # setup the initialisation operator            
-    init_op = tf.global_variables_initializer()
-    init_loc_op = tf.local_variables_initializer()
-    with tf.Session() as sess:
-        # initialise the variables
-        sess.run(init_op)
-        sess.run(init_loc_op)
-        my_data=data_gen(test_id, epochs)
-        step=0
- 
-        for epoch in range(epochs):
-            avg_cost = 0
-            for train_id in range(num_data_sets-1):   
-                step=step+1
-                if step%500==0:
-                    applied_rate *= 0.5
+# setup the initialisation operator            
+init_op = tf.global_variables_initializer()
+init_loc_op = tf.local_variables_initializer()
+with tf.Session() as sess:
+    # initialise the variables
+    sess.run(init_op)
+    sess.run(init_loc_op)
+    my_data=data_gen(test_id, epochs)
+    step=0
 
-                (training_set, training_labels, test_set, test_labels,set_i, set_j)=next(my_data)
-                total_batch = int(np.shape(training_set)[0] / batch_size)
-                total_batch_test = int(np.shape(test_set)[0] / batch_size_test)
-                for i in range(total_batch):
-                    batch_x = training_set[i*batch_size:(i+1)*batch_size,300:]
-                    batch_y =training_labels[i*batch_size:(i+1)*batch_size] 
-                    batch_z =training_set[i*batch_size:(i+1)*batch_size,0:300]
-        
-                    _, c = sess.run([optimiser, loss], feed_dict={x: batch_x, y: batch_y, z: batch_z, learning_rate_tf:applied_rate})
-        
-                    avg_cost += c / total_batch
-#                train_acc = sess.run(accuracy, feed_dict={x: batch_x, y: batch_y, z: batch_z,learning_rate_tf:applied_rate})
- #               print("Epoch:", (epoch + 1), " train accuracy: {:.3f}".format(train_acc))
+    for epoch in range(epochs):
+        avg_cost = 0
+        for train_id in range(num_data_sets-1):   
+            step=step+1
+            if step%500==0:
+                applied_rate *= 0.5
 
-            print("training finished for epoch ",epoch+1)
-            for j in range(total_batch_test):
-                batch_x_test = test_set[j*batch_size_test:(j+1)*batch_size_test,300:]
-                batch_y_test =test_labels[j*batch_size_test:(j+1)*batch_size_test,:]
-                batch_z_test =test_set[j*batch_size_test:(j+1)*batch_size_test,0:300]
+            (training_set, training_labels, test_set, test_labels,set_i, set_j)=next(my_data)
+            total_batch = int(np.shape(training_set)[0] / batch_size)
+            total_batch_test = int(np.shape(test_set)[0] / batch_size_test)
+            for i in range(total_batch):
+                batch_x = training_set[i*batch_size:(i+1)*batch_size,300:]
+                batch_y =training_labels[i*batch_size:(i+1)*batch_size] 
+                batch_z =training_set[i*batch_size:(i+1)*batch_size,0:300]
+    
+                _, c = sess.run([optimiser, loss], feed_dict={x: batch_x, y: batch_y, z: batch_z, learning_rate_tf:applied_rate})
+    
+                avg_cost += c / total_batch
+            train_acc = sess.run(accuracy, feed_dict={x: batch_x, y: batch_y, z: batch_z,learning_rate_tf:applied_rate})
+            print("Epoch:", (epoch + 1), " train accuracy: {:.3f}".format(train_acc))
 
-                test_acc = sess.run(accuracy, feed_dict={x: batch_x_test, y: batch_y_test, z: batch_z_test})
-                np.save(np_save_path+'/batch_'+str(train_id)+'_'+str(j)+'_true.npy',batch_y_test)
-                pr=sess.run(y_, feed_dict={x: batch_x_test, y: batch_y_test, z: batch_z_test})
-                np.save(np_save_path+'/batch_'+str(train_id)+'_'+str(j)+'_pred.npy', pr)
+        print("training finished for epoch ",epoch+1)
+        for j in range(total_batch_test):
+            batch_x_test = test_set[j*batch_size_test:(j+1)*batch_size_test,300:]
+            batch_y_test =test_labels[j*batch_size_test:(j+1)*batch_size_test,:]
+            batch_z_test =test_set[j*batch_size_test:(j+1)*batch_size_test,0:300]
 
-                print("Epoch:", (epoch + 1), "batch: ",(j+1),"cost =", "{:.5f}".format(avg_cost), " test accuracy: {:.3f}".format(test_acc))
+            test_acc = sess.run(accuracy, feed_dict={x: batch_x_test, y: batch_y_test, z: batch_z_test})
+            np.save(np_save_path+'/batch_'+str(test_id)+'_'+str(j)+'_true.npy',batch_y_test)
+            pr=sess.run(y_, feed_dict={x: batch_x_test, y: batch_y_test, z: batch_z_test})
+            np.save(np_save_path+'/batch_'+str(test_id)+'_'+str(j)+'_pred.npy', pr)
+
+            print("Epoch:", (epoch + 1), "batch: ",(j+1),"cost =", "{:.5f}".format(avg_cost), " test accuracy: {:.3f}".format(test_acc))
 #                print(sess.run(confusion, feed_dict={x: batch_x_test, y: batch_y_test, z: batch_z_test}))
 #                print(sess.run(auc, feed_dict={x: batch_x_test, y: batch_y_test, z: batch_z_test}))
                 
