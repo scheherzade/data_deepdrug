@@ -1,0 +1,6 @@
+tee: /home/sshirzad/workspace/deepdrug/results/2018-11-13-1221/CNN/0: Is a directory
+]0;IPython: CNN/0[0;36m  File [0;32m"/home/sshirzad/workspace/deepdrug/python_scripts/CNN_12_14.py"[0;36m, line [0;32m318[0m
+[0;31m    train_acc = sess.run(accuracy, feed_dict={x: batch_x, y: batch_y, z: batch_z,learning_rate_tf:applied_rate})[0m
+[0m                                                                                                                ^[0m
+[0;31mIndentationError[0m[0;31m:[0m unindent does not match any outer indentation level
+

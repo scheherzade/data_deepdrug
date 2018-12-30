@@ -1,0 +1,10 @@
+[TerminalIPythonApp] ERROR | Failed to create history session in /home/sshirzad/.ipython/profile_default/history.sqlite. History will not be saved.
+Traceback (most recent call last):
+  File "/home/sshirzad/anaconda3/lib/python3.6/site-packages/IPython/core/history.py", line 543, in __init__
+    self.new_session()
+  File "<decorator-gen-22>", line 2, in new_session
+  File "/home/sshirzad/anaconda3/lib/python3.6/site-packages/IPython/core/history.py", line 58, in needs_sqlite
+    return f(self, *a, **kw)
+  File "/home/sshirzad/anaconda3/lib/python3.6/site-packages/IPython/core/history.py", line 570, in new_session
+    self.session_number = cur.lastrowid
+sqlite3.OperationalError: disk I/O error

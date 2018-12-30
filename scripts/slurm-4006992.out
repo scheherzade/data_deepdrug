@@ -1,0 +1,32 @@
+/home/sshirzad/anaconda3/lib/python3.6/site-packages/sklearn/externals/joblib/externals/cloudpickle/cloudpickle.py:47: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+[Parallel(n_jobs=16)]: Using backend ThreadingBackend with 16 concurrent workers.
+[Parallel(n_jobs=16)]: Done  18 tasks      | elapsed: 36.7min
+[Parallel(n_jobs=16)]: Done 168 tasks      | elapsed: 202.5min
+[Parallel(n_jobs=16)]: Done 418 tasks      | elapsed: 495.2min
+[Parallel(n_jobs=16)]: Done 500 out of 500 | elapsed: 585.0min finished
+[Parallel(n_jobs=16)]: Using backend ThreadingBackend with 16 concurrent workers.
+[Parallel(n_jobs=16)]: Done  18 tasks      | elapsed:    0.0s
+[Parallel(n_jobs=16)]: Done 168 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=16)]: Done 418 tasks      | elapsed:    0.2s
+[Parallel(n_jobs=16)]: Done 500 out of 500 | elapsed:    0.3s finished
+]0;IPython: RF/11Command Line:  11 /home/sshirzad/workspace/deepdrug/results/2018-11-13-1221/RF/11/npy
+test_set: 11
+shape of p:  (2816,)
+#of 1s:  159.0
+set 11
+classification report
+              precision    recall  f1-score   support
+
+       decoy       0.98      0.95      0.96      2757
+      active       0.06      0.15      0.08        59
+
+   micro avg       0.93      0.93      0.93      2816
+   macro avg       0.52      0.55      0.52      2816
+weighted avg       0.96      0.93      0.94      2816
+
+confusion matrix:
+[[2607  150]
+ [  50    9]]
+auc:
+Only one class present in y_true. ROC AUC score is not defined in that case.
