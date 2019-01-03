@@ -208,8 +208,8 @@ read_data_time=time.time()-read_data_time
 print("read data (s): "+str(read_data_time))
 run_model=time.time()
 clf = RandomForestClassifier(verbose=1,n_estimators=500,n_jobs=16,max_features=None,max_depth=10,class_weight="balanced_subsample")    
-clf.fit(training_set, training_labels)
-
+#clf.fit(training_set, training_labels)
+prob= clf.fit(training_set, training_labels).predict_proba(test_set)
 p=clf.predict(test_set)
 run_model=time.time()-run_model
 print("time: "+str(run_model))
@@ -222,11 +222,11 @@ print("confusion matrix:")
 print(confusion_matrix(test_labels,p))
 print("auc:")       
 try:            
-    print(roc_auc_score(test_set, p))
+    print(roc_auc_score(test_set, prob))
 except ValueError:
         print('Only one class present in y_true. ROC AUC score is not defined in that case.')
 np.save(np_save_path+'/test_id_'+str(test_id)+'_true.npy', test_labels)
-np.save(np_save_path+'/test_id_'+str(test_id)+'_pred.npy', p)
+np.save(np_save_path+'/test_id_'+str(test_id)+'_pred.npy', prob)
        
         
 #        if roc_plot:  
