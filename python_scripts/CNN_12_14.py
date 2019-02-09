@@ -6,12 +6,12 @@ Created on Tue Sep 25 17:45:08 2018
 @author: shahrzad
 """
 import glob
-import cv2
-from scipy.spatial.qhull import QhullError
+#import cv2
+#from scipy.spatial.qhull import QhullError
 import pickle
 import numpy as np
 import tensorflow as tf
-from rdkit.Chem import PandasTools
+#from rdkit.Chem import PandasTools
 import random
 import sys
 
@@ -76,6 +76,7 @@ ligands_folder = glob.glob(directory + 'screen-libs-sdf/*.sdf')
 ################################################################################################ 
 
 if generate_ligand:
+    from rdkit.Chem import PandasTools
     from mol2vec.features import mol2alt_sentence, MolSentence, DfVec, sentences2vec
     from gensim.models import word2vec
 
@@ -111,6 +112,8 @@ else:
 #Data
 #####################################################             
 if generate_images:
+    import cv2
+    from scipy.spatial.qhull import QhullError
     receptors = sorted(glob.glob(directory + 'pockets_dude_tiff_128/'+date_str+'/*.png'))
     d={}
     i=1
